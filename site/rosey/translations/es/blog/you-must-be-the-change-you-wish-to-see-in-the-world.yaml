@@ -3,17 +3,17 @@ _inputs:
   $:
     type: object
     comment: "[See
-      blog/you-must-be-the-change-you-wish-to-see-in-the-world](https://suave-c\
-      hamois.cloudvent.net/blog/you-must-be-the-change-you-wish-to-see-in-the-w\
-      orld)"
+      blog/you-must-be-the-change-you-wish-to-see-in-the-world](https://brisk-s\
+      mokescreen.cloudvent.net/blog/you-must-be-the-change-you-wish-to-see-in-t\
+      he-world)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [blog/you-must-be-the-change-you-wish-to-see-in-the-world](https://suave-chamois.cloudvent.net/blog/you-must-be-the-change-you-wish-to-see-in-the-world)
+            [blog/you-must-be-the-change-you-wish-to-see-in-the-world](https://brisk-smokescreen.cloudvent.net/blog/you-must-be-the-change-you-wish-to-see-in-the-world)
           inputs: []
         - heading: Already translated (es)
           comment: Text already translated on
-            [blog/you-must-be-the-change-you-wish-to-see-in-the-world](https://suave-chamois.cloudvent.net/blog/you-must-be-the-change-you-wish-to-see-in-the-world)
+            [blog/you-must-be-the-change-you-wish-to-see-in-the-world](https://brisk-smokescreen.cloudvent.net/blog/you-must-be-the-change-you-wish-to-see-in-the-world)
           inputs: []

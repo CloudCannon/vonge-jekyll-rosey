@@ -3,17 +3,17 @@ _inputs:
   $:
     type: object
     comment: "[See
-      blog/strive-not-to-be-a-success-but-rather-to-be-of-value](https://suave-\
-      chamois.cloudvent.net/blog/strive-not-to-be-a-success-but-rather-to-be-of\
-      -value)"
+      blog/strive-not-to-be-a-success-but-rather-to-be-of-value](https://brisk-\
+      smokescreen.cloudvent.net/blog/strive-not-to-be-a-success-but-rather-to-b\
+      e-of-value)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [blog/strive-not-to-be-a-success-but-rather-to-be-of-value](https://suave-chamois.cloudvent.net/blog/strive-not-to-be-a-success-but-rather-to-be-of-value)
+            [blog/strive-not-to-be-a-success-but-rather-to-be-of-value](https://brisk-smokescreen.cloudvent.net/blog/strive-not-to-be-a-success-but-rather-to-be-of-value)
           inputs: []
         - heading: Already translated (jp)
           comment: Text already translated on
-            [blog/strive-not-to-be-a-success-but-rather-to-be-of-value](https://suave-chamois.cloudvent.net/blog/strive-not-to-be-a-success-but-rather-to-be-of-value)
+            [blog/strive-not-to-be-a-success-but-rather-to-be-of-value](https://brisk-smokescreen.cloudvent.net/blog/strive-not-to-be-a-success-but-rather-to-be-of-value)
           inputs: []

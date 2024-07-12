@@ -3,16 +3,17 @@ _inputs:
   $:
     type: object
     comment: "[See
-      blog/do-what-you-can-with-what-you-have-where-you-are](https://suave-cham\
-      ois.cloudvent.net/blog/do-what-you-can-with-what-you-have-where-you-are)"
+      blog/do-what-you-can-with-what-you-have-where-you-are](https://brisk-smok\
+      escreen.cloudvent.net/blog/do-what-you-can-with-what-you-have-where-you-a\
+      re)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [blog/do-what-you-can-with-what-you-have-where-you-are](https://suave-chamois.cloudvent.net/blog/do-what-you-can-with-what-you-have-where-you-are)
+            [blog/do-what-you-can-with-what-you-have-where-you-are](https://brisk-smokescreen.cloudvent.net/blog/do-what-you-can-with-what-you-have-where-you-are)
           inputs: []
         - heading: Already translated (es)
           comment: Text already translated on
-            [blog/do-what-you-can-with-what-you-have-where-you-are](https://suave-chamois.cloudvent.net/blog/do-what-you-can-with-what-you-have-where-you-are)
+            [blog/do-what-you-can-with-what-you-have-where-you-are](https://brisk-smokescreen.cloudvent.net/blog/do-what-you-can-with-what-you-have-where-you-are)
           inputs: []

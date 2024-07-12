@@ -3,16 +3,16 @@ _inputs:
   $:
     type: object
     comment: "[See
-      project/quiet-lake](https://suave-chamois.cloudvent.net/project/quiet-lak\
-      e)"
+      project/quiet-lake](https://brisk-smokescreen.cloudvent.net/project/quiet\
+      -lake)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [project/quiet-lake](https://suave-chamois.cloudvent.net/project/quiet-lake)
+            [project/quiet-lake](https://brisk-smokescreen.cloudvent.net/project/quiet-lake)
           inputs: []
         - heading: Already translated (jp)
           comment: Text already translated on
-            [project/quiet-lake](https://suave-chamois.cloudvent.net/project/quiet-lake)
+            [project/quiet-lake](https://brisk-smokescreen.cloudvent.net/project/quiet-lake)
           inputs: []

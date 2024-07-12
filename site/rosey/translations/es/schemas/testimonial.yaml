@@ -3,16 +3,16 @@ _inputs:
   $:
     type: object
     comment: "[See
-      schemas/testimonial](https://suave-chamois.cloudvent.net/schemas/testimon\
-      ial)"
+      schemas/testimonial](https://brisk-smokescreen.cloudvent.net/schemas/test\
+      imonial)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [schemas/testimonial](https://suave-chamois.cloudvent.net/schemas/testimonial)
+            [schemas/testimonial](https://brisk-smokescreen.cloudvent.net/schemas/testimonial)
           inputs: []
         - heading: Already translated (es)
           comment: Text already translated on
-            [schemas/testimonial](https://suave-chamois.cloudvent.net/schemas/testimonial)
+            [schemas/testimonial](https://brisk-smokescreen.cloudvent.net/schemas/testimonial)
           inputs: []

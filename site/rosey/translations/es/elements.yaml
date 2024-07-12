@@ -2,15 +2,15 @@ urlTranslation: elements/index.html
 _inputs:
   $:
     type: object
-    comment: "[See elements/](https://suave-chamois.cloudvent.net/elements/)"
+    comment: "[See elements/](https://brisk-smokescreen.cloudvent.net/elements/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [elements/](https://suave-chamois.cloudvent.net/elements/)
+            [elements/](https://brisk-smokescreen.cloudvent.net/elements/)
           inputs: []
         - heading: Already translated (es)
           comment: Text already translated on
-            [elements/](https://suave-chamois.cloudvent.net/elements/)
+            [elements/](https://brisk-smokescreen.cloudvent.net/elements/)
           inputs: []

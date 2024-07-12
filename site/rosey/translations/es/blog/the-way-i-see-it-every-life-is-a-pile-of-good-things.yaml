@@ -3,17 +3,17 @@ _inputs:
   $:
     type: object
     comment: "[See
-      blog/the-way-i-see-it-every-life-is-a-pile-of-good-things](https://suave-\
-      chamois.cloudvent.net/blog/the-way-i-see-it-every-life-is-a-pile-of-good-\
-      things)"
+      blog/the-way-i-see-it-every-life-is-a-pile-of-good-things](https://brisk-\
+      smokescreen.cloudvent.net/blog/the-way-i-see-it-every-life-is-a-pile-of-g\
+      ood-things)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [blog/the-way-i-see-it-every-life-is-a-pile-of-good-things](https://suave-chamois.cloudvent.net/blog/the-way-i-see-it-every-life-is-a-pile-of-good-things)
+            [blog/the-way-i-see-it-every-life-is-a-pile-of-good-things](https://brisk-smokescreen.cloudvent.net/blog/the-way-i-see-it-every-life-is-a-pile-of-good-things)
           inputs: []
         - heading: Already translated (es)
           comment: Text already translated on
-            [blog/the-way-i-see-it-every-life-is-a-pile-of-good-things](https://suave-chamois.cloudvent.net/blog/the-way-i-see-it-every-life-is-a-pile-of-good-things)
+            [blog/the-way-i-see-it-every-life-is-a-pile-of-good-things](https://brisk-smokescreen.cloudvent.net/blog/the-way-i-see-it-every-life-is-a-pile-of-good-things)
           inputs: []

@@ -3,16 +3,16 @@ _inputs:
   $:
     type: object
     comment: "[See
-      project/big-airplane](https://suave-chamois.cloudvent.net/project/big-air\
-      plane)"
+      project/big-airplane](https://brisk-smokescreen.cloudvent.net/project/big\
+      -airplane)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [project/big-airplane](https://suave-chamois.cloudvent.net/project/big-airplane)
+            [project/big-airplane](https://brisk-smokescreen.cloudvent.net/project/big-airplane)
           inputs: []
         - heading: Already translated (jp)
           comment: Text already translated on
-            [project/big-airplane](https://suave-chamois.cloudvent.net/project/big-airplane)
+            [project/big-airplane](https://brisk-smokescreen.cloudvent.net/project/big-airplane)
           inputs: []

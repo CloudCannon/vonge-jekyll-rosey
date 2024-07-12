@@ -3,16 +3,16 @@ _inputs:
   $:
     type: object
     comment: "[See
-      project/green-plant](https://suave-chamois.cloudvent.net/project/green-pl\
-      ant)"
+      project/green-plant](https://brisk-smokescreen.cloudvent.net/project/gree\
+      n-plant)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [project/green-plant](https://suave-chamois.cloudvent.net/project/green-plant)
+            [project/green-plant](https://brisk-smokescreen.cloudvent.net/project/green-plant)
           inputs: []
         - heading: Already translated (es)
           comment: Text already translated on
-            [project/green-plant](https://suave-chamois.cloudvent.net/project/green-plant)
+            [project/green-plant](https://brisk-smokescreen.cloudvent.net/project/green-plant)
           inputs: []

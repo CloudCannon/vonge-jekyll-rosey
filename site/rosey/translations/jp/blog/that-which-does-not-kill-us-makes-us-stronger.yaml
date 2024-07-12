@@ -3,16 +3,16 @@ _inputs:
   $:
     type: object
     comment: "[See
-      blog/that-which-does-not-kill-us-makes-us-stronger](https://suave-chamois\
-      .cloudvent.net/blog/that-which-does-not-kill-us-makes-us-stronger)"
+      blog/that-which-does-not-kill-us-makes-us-stronger](https://brisk-smokesc\
+      reen.cloudvent.net/blog/that-which-does-not-kill-us-makes-us-stronger)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [blog/that-which-does-not-kill-us-makes-us-stronger](https://suave-chamois.cloudvent.net/blog/that-which-does-not-kill-us-makes-us-stronger)
+            [blog/that-which-does-not-kill-us-makes-us-stronger](https://brisk-smokescreen.cloudvent.net/blog/that-which-does-not-kill-us-makes-us-stronger)
           inputs: []
         - heading: Already translated (jp)
           comment: Text already translated on
-            [blog/that-which-does-not-kill-us-makes-us-stronger](https://suave-chamois.cloudvent.net/blog/that-which-does-not-kill-us-makes-us-stronger)
+            [blog/that-which-does-not-kill-us-makes-us-stronger](https://brisk-smokescreen.cloudvent.net/blog/that-which-does-not-kill-us-makes-us-stronger)
           inputs: []

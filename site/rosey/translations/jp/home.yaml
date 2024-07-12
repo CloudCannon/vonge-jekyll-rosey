@@ -2,19 +2,19 @@ urlTranslation: index.html
 _inputs:
   $:
     type: object
-    comment: "[See ](https://suave-chamois.cloudvent.net/)"
+    comment: "[See ](https://brisk-smokescreen.cloudvent.net/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
-          comment: Text to translate on [](https://suave-chamois.cloudvent.net/)
+          comment: Text to translate on [](https://brisk-smokescreen.cloudvent.net/)
           inputs:
             - get-in-touch
             - hi-there-i-am-vanessa-marley
             - p-strong-photographer-strong-and-strong-visual-content-strategist-strong-from-albany-i-work-as-a-lifestyle-product-and-landscape-photographer-creating-images-for-a-diverse-range-of-requests-from-online-media-to-printed-artwork-p
             - see-my-works
         - heading: Already translated (jp)
-          comment: Text already translated on [](https://suave-chamois.cloudvent.net/)
+          comment: Text already translated on [](https://brisk-smokescreen.cloudvent.net/)
           inputs: []
   get-in-touch:
     label: Get in touch
@@ -22,23 +22,23 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://suave-chamois.cloudvent.net/#:~:text=Get%20in%20touch)"
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Get%20in%20touch)"
   hi-there-i-am-vanessa-marley:
     label: Hi there, I am Vanessa Marley
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://suave-chamois.cloudvent.net/#:~:text=Hi%20there%20I%20am%20\
-      Vanessa%20Marley)"
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Hi%20there%20I%20a\
+      m%20Vanessa%20Marley)"
   p-strong-photographer-strong-and-strong-visual-content-strategist-strong-from-albany-i-work-as-a-lifestyle-product-and-landscape-photographer-creating-images-for-a-diverse-range-of-requests-from-online-media-to-printed-artwork-p:
     label: Photographer and Visual Content Strategist...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://suave-chamois.cloudvent.net/#:~:text=Photographer%20and%20V\
-      isual,to%20printed%20artwork)"
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Photographer%20and\
+      %20Visual,to%20printed%20artwork)"
     context:
       open: false
       title: Untranslated Text
@@ -52,7 +52,7 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See on
-      page](https://suave-chamois.cloudvent.net/#:~:text=See%20my%20works)"
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=See%20my%20works)"
 get-in-touch: ""
 hi-there-i-am-vanessa-marley: ""
 p-strong-photographer-strong-and-strong-visual-content-strategist-strong-from-albany-i-work-as-a-lifestyle-product-and-landscape-photographer-creating-images-for-a-diverse-range-of-requests-from-online-media-to-printed-artwork-p: ""

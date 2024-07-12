@@ -3,15 +3,16 @@ _inputs:
   $:
     type: object
     comment: "[See
-      project/mountains](https://suave-chamois.cloudvent.net/project/mountains)"
+      project/mountains](https://brisk-smokescreen.cloudvent.net/project/mounta\
+      ins)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [project/mountains](https://suave-chamois.cloudvent.net/project/mountains)
+            [project/mountains](https://brisk-smokescreen.cloudvent.net/project/mountains)
           inputs: []
         - heading: Already translated (es)
           comment: Text already translated on
-            [project/mountains](https://suave-chamois.cloudvent.net/project/mountains)
+            [project/mountains](https://brisk-smokescreen.cloudvent.net/project/mountains)
           inputs: []
