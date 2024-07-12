@@ -16,10 +16,10 @@ _inputs:
             - email-address
             - email-input-placeholder
             - join-my-mailing-list
-            - markdown
             - next-project
             - photography
             - quiet-lake
+            - static
             - subscribe
         - heading: Already translated (jp)
           comment: Text already translated on
@@ -57,7 +57,31 @@ _inputs:
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
       Join%20my%20mailing%20list)"
-  markdown:
+  next-project:
+    label: Next Project
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
+      Next%20Project)"
+  photography:
+    label: Photography
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
+      Photography)"
+  quiet-lake:
+    label: Quiet Lake
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
+      Quiet%20Lake)"
+  static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
@@ -99,30 +123,6 @@ _inputs:
         Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui
         proposito sit conservatio sui, necesse est huic partes quoque sui caras
         suo genere laudabiles servari.
-  next-project:
-    label: Next Project
-    hidden: false
-    type: text
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
-      Next%20Project)"
-  photography:
-    label: Photography
-    hidden: false
-    type: text
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
-      Photography)"
-  quiet-lake:
-    label: Quiet Lake
-    hidden: false
-    type: textarea
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
-      Quiet%20Lake)"
   subscribe:
     label: Subscribe
     hidden: false
@@ -135,8 +135,8 @@ antelope-canyon: ""
 email-address: ""
 email-input-placeholder: ""
 join-my-mailing-list: ""
-markdown: ""
 next-project: ""
 photography: ""
 quiet-lake: ""
+static: ""
 subscribe: ""

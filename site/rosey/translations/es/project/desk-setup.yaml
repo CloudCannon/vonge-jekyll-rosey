@@ -16,10 +16,10 @@ _inputs:
             - email-address
             - email-input-placeholder
             - join-my-mailing-list
-            - markdown
             - next-project
             - photography
             - prague-city
+            - static
             - subscribe
         - heading: Already translated (es)
           comment: Text already translated on
@@ -57,7 +57,31 @@ _inputs:
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
       Join%20my%20mailing%20list)"
-  markdown:
+  next-project:
+    label: Next Project
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
+      Next%20Project)"
+  photography:
+    label: Photography
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
+      Photography)"
+  prague-city:
+    label: Prague city
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
+      Prague%20city)"
+  static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
@@ -99,30 +123,6 @@ _inputs:
         Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui
         proposito sit conservatio sui, necesse est huic partes quoque sui caras
         suo genere laudabiles servari.
-  next-project:
-    label: Next Project
-    hidden: false
-    type: text
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
-      Next%20Project)"
-  photography:
-    label: Photography
-    hidden: false
-    type: text
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
-      Photography)"
-  prague-city:
-    label: Prague city
-    hidden: false
-    type: textarea
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
-      Prague%20city)"
   subscribe:
     label: Subscribe
     hidden: false
@@ -135,8 +135,8 @@ desk-setup: ""
 email-address: ""
 email-input-placeholder: ""
 join-my-mailing-list: ""
-markdown: ""
 next-project: ""
 photography: ""
 prague-city: ""
+static: ""
 subscribe: ""

@@ -31,20 +31,20 @@
 	"tag/rest/index.html": {
 		"value": "tag/rest.html"
 	},
+	"tag/story/index.html": {
+		"value": "tag/story.html"
+	},
 	"tag/travel/index.html": {
 		"value": "tag/travel.html"
 	},
 	"schemas/page/index.html": {
 		"value": "schemas/page.html"
 	},
-	"tag/story/index.html": {
-		"value": "tag/story.html"
+	"schemas/project/index.html": {
+		"value": "schemas/project.html"
 	},
 	"schemas/post/index.html": {
 		"value": "schemas/post.html"
-	},
-	"schemas/project/index.html": {
-		"value": "schemas/project.html"
 	},
 	"schemas/testimonial/index.html": {
 		"value": "schemas/testimonial.html"
@@ -52,23 +52,23 @@
 	"project/antelope-anyon/index.html": {
 		"value": "project/antelope-anyon.html"
 	},
-	"project/big-airplane/index.html": {
-		"value": "project/big-airplane.html"
-	},
 	"project/desk-setup/index.html": {
 		"value": "project/desk-setup.html"
 	},
-	"project/green-plant/index.html": {
-		"value": "project/green-plant.html"
+	"project/big-airplane/index.html": {
+		"value": "project/big-airplane.html"
 	},
 	"project/mountains/index.html": {
 		"value": "project/mountains.html"
 	},
-	"project/prague-city/index.html": {
-		"value": "project/prague-city.html"
+	"project/green-plant/index.html": {
+		"value": "project/green-plant.html"
 	},
 	"project/quiet-lake/index.html": {
 		"value": "project/quiet-lake.html"
+	},
+	"project/prague-city/index.html": {
+		"value": "project/prague-city.html"
 	},
 	"project/sea-and-rest/index.html": {
 		"value": "project/sea-and-rest.html"
@@ -91,11 +91,11 @@
 	"blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": {
 		"value": "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html"
 	},
-	"blog/that-which-does-not-kill-us-makes-us-stronger/index.html": {
-		"value": "blog/that-which-does-not-kill-us-makes-us-stronger.html"
-	},
 	"blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": {
 		"value": "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html"
+	},
+	"blog/that-which-does-not-kill-us-makes-us-stronger/index.html": {
+		"value": "blog/that-which-does-not-kill-us-makes-us-stronger.html"
 	},
 	"blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": {
 		"value": "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html"

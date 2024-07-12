@@ -16,10 +16,10 @@ _inputs:
             - email-address
             - email-input-placeholder
             - join-my-mailing-list
-            - markdown
             - mountains
             - next-project
             - photography
+            - static
             - subscribe
         - heading: Already translated (jp)
           comment: Text already translated on
@@ -57,7 +57,31 @@ _inputs:
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=J\
       oin%20my%20mailing%20list)"
-  markdown:
+  mountains:
+    label: Mountains
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=M\
+      ountains)"
+  next-project:
+    label: Next Project
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=N\
+      ext%20Project)"
+  photography:
+    label: Photography
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=P\
+      hotography)"
+  static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
@@ -99,30 +123,6 @@ _inputs:
         Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui
         proposito sit conservatio sui, necesse est huic partes quoque sui caras
         suo genere laudabiles servari.
-  mountains:
-    label: Mountains
-    hidden: false
-    type: text
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=M\
-      ountains)"
-  next-project:
-    label: Next Project
-    hidden: false
-    type: text
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=N\
-      ext%20Project)"
-  photography:
-    label: Photography
-    hidden: false
-    type: text
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=P\
-      hotography)"
   subscribe:
     label: Subscribe
     hidden: false
@@ -135,8 +135,8 @@ big-airplane: ""
 email-address: ""
 email-input-placeholder: ""
 join-my-mailing-list: ""
-markdown: ""
 mountains: ""
 next-project: ""
 photography: ""
+static: ""
 subscribe: ""

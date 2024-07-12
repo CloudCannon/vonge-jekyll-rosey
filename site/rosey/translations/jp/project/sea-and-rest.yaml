@@ -15,11 +15,11 @@ _inputs:
             - email-address
             - email-input-placeholder
             - join-my-mailing-list
-            - markdown
             - mountains
             - next-project
             - photography
             - sea-and-rest
+            - static
             - subscribe
         - heading: Already translated (jp)
           comment: Text already translated on
@@ -49,7 +49,39 @@ _inputs:
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
       t=Join%20my%20mailing%20list)"
-  markdown:
+  mountains:
+    label: Mountains
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
+      t=Mountains)"
+  next-project:
+    label: Next Project
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
+      t=Next%20Project)"
+  photography:
+    label: Photography
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
+      t=Photography)"
+  sea-and-rest:
+    label: Sea and rest
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
+      t=Sea%20and%20rest)"
+  static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
@@ -91,38 +123,6 @@ _inputs:
         Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui
         proposito sit conservatio sui, necesse est huic partes quoque sui caras
         suo genere laudabiles servari.
-  mountains:
-    label: Mountains
-    hidden: false
-    type: text
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
-      t=Mountains)"
-  next-project:
-    label: Next Project
-    hidden: false
-    type: text
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
-      t=Next%20Project)"
-  photography:
-    label: Photography
-    hidden: false
-    type: text
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
-      t=Photography)"
-  sea-and-rest:
-    label: Sea and rest
-    hidden: false
-    type: textarea
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
-      t=Sea%20and%20rest)"
   subscribe:
     label: Subscribe
     hidden: false
@@ -134,9 +134,9 @@ _inputs:
 email-address: ""
 email-input-placeholder: ""
 join-my-mailing-list: ""
-markdown: ""
 mountains: ""
 next-project: ""
 photography: ""
 sea-and-rest: ""
+static: ""
 subscribe: ""

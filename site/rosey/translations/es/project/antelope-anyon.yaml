@@ -17,9 +17,9 @@ _inputs:
             - email-input-placeholder
             - green-plant
             - join-my-mailing-list
-            - markdown
             - next-project
             - photography
+            - static
             - subscribe
         - heading: Already translated (es)
           comment: Text already translated on
@@ -65,7 +65,23 @@ _inputs:
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
       ext=Join%20my%20mailing%20list)"
-  markdown:
+  next-project:
+    label: Next Project
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
+      ext=Next%20Project)"
+  photography:
+    label: Photography
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
+      ext=Photography)"
+  static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
@@ -107,22 +123,6 @@ _inputs:
         Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui
         proposito sit conservatio sui, necesse est huic partes quoque sui caras
         suo genere laudabiles servari.
-  next-project:
-    label: Next Project
-    hidden: false
-    type: text
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
-      ext=Next%20Project)"
-  photography:
-    label: Photography
-    hidden: false
-    type: text
-    options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
-      ext=Photography)"
   subscribe:
     label: Subscribe
     hidden: false
@@ -136,7 +136,7 @@ email-address: ""
 email-input-placeholder: ""
 green-plant: ""
 join-my-mailing-list: ""
-markdown: ""
 next-project: ""
 photography: ""
+static: ""
 subscribe: ""

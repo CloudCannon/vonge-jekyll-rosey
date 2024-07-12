@@ -193,13 +193,9 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: >-
-      Added: In qua quid est boni praeter summam voluptatem, et eam sempiternam.
-      Cur post Tarentum ad Archytam. Qua ex cognitione ...
-
-
-      [See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=In%20qua%20quid,ex%20cognitione)
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=In%20qua%20qu\
+      id,ex%20cognitione)"
     context:
       open: false
       title: Untranslated Text
