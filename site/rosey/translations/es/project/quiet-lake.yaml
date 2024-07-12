@@ -11,8 +11,132 @@ _inputs:
         - heading: Still to translate (es)
           comment: Text to translate on
             [project/quiet-lake](https://brisk-smokescreen.cloudvent.net/project/quiet-lake)
-          inputs: []
+          inputs:
+            - antelope-canyon
+            - email-address
+            - email-input-placeholder
+            - join-my-mailing-list
+            - markdown
+            - next-project
+            - photography
+            - quiet-lake
+            - subscribe
         - heading: Already translated (es)
           comment: Text already translated on
             [project/quiet-lake](https://brisk-smokescreen.cloudvent.net/project/quiet-lake)
           inputs: []
+  antelope-canyon:
+    label: Antelope Canyon
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
+      Antelope%20Canyon)"
+  email-address:
+    label: Email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
+      Email%20address)"
+  email-input-placeholder:
+    label: Your email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
+      Your%20email%20address)"
+  join-my-mailing-list:
+    label: Join my mailing list
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
+      Join%20my%20mailing%20list)"
+  markdown:
+    label: In qua quid est boni praeter summam volupt...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
+      In%20qua%20quid,genere%20laudabiles%20servari)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: >-
+        In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur
+        post Tarentum ad Archytam? Qua ex cognitione facilior facta est
+        investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est
+        contemptissimis escis et potionibus, minorem voluptatem.
+
+
+        ![Palm trees](/images/image-example-3.jpg)
+
+
+        Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit,
+        quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur
+        propter voluptatem. Scientiam pollicentur, quam non erat mirum
+        sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae
+        tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo
+        paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut
+        disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur
+        rectissime mihi videris et ad consuetudinem nostrae orationis.
+
+
+        ![Sea](/images/image-example-4.jpg)
+
+
+        Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne
+        clamant sapienti plus semper adesse quod velit quam quod nolit? Quae
+        quidem sapientes sequuntur duce natura tamquam videntes; Quod enim
+        dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia
+        Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui
+        proposito sit conservatio sui, necesse est huic partes quoque sui caras
+        suo genere laudabiles servari.
+  next-project:
+    label: Next Project
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
+      Next%20Project)"
+  photography:
+    label: Photography
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
+      Photography)"
+  quiet-lake:
+    label: Quiet Lake
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
+      Quiet%20Lake)"
+  subscribe:
+    label: Subscribe
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
+      Subscribe)"
+antelope-canyon: ""
+email-address: ""
+email-input-placeholder: ""
+join-my-mailing-list: ""
+markdown: ""
+next-project: ""
+photography: ""
+quiet-lake: ""
+subscribe: ""

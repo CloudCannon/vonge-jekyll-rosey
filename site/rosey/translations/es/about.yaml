@@ -9,8 +9,119 @@ _inputs:
         - heading: Still to translate (es)
           comment: Text to translate on
             [about/](https://brisk-smokescreen.cloudvent.net/about/)
-          inputs: []
+          inputs:
+            - about
+            - email-address
+            - email-input-placeholder
+            - join-my-mailing-list
+            - markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab
+            - subscribe
         - heading: Already translated (es)
           comment: Text already translated on
             [about/](https://brisk-smokescreen.cloudvent.net/about/)
           inputs: []
+  about:
+    label: About
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=About)"
+  email-address:
+    label: Email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Email%20addr\
+      ess)"
+  email-input-placeholder:
+    label: Your email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Your%20email\
+      %20address)"
+  join-my-mailing-list:
+    label: Join my mailing list
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Join%20my%20\
+      mailing%20list)"
+  markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab:
+    label: In omni enim arte vel studio vel quavis sc...
+    hidden: false
+    type: markdown
+    options:
+      bold: true
+      format: p h1 h2 h3 h4
+      italic: true
+      link: true
+      undo: true
+      redo: true
+      removeformat: true
+      copyformatting: true
+      bulletedlist: true
+      numberedlist: true
+      blockquote: true
+      superscript: true
+      subscript: true
+      code: true
+      horizontalrule: true
+      image: true
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=In%20omni%20\
+      enim,voluptate%20terra%20perfectio)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: >-
+        In omni enim arte vel studio vel quavis scientia velas in ipsa virtute
+        optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam
+        sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique
+        pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri
+        amico. Neque enim disputari sine reprehensione nec cum iracundia aut
+        pertinacia recte disputari potest. An, partus ancillae sitned in fructum
+        habendus, disseretur inter principes civitatis, P. Ut in geometria,
+        prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere,
+        quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse
+        est huic partes quoque sui caras suo genere laudabiles rarissimum
+        servari tinere.
+
+
+        > The longer I live, the more I realize that I am never wrong about
+        anything, and that all the pains I have so humbly taken to verify my
+        notions have only wasted my time!
+
+
+        Ego quoque, inquit, didicerim libentius si quid attuleris, quam te
+        reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad
+        sapientiam possent pervenire, alios, qui possent, si id egissent,
+        sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero,
+        verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas
+        ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui
+        voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper
+        adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce
+        natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu,
+        quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne
+        consensisse de Calatino plurimas gentis cantibus arbitramur, primarium
+        populi fuisse, quod praestantissimus fuisset in conficiendis disseretur
+        voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate
+        terra perfectio.
+  subscribe:
+    label: Subscribe
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Subscribe)"
+about: ""
+email-address: ""
+email-input-placeholder: ""
+join-my-mailing-list: ""
+markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab: ""
+subscribe: ""

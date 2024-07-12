@@ -9,8 +9,186 @@ _inputs:
         - heading: Still to translate (jp)
           comment: Text to translate on
             [tag/notes](https://brisk-smokescreen.cloudvent.net/tag/notes)
-          inputs: []
+          inputs:
+            - bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward
+            - email-address
+            - email-input-placeholder
+            - it-is-never-too-late-to-be-what-you-might-have-been
+            - join-my-mailing-list
+            - life
+            - markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio
+            - notes
+            - rest
+            - story
+            - strive-not-to-be-a-success-but-rather-to-be-of-value
+            - subscribe
+            - the-way-i-see-it-every-life-is-a-pile-of-good-things
+            - travel
         - heading: Already translated (jp)
           comment: Text already translated on
             [tag/notes](https://brisk-smokescreen.cloudvent.net/tag/notes)
           inputs: []
+  bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward:
+    label: Bring to the table win-win survival strate...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=Bring%20t\
+      o%20the,day%20going%20forward)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Bring to the table win-win survival strategies to ensure proactive
+        domination. At the end of the day, going forward.
+  email-address:
+    label: Email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=Email%20a\
+      ddress)"
+  email-input-placeholder:
+    label: Your email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=Your%20em\
+      ail%20address)"
+  it-is-never-too-late-to-be-what-you-might-have-been:
+    label: It is never too late to be what you might ...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=It%20is%2\
+      0never,might%20have%20been)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: It is never too late to be what you might have been
+  join-my-mailing-list:
+    label: Join my mailing list
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=Join%20my\
+      %20mailing%20list)"
+  life:
+    label: life
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=life)"
+  markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio:
+    label: In qua quid est boni praeter summam volupt...
+    hidden: false
+    type: markdown
+    options:
+      bold: true
+      format: p h1 h2 h3 h4
+      italic: true
+      link: true
+      undo: true
+      redo: true
+      removeformat: true
+      copyformatting: true
+      bulletedlist: true
+      numberedlist: true
+      blockquote: true
+      superscript: true
+      subscript: true
+      code: true
+      horizontalrule: true
+      image: true
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=In%20qua%\
+      20quid,ex%20cognitione)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur
+        post Tarentum ad Archytam. Qua ex cognitione ...
+  notes:
+    label: notes
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=notes)"
+  rest:
+    label: rest
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=rest)"
+  story:
+    label: story
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=story)"
+  strive-not-to-be-a-success-but-rather-to-be-of-value:
+    label: Strive not to be a success, but rather to ...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=Strive%20\
+      not%20to,be%20of%20value)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Strive not to be a success, but rather to be of value
+  subscribe:
+    label: Subscribe
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=Subscribe\
+      )"
+  the-way-i-see-it-every-life-is-a-pile-of-good-things:
+    label: The way I see it, every life is a pile of ...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=The%20way\
+      %20I,of%20good%20things)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: The way I see it, every life is a pile of good things
+  travel:
+    label: travel
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/notes#:~:text=travel)"
+bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward: ""
+email-address: ""
+email-input-placeholder: ""
+it-is-never-too-late-to-be-what-you-might-have-been: ""
+join-my-mailing-list: ""
+life: ""
+markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio: ""
+notes: ""
+rest: ""
+story: ""
+strive-not-to-be-a-success-but-rather-to-be-of-value: ""
+subscribe: ""
+the-way-i-see-it-every-life-is-a-pile-of-good-things: ""
+travel: ""

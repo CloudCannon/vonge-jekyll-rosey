@@ -10,8 +10,138 @@ _inputs:
         - heading: Still to translate (jp)
           comment: Text to translate on
             [tag/lifestyle](https://brisk-smokescreen.cloudvent.net/tag/lifestyle)
-          inputs: []
+          inputs:
+            - believe-and-act-as-if-it-were-impossible-to-fail
+            - bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward
+            - email-address
+            - email-input-placeholder
+            - join-my-mailing-list
+            - lifestyle
+            - rest
+            - subscribe
+            - that-which-does-not-kill-us-makes-us-stronger
+            - travel
+            - you-must-be-the-change-you-wish-to-see-in-the-world
         - heading: Already translated (jp)
           comment: Text already translated on
             [tag/lifestyle](https://brisk-smokescreen.cloudvent.net/tag/lifestyle)
           inputs: []
+  believe-and-act-as-if-it-were-impossible-to-fail:
+    label: Believe and act as if it were impossible t...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/lifestyle#:~:text=Belie\
+      ve%20and%20act,impossible%20to%20fail)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Believe and act as if it were impossible to fail
+  bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward:
+    label: Bring to the table win-win survival strate...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/lifestyle#:~:text=Bring\
+      %20to%20the,day%20going%20forward)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Bring to the table win-win survival strategies to ensure proactive
+        domination. At the end of the day, going forward.
+  email-address:
+    label: Email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/lifestyle#:~:text=Email\
+      %20address)"
+  email-input-placeholder:
+    label: Your email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/lifestyle#:~:text=Your%\
+      20email%20address)"
+  join-my-mailing-list:
+    label: Join my mailing list
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/lifestyle#:~:text=Join%\
+      20my%20mailing%20list)"
+  lifestyle:
+    label: lifestyle
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/lifestyle#:~:text=lifes\
+      tyle)"
+  rest:
+    label: rest
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/lifestyle#:~:text=rest)"
+  subscribe:
+    label: Subscribe
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/lifestyle#:~:text=Subsc\
+      ribe)"
+  that-which-does-not-kill-us-makes-us-stronger:
+    label: That which does not kill us makes us stron...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/lifestyle#:~:text=That%\
+      20which%20does,makes%20us%20stronger)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: That which does not kill us makes us stronger
+  travel:
+    label: travel
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/lifestyle#:~:text=trave\
+      l)"
+  you-must-be-the-change-you-wish-to-see-in-the-world:
+    label: You must be the change you wish to see in ...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/lifestyle#:~:text=You%2\
+      0must%20be,in%20the%20world)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: You must be the change you wish to see in the world
+believe-and-act-as-if-it-were-impossible-to-fail: ""
+bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward: ""
+email-address: ""
+email-input-placeholder: ""
+join-my-mailing-list: ""
+lifestyle: ""
+rest: ""
+subscribe: ""
+that-which-does-not-kill-us-makes-us-stronger: ""
+travel: ""
+you-must-be-the-change-you-wish-to-see-in-the-world: ""

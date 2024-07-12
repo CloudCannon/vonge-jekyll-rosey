@@ -9,8 +9,186 @@ _inputs:
         - heading: Still to translate (es)
           comment: Text to translate on
             [tag/story](https://brisk-smokescreen.cloudvent.net/tag/story)
-          inputs: []
+          inputs:
+            - bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward
+            - do-what-you-can-with-what-you-have-where-you-are
+            - email-address
+            - email-input-placeholder
+            - join-my-mailing-list
+            - life
+            - life-shrinks-or-expands-in-proportion-to-one-s-courage
+            - markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio
+            - notes
+            - rest
+            - story
+            - subscribe
+            - the-way-i-see-it-every-life-is-a-pile-of-good-things
+            - travel
         - heading: Already translated (es)
           comment: Text already translated on
             [tag/story](https://brisk-smokescreen.cloudvent.net/tag/story)
           inputs: []
+  bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward:
+    label: Bring to the table win-win survival strate...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=Bring%20t\
+      o%20the,day%20going%20forward)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Bring to the table win-win survival strategies to ensure proactive
+        domination. At the end of the day, going forward.
+  do-what-you-can-with-what-you-have-where-you-are:
+    label: Do what you can, with what you have, where...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=Do%20what\
+      %20you,where%20you%20are)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Do what you can, with what you have, where you are
+  email-address:
+    label: Email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=Email%20a\
+      ddress)"
+  email-input-placeholder:
+    label: Your email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=Your%20em\
+      ail%20address)"
+  join-my-mailing-list:
+    label: Join my mailing list
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=Join%20my\
+      %20mailing%20list)"
+  life:
+    label: life
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=life)"
+  life-shrinks-or-expands-in-proportion-to-one-s-courage:
+    label: Life shrinks or expands in proportion to o...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=Life%20sh\
+      rinks%20or,to%20one%E2%80%99s%20courage)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Life shrinks or expands in proportion to one’s courage
+  markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio:
+    label: In qua quid est boni praeter summam volupt...
+    hidden: false
+    type: markdown
+    options:
+      bold: true
+      format: p h1 h2 h3 h4
+      italic: true
+      link: true
+      undo: true
+      redo: true
+      removeformat: true
+      copyformatting: true
+      bulletedlist: true
+      numberedlist: true
+      blockquote: true
+      superscript: true
+      subscript: true
+      code: true
+      horizontalrule: true
+      image: true
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=In%20qua%\
+      20quid,ex%20cognitione)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur
+        post Tarentum ad Archytam. Qua ex cognitione ...
+  notes:
+    label: notes
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=notes)"
+  rest:
+    label: rest
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=rest)"
+  story:
+    label: story
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=story)"
+  subscribe:
+    label: Subscribe
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=Subscribe\
+      )"
+  the-way-i-see-it-every-life-is-a-pile-of-good-things:
+    label: The way I see it, every life is a pile of ...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=The%20way\
+      %20I,of%20good%20things)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: The way I see it, every life is a pile of good things
+  travel:
+    label: travel
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/story#:~:text=travel)"
+bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward: ""
+do-what-you-can-with-what-you-have-where-you-are: ""
+email-address: ""
+email-input-placeholder: ""
+join-my-mailing-list: ""
+life: ""
+life-shrinks-or-expands-in-proportion-to-one-s-courage: ""
+markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio: ""
+notes: ""
+rest: ""
+story: ""
+subscribe: ""
+the-way-i-see-it-every-life-is-a-pile-of-good-things: ""
+travel: ""

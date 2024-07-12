@@ -9,8 +9,164 @@ _inputs:
         - heading: Still to translate (es)
           comment: Text to translate on
             [projects/](https://brisk-smokescreen.cloudvent.net/projects/)
-          inputs: []
+          inputs:
+            - antelope-canyon
+            - big-airplane
+            - desk-setup
+            - email-address
+            - email-input-placeholder
+            - green-plant
+            - i-show-only-my-best-works-built-completely-with-passion-simplicity-and-creativity
+            - join-my-mailing-list
+            - mountains
+            - my-works
+            - prague-city
+            - quiet-lake
+            - sea-and-rest
+            - subscribe
+            - the-rocks
         - heading: Already translated (es)
           comment: Text already translated on
             [projects/](https://brisk-smokescreen.cloudvent.net/projects/)
           inputs: []
+  antelope-canyon:
+    label: Antelope Canyon
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Antelope%\
+      20Canyon)"
+  big-airplane:
+    label: Big airplane
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Big%20air\
+      plane)"
+  desk-setup:
+    label: Desk setup
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Desk%20se\
+      tup)"
+  email-address:
+    label: Email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Email%20a\
+      ddress)"
+  email-input-placeholder:
+    label: Your email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Your%20em\
+      ail%20address)"
+  green-plant:
+    label: Green Plant
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Green%20P\
+      lant)"
+  i-show-only-my-best-works-built-completely-with-passion-simplicity-and-creativity:
+    label: I show only my best works built completely...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=I%20show%\
+      20only,simplicity%20and%20creativity!)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: I show only my best works built completely with passion, simplicity,
+        and creativity!
+  join-my-mailing-list:
+    label: Join my mailing list
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Join%20my\
+      %20mailing%20list)"
+  mountains:
+    label: Mountains
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Mountains\
+      )"
+  my-works:
+    label: My works
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=My%20work\
+      s)"
+  prague-city:
+    label: Prague city
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Prague%20\
+      city)"
+  quiet-lake:
+    label: Quiet Lake
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Quiet%20L\
+      ake)"
+  sea-and-rest:
+    label: Sea and rest
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Sea%20and\
+      %20rest)"
+  subscribe:
+    label: Subscribe
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Subscribe\
+      )"
+  the-rocks:
+    label: The rocks
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=The%20roc\
+      ks)"
+antelope-canyon: ""
+big-airplane: ""
+desk-setup: ""
+email-address: ""
+email-input-placeholder: ""
+green-plant: ""
+i-show-only-my-best-works-built-completely-with-passion-simplicity-and-creativity: ""
+join-my-mailing-list: ""
+mountains: ""
+my-works: ""
+prague-city: ""
+quiet-lake: ""
+sea-and-rest: ""
+subscribe: ""
+the-rocks: ""

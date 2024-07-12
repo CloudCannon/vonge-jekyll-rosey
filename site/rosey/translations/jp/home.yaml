@@ -9,13 +9,127 @@ _inputs:
         - heading: Still to translate (jp)
           comment: Text to translate on [](https://brisk-smokescreen.cloudvent.net/)
           inputs:
+            - MC3PyHtVr6QZLzjZ2JRz2bR1FDUIOcj9tCMXEczuLiY
+            - antelope-canyon
+            - art-director
+            - big-airplane
+            - bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward
+            - copywriter
+            - do-what-you-can-with-what-you-have-where-you-are
+            - email-address
+            - email-input-placeholder
             - get-in-touch
+            - green-plant
+            - happy-clients
             - hi-there-i-am-vanessa-marley
+            - join-my-mailing-list
+            - latest-works
+            - life
+            - lifestyle
+            - marketing
+            - mountains
+            - notes
+            - p-i-show-only-my-best-works-built-completely-with-passion-simplicity-and-creativity-p
             - p-strong-photographer-strong-and-strong-visual-content-strategist-strong-from-albany-i-work-as-a-lifestyle-product-and-landscape-photographer-creating-images-for-a-diverse-range-of-requests-from-online-media-to-printed-artwork-p
+            - p-vonge-blog-features-productivity-tips-inspiration-and-strategies-for-massive-profits-find-out-how-to-set-up-a-successful-blog-or-how-to-make-yours-even-better-p
+            - quamquam-id-quidem-infinitum-est-in-hac-urbe-ita-multo-sanguine-profuso-in-laetitia-et-in-victoria-est-mortuus-atqui-pugnantibus-et-contrariis-studiis-semper
+            - quiet-lake
+            - recent-posts
             - see-my-works
+            - send-now
+            - story
+            - strive-not-to-be-a-success-but-rather-to-be-of-value
+            - subscribe
+            - that-which-does-not-kill-us-makes-us-stronger
+            - the-rocks
+            - travel
+            - traveler
+            - view-all
+            - vonge-comes-with-a-built-in-contact-form
+            - your-email
+            - your-message
+            - your-message-placeholder
+            - your-name
+            - your-name-placeholder
         - heading: Already translated (jp)
           comment: Text already translated on [](https://brisk-smokescreen.cloudvent.net/)
           inputs: []
+  MC3PyHtVr6QZLzjZ2JRz2bR1FDUIOcj9tCMXEczuLiY:
+    label: ""
+    hidden: true
+    type: text
+    options: {}
+    comment: "[See on page](https://brisk-smokescreen.cloudvent.net/#:~:text=)"
+  antelope-canyon:
+    label: Antelope Canyon
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Antelope%20Canyon)"
+  art-director:
+    label: Art Director
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Art%20Director)"
+  big-airplane:
+    label: Big airplane
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Big%20airplane)"
+  bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward:
+    label: Bring to the table win-win survival strate...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Bring%20to%20the,d\
+      ay%20going%20forward)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Bring to the table win-win survival strategies to ensure proactive
+        domination. At the end of the day, going forward.
+  copywriter:
+    label: Copywriter
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Copywriter)"
+  do-what-you-can-with-what-you-have-where-you-are:
+    label: Do what you can, with what you have, where...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Do%20what%20you,wh\
+      ere%20you%20are)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Do what you can, with what you have, where you are
+  email-address:
+    label: Email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Email%20address)"
+  email-input-placeholder:
+    label: Your email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Your%20email%20add\
+      ress)"
   get-in-touch:
     label: Get in touch
     hidden: false
@@ -23,6 +137,20 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/#:~:text=Get%20in%20touch)"
+  green-plant:
+    label: Green Plant
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Green%20Plant)"
+  happy-clients:
+    label: Happy Clients
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Happy%20Clients)"
   hi-there-i-am-vanessa-marley:
     label: Hi there, I am Vanessa Marley
     hidden: false
@@ -31,6 +159,65 @@ _inputs:
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/#:~:text=Hi%20there%20I%20a\
       m%20Vanessa%20Marley)"
+  join-my-mailing-list:
+    label: Join my mailing list
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Join%20my%20mailin\
+      g%20list)"
+  latest-works:
+    label: Latest Works
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Latest%20Works)"
+  life:
+    label: life
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://brisk-smokescreen.cloudvent.net/#:~:text=life)"
+  lifestyle:
+    label: lifestyle
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://brisk-smokescreen.cloudvent.net/#:~:text=lifestyle)"
+  marketing:
+    label: Marketing
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://brisk-smokescreen.cloudvent.net/#:~:text=Marketing)"
+  mountains:
+    label: Mountains
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://brisk-smokescreen.cloudvent.net/#:~:text=Mountains)"
+  notes:
+    label: notes
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://brisk-smokescreen.cloudvent.net/#:~:text=notes)"
+  p-i-show-only-my-best-works-built-completely-with-passion-simplicity-and-creativity-p:
+    label: I show only my best works built completely...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=I%20show%20only,si\
+      mplicity%20and%20creativity!)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: I show only my best works built completely with passion, simplicity,
+        and creativity!
   p-strong-photographer-strong-and-strong-visual-content-strategist-strong-from-albany-i-work-as-a-lifestyle-product-and-landscape-photographer-creating-images-for-a-diverse-range-of-requests-from-online-media-to-printed-artwork-p:
     label: Photographer and Visual Content Strategist...
     hidden: false
@@ -46,6 +233,50 @@ _inputs:
       content: "**Photographer** and **Visual Content Strategist** from Albany. I work
         as a lifestyle, product, and landscape photographer, creating images for
         a diverse range of requests, from online media to printed artwork."
+  p-vonge-blog-features-productivity-tips-inspiration-and-strategies-for-massive-profits-find-out-how-to-set-up-a-successful-blog-or-how-to-make-yours-even-better-p:
+    label: Vonge blog features productivity, tips, in...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Vonge%20blog%20fea\
+      tures,yours%20even%20better!)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Vonge blog features productivity, tips, inspiration and strategies for
+        massive profits. Find out how to set up a successful blog or how to make
+        yours even better!
+  quamquam-id-quidem-infinitum-est-in-hac-urbe-ita-multo-sanguine-profuso-in-laetitia-et-in-victoria-est-mortuus-atqui-pugnantibus-et-contrariis-studiis-semper:
+    label: Quamquam id quidem, infinitum est in hac u...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Quamquam%20id%20qu\
+      idem,contrariis%20studiis%20semper)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine
+        profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et
+        contrariis studiis semper.
+  quiet-lake:
+    label: Quiet Lake
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Quiet%20Lake)"
+  recent-posts:
+    label: Recent Posts
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Recent%20Posts)"
   see-my-works:
     label: See my works
     hidden: false
@@ -53,7 +284,159 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/#:~:text=See%20my%20works)"
+  send-now:
+    label: Send now
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Send%20now)"
+  story:
+    label: story
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://brisk-smokescreen.cloudvent.net/#:~:text=story)"
+  strive-not-to-be-a-success-but-rather-to-be-of-value:
+    label: Strive not to be a success, but rather to ...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Strive%20not%20to,\
+      be%20of%20value)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Strive not to be a success, but rather to be of value
+  subscribe:
+    label: Subscribe
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://brisk-smokescreen.cloudvent.net/#:~:text=Subscribe)"
+  that-which-does-not-kill-us-makes-us-stronger:
+    label: That which does not kill us makes us stron...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=That%20which%20doe\
+      s,makes%20us%20stronger)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: That which does not kill us makes us stronger
+  the-rocks:
+    label: The rocks
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=The%20rocks)"
+  travel:
+    label: travel
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://brisk-smokescreen.cloudvent.net/#:~:text=travel)"
+  traveler:
+    label: Traveler
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on page](https://brisk-smokescreen.cloudvent.net/#:~:text=Traveler)"
+  view-all:
+    label: View all
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=View%20all)"
+  vonge-comes-with-a-built-in-contact-form:
+    label: Vonge comes with a built-in contact form.
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Vonge%20comes%20wi\
+      th,built-in%20contact%20form)"
+  your-email:
+    label: Your Email
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Your%20Email)"
+  your-message:
+    label: Your Message
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Your%20Message)"
+  your-message-placeholder:
+    label: Your message...
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Your%20message)"
+  your-name:
+    label: Your Name
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Your%20Name)"
+  your-name-placeholder:
+    label: Your name...
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/#:~:text=Your%20name)"
+MC3PyHtVr6QZLzjZ2JRz2bR1FDUIOcj9tCMXEczuLiY: ""
+antelope-canyon: ""
+art-director: ""
+big-airplane: ""
+bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward: ""
+copywriter: ""
+do-what-you-can-with-what-you-have-where-you-are: ""
+email-address: ""
+email-input-placeholder: ""
 get-in-touch: ""
+green-plant: ""
+happy-clients: ""
 hi-there-i-am-vanessa-marley: ""
+join-my-mailing-list: ""
+latest-works: ""
+life: ""
+lifestyle: ""
+marketing: ""
+mountains: ""
+notes: ""
+p-i-show-only-my-best-works-built-completely-with-passion-simplicity-and-creativity-p: ""
 p-strong-photographer-strong-and-strong-visual-content-strategist-strong-from-albany-i-work-as-a-lifestyle-product-and-landscape-photographer-creating-images-for-a-diverse-range-of-requests-from-online-media-to-printed-artwork-p: ""
+p-vonge-blog-features-productivity-tips-inspiration-and-strategies-for-massive-profits-find-out-how-to-set-up-a-successful-blog-or-how-to-make-yours-even-better-p: ""
+quamquam-id-quidem-infinitum-est-in-hac-urbe-ita-multo-sanguine-profuso-in-laetitia-et-in-victoria-est-mortuus-atqui-pugnantibus-et-contrariis-studiis-semper: ""
+quiet-lake: ""
+recent-posts: ""
 see-my-works: ""
+send-now: ""
+story: ""
+strive-not-to-be-a-success-but-rather-to-be-of-value: ""
+subscribe: ""
+that-which-does-not-kill-us-makes-us-stronger: ""
+the-rocks: ""
+travel: ""
+traveler: ""
+view-all: ""
+vonge-comes-with-a-built-in-contact-form: ""
+your-email: ""
+your-message: ""
+your-message-placeholder: ""
+your-name: ""
+your-name-placeholder: ""

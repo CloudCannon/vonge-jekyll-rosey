@@ -9,8 +9,226 @@ _inputs:
         - heading: Still to translate (es)
           comment: Text to translate on
             [tag/travel](https://brisk-smokescreen.cloudvent.net/tag/travel)
-          inputs: []
+          inputs:
+            - believe-and-act-as-if-it-were-impossible-to-fail
+            - bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward
+            - email-address
+            - email-input-placeholder
+            - everything-has-beauty-but-not-everyone-can-see
+            - it-is-never-too-late-to-be-what-you-might-have-been
+            - join-my-mailing-list
+            - life
+            - life-shrinks-or-expands-in-proportion-to-one-s-courage
+            - lifestyle
+            - markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio
+            - notes
+            - rest
+            - story
+            - subscribe
+            - that-which-does-not-kill-us-makes-us-stronger
+            - travel
         - heading: Already translated (es)
           comment: Text already translated on
             [tag/travel](https://brisk-smokescreen.cloudvent.net/tag/travel)
           inputs: []
+  believe-and-act-as-if-it-were-impossible-to-fail:
+    label: Believe and act as if it were impossible t...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=Believe%\
+      20and%20act,impossible%20to%20fail)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Believe and act as if it were impossible to fail
+  bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward:
+    label: Bring to the table win-win survival strate...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=Bring%20\
+      to%20the,day%20going%20forward)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Bring to the table win-win survival strategies to ensure proactive
+        domination. At the end of the day, going forward.
+  email-address:
+    label: Email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=Email%20\
+      address)"
+  email-input-placeholder:
+    label: Your email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=Your%20e\
+      mail%20address)"
+  everything-has-beauty-but-not-everyone-can-see:
+    label: Everything has beauty, but not everyone ca...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=Everythi\
+      ng%20has%20beauty,everyone%20can%20see)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Everything has beauty, but not everyone can see
+  it-is-never-too-late-to-be-what-you-might-have-been:
+    label: It is never too late to be what you might ...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=It%20is%\
+      20never,might%20have%20been)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: It is never too late to be what you might have been
+  join-my-mailing-list:
+    label: Join my mailing list
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=Join%20m\
+      y%20mailing%20list)"
+  life:
+    label: life
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=life)"
+  life-shrinks-or-expands-in-proportion-to-one-s-courage:
+    label: Life shrinks or expands in proportion to o...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=Life%20s\
+      hrinks%20or,to%20one%E2%80%99s%20courage)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Life shrinks or expands in proportion to one’s courage
+  lifestyle:
+    label: lifestyle
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=lifestyl\
+      e)"
+  markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio:
+    label: In qua quid est boni praeter summam volupt...
+    hidden: false
+    type: markdown
+    options:
+      bold: true
+      format: p h1 h2 h3 h4
+      italic: true
+      link: true
+      undo: true
+      redo: true
+      removeformat: true
+      copyformatting: true
+      bulletedlist: true
+      numberedlist: true
+      blockquote: true
+      superscript: true
+      subscript: true
+      code: true
+      horizontalrule: true
+      image: true
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=In%20qua\
+      %20quid,ex%20cognitione)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur
+        post Tarentum ad Archytam. Qua ex cognitione ...
+  notes:
+    label: notes
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=notes)"
+  rest:
+    label: rest
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=rest)"
+  story:
+    label: story
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=story)"
+  subscribe:
+    label: Subscribe
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=Subscrib\
+      e)"
+  that-which-does-not-kill-us-makes-us-stronger:
+    label: That which does not kill us makes us stron...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=That%20w\
+      hich%20does,makes%20us%20stronger)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: That which does not kill us makes us stronger
+  travel:
+    label: travel
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/travel#:~:text=travel)"
+believe-and-act-as-if-it-were-impossible-to-fail: ""
+bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward: ""
+email-address: ""
+email-input-placeholder: ""
+everything-has-beauty-but-not-everyone-can-see: ""
+it-is-never-too-late-to-be-what-you-might-have-been: ""
+join-my-mailing-list: ""
+life: ""
+life-shrinks-or-expands-in-proportion-to-one-s-courage: ""
+lifestyle: ""
+markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio: ""
+notes: ""
+rest: ""
+story: ""
+subscribe: ""
+that-which-does-not-kill-us-makes-us-stronger: ""
+travel: ""

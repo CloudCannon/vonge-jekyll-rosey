@@ -9,8 +9,185 @@ _inputs:
         - heading: Still to translate (jp)
           comment: Text to translate on
             [tag/rest](https://brisk-smokescreen.cloudvent.net/tag/rest)
-          inputs: []
+          inputs:
+            - bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward
+            - email-address
+            - email-input-placeholder
+            - everything-has-beauty-but-not-everyone-can-see
+            - join-my-mailing-list
+            - lifestyle
+            - markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio
+            - notes
+            - rest
+            - story
+            - subscribe
+            - the-way-i-see-it-every-life-is-a-pile-of-good-things
+            - travel
+            - you-must-be-the-change-you-wish-to-see-in-the-world
         - heading: Already translated (jp)
           comment: Text already translated on
             [tag/rest](https://brisk-smokescreen.cloudvent.net/tag/rest)
           inputs: []
+  bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward:
+    label: Bring to the table win-win survival strate...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=Bring%20to\
+      %20the,day%20going%20forward)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Bring to the table win-win survival strategies to ensure proactive
+        domination. At the end of the day, going forward.
+  email-address:
+    label: Email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=Email%20ad\
+      dress)"
+  email-input-placeholder:
+    label: Your email address
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=Your%20ema\
+      il%20address)"
+  everything-has-beauty-but-not-everyone-can-see:
+    label: Everything has beauty, but not everyone ca...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=Everything\
+      %20has%20beauty,everyone%20can%20see)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: Everything has beauty, but not everyone can see
+  join-my-mailing-list:
+    label: Join my mailing list
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=Join%20my%\
+      20mailing%20list)"
+  lifestyle:
+    label: lifestyle
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=lifestyle)"
+  markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio:
+    label: In qua quid est boni praeter summam volupt...
+    hidden: false
+    type: markdown
+    options:
+      bold: true
+      format: p h1 h2 h3 h4
+      italic: true
+      link: true
+      undo: true
+      redo: true
+      removeformat: true
+      copyformatting: true
+      bulletedlist: true
+      numberedlist: true
+      blockquote: true
+      superscript: true
+      subscript: true
+      code: true
+      horizontalrule: true
+      image: true
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=In%20qua%2\
+      0quid,ex%20cognitione)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur
+        post Tarentum ad Archytam. Qua ex cognitione ...
+  notes:
+    label: notes
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=notes)"
+  rest:
+    label: rest
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=rest)"
+  story:
+    label: story
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=story)"
+  subscribe:
+    label: Subscribe
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=Subscribe)"
+  the-way-i-see-it-every-life-is-a-pile-of-good-things:
+    label: The way I see it, every life is a pile of ...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=The%20way%\
+      20I,of%20good%20things)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: The way I see it, every life is a pile of good things
+  travel:
+    label: travel
+    hidden: false
+    type: text
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=travel)"
+  you-must-be-the-change-you-wish-to-see-in-the-world:
+    label: You must be the change you wish to see in ...
+    hidden: false
+    type: textarea
+    options: {}
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/tag/rest#:~:text=You%20must\
+      %20be,in%20the%20world)"
+    context:
+      open: false
+      title: Untranslated Text
+      icon: translate
+      content: You must be the change you wish to see in the world
+bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward: ""
+email-address: ""
+email-input-placeholder: ""
+everything-has-beauty-but-not-everyone-can-see: ""
+join-my-mailing-list: ""
+lifestyle: ""
+markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio: ""
+notes: ""
+rest: ""
+story: ""
+subscribe: ""
+the-way-i-see-it-every-life-is-a-pile-of-good-things: ""
+travel: ""
+you-must-be-the-change-you-wish-to-see-in-the-world: ""
