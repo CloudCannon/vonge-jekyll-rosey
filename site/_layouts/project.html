@@ -8,7 +8,7 @@ layout: default
   {% assign page_image = site.baseurl | append: page.image %}
   {% bookshop page-image image=page_image %}
 
-  <div class="page animate" data-rosey="markdown" data-rosey="{{ content | truncate: 120 | slugify }}">
+  <div class="page animate" data-rosey="static" data-rosey="{{ .page.url }}-content">
     {{ content }}
   </div>
 
