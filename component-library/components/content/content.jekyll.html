@@ -1,5 +1,5 @@
 <div class="container">
-  <div class="page animate">
+  <div class="page animate" data-rosey-ns="markdown" data-rosey="{{ include.content_html |  truncate: 120 | slugify }}">
     {{include.content_html }}
   </div>
 </div>

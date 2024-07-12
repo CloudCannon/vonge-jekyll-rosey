@@ -8,7 +8,7 @@ layout: default
   {% assign page_image = site.baseurl | append: page.image %}
   {% bookshop page-image image=page_image %}
 
-  <div class="page animate">
+  <div class="page animate" data-rosey="markdown" data-rosey="{{ content | truncate: 120 | slugify }}">
     {{ content }}
   </div>
 
@@ -16,8 +16,8 @@ layout: default
   <div class="project__navigation animate">
     <a class="project__prev" href="{{page.previous.url}}">
       <div class="project__box">
-        <span class="project__nav__info">Next Project</span>
-        <h2 class="project__nav__title">{{page.previous.title}}<i class="ion ion-md-arrow-round-forward arrow-right"></i></h2>
+        <span class="project__nav__info" data-rosey="next-project" data-rosey="next-project">Next Project</span>
+        <h2 class="project__nav__title" data-rosey="{{ page.previous.title | slugify }}">{{page.previous.title}}<i class="ion ion-md-arrow-round-forward arrow-right"></i></h2>
       </div>
     </a>
   </div>

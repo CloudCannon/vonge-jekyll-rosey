@@ -12,12 +12,12 @@
           <h3 class="{{c}}__client-name">{{ include.testimonial-item.name }}</h3>
         {% endif %}
         {% if include.testimonial-item.position %}
-          <p class="{{c}}__client-position">{{ include.testimonial-item.position }}</p>
+          <p class="{{c}}__client-position" data-rosey="{{ include.testimonial-item.position | slugify }}">{{ include.testimonial-item.position }}</p>
         {% endif %}
       </div>
     </div>
     {% if include.testimonial-item.blurb %}
-      <p class="{{c}}__client-text">{{ include.testimonial-item.blurb }}</p>
+      <p class="{{c}}__client-text" data-rosey="{{ include.testimonial-item.blurb | slugify }}">{{ include.testimonial-item.blurb }}</p>
     {% endif %}
   </div>
 </div>

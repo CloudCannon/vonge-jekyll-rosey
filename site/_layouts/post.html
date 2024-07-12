@@ -20,13 +20,13 @@ layout: default
           {% if page.tags.size >= 1 %}
           <div class="post-tags">
             {% for tag in page.tags %}
-              <a href="{{ site.baseurl }}/tag/{{ tag | downcase }}" class="post-tags__tag">{{ tag }}</a>
+              <a href="{{ site.baseurl }}/tag/{{ tag | downcase }}" class="post-tags__tag" data-rosey="{{ tag| slugify }}">{{ tag }}</a>
             {% endfor %}
           </div>
           {% endif %}
 
 
-          <h1 class="post__title">{{ page.title | escape }}</h1>
+          <h1 class="post__title" data-rosey="{{ page.title | slugify }}">{{ page.title | escape }}</h1>
 
           <div class="post__meta">
             <div class="post__author-image">
@@ -51,7 +51,7 @@ layout: default
 
   <article class="post">
 
-    <div class="post__content">
+    <div class="post__content" data-rosey-ns="static" data-rosey="{{ .page.url }}-content">
       {{ content }}
     </div>
 
