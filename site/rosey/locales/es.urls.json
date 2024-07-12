@@ -3,17 +3,13 @@
 		"original": "about/index.html",
 		"value": "about/index.html"
 	},
-	"blog/index.html": {
-		"original": "blog/index.html",
-		"value": "blog/index.html"
-	},
 	"elements/index.html": {
 		"original": "elements/index.html",
 		"value": "elements/index.html"
 	},
-	"index.html": {
-		"original": "index.html",
-		"value": "index.html"
+	"blog/index.html": {
+		"original": "blog/index.html",
+		"value": "blog/index.html"
 	},
 	"projects/index.html": {
 		"original": "projects/index.html",
@@ -33,9 +29,6 @@
 	},
 	"tag/story/index.html": {
 		"value": "tag/story.html"
-	},
-	"tag/travel/index.html": {
-		"value": "tag/travel.html"
 	},
 	"schemas/page/index.html": {
 		"value": "schemas/page.html"
@@ -97,10 +90,17 @@
 	"blog/that-which-does-not-kill-us-makes-us-stronger/index.html": {
 		"value": "blog/that-which-does-not-kill-us-makes-us-stronger.html"
 	},
+	"tag/travel/index.html": {
+		"value": "tag/travel.html"
+	},
 	"blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": {
 		"value": "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html"
 	},
 	"blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": {
 		"value": "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html"
+	},
+	"index.html": {
+		"original": "index.html",
+		"value": "index.html"
 	}
 }
