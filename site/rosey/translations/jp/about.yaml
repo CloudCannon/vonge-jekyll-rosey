@@ -9,16 +9,16 @@ _inputs:
         - heading: Still to translate (jp)
           comment: Text to translate on
             [about/](https://brisk-smokescreen.cloudvent.net/about/)
-          inputs:
-            - about
-            - markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab
+          inputs: []
         - heading: Already translated (jp)
           comment: Text already translated on
             [about/](https://brisk-smokescreen.cloudvent.net/about/)
           inputs:
+            - about
             - email-address
             - email-input-placeholder
             - join-my-mailing-list
+            - markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab
             - subscribe
   about:
     label: About
@@ -119,9 +119,27 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Subscribe)"
-about: ""
+about: について
 email-address: 電子メールアドレス
 email-input-placeholder: あなたのメールアドレス
 join-my-mailing-list: 私のメーリングリストに参加してください
-markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab: ""
+markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab: >-
+  オムニ・エニム・アート・ベル・スタジオ・ベル・クアヴィス・サイエンティア・ヴェラスでは、イプサ・ヴィルトゥートの最適なキッドケ・エスト、クォード・エスト、ユット・ディクシ、ハーベレ・エア、クエ・セカンダム・ナチュラム・シント、ベル・オムニア・ベル・プルリマ、そして最大値を実現します。絶対に必要な情報を正直に入力してください。最適な時間、平均的な評価、平凡なアミコ。問題を解決するために必要な情報を正確に収集します。
+  An、partus ancillae は fructum habendus に座っており、disseretur inter principes
+  civitatis、P. Ut in geometria、prima si dederis、danda suntomnia
+  です。常にあらゆる問題に対応し、あらゆる問題に対応します。ナム・キュイ・プロポジト・シンテロ・コンサバティオ・スイ、必要なエスト・ヒューイック・パート・クオケ・スイ・カラス・スオ・ジェネレ・ラウダビレス・ラリシムム・サーバリ・ティネレ。
+
+
+  >
+  長く生きれば生きるほど、自分が何事においても決して間違っているわけではないこと、そして自分の観念を確かめるために謙虚に費やしてきたすべての苦労は時間を無駄にしているだけだということがますます分かるようになります。
+
+
+  エゴ・クオケ、無罪判決、ディディセリム・リベンティウス・シ・クイド・アトゥレリス、クアム・テ・リプリヘンダリム。私は、これまでに経験したことはありませんが、私は常に知識を持っており、知識を持っており、知識を持っています。
+  Id quaeris、inquam、in quo、utrumspondero、verse te huc atque illuc necesse est.
+  Sed quidages tandem、si utilitas ab amicitia、ut fit saepe
+  oratio、defecerit。あらゆる情報を収集し、さまざまな情報を収集し、すべての情報を収集し、すべての情報を確認します。自然の中で生きていくために必要な知識。
+  Quod enim dissolutum sit、id esse sine sensu、quod autem sine sensu sit、id nihil
+  ad nos pertinereomnino。 Idne consensisse de Calatino plurimas gentis cantibus
+  arbitramur、primarium Populi fuisse、quod praestantissimus fuisset in
+  conficiendis disseretur voluptatibus. Utramタンデムリングアムネスシオ。エピクロスの魅力を最大限に引き出します。
 subscribe: 購読する

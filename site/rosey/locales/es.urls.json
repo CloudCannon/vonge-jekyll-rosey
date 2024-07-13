@@ -11,13 +11,13 @@
 		"original": "elements/index.html",
 		"value": "elements/index.html"
 	},
-	"index.html": {
-		"original": "index.html",
-		"value": "index.html"
-	},
 	"projects/index.html": {
 		"original": "projects/index.html",
 		"value": "projects/index.html"
+	},
+	"index.html": {
+		"original": "index.html",
+		"value": "index.html"
 	},
 	"tag/life/index.html": {
 		"value": "tag/life.html"
@@ -46,11 +46,11 @@
 	"project/desk-setup/index.html": {
 		"value": "project/desk-setup.html"
 	},
-	"project/mountains/index.html": {
-		"value": "project/mountains.html"
-	},
 	"project/green-plant/index.html": {
 		"value": "project/green-plant.html"
+	},
+	"project/mountains/index.html": {
+		"value": "project/mountains.html"
 	},
 	"project/prague-city/index.html": {
 		"value": "project/prague-city.html"
