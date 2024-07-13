@@ -3,14 +3,14 @@ _inputs:
   $:
     type: object
     comment: "[See
-      project/big-airplane](https://brisk-smokescreen.cloudvent.net/project/big\
-      -airplane)"
+      project/big-airplane/](https://brisk-smokescreen.cloudvent.net/project/bi\
+      g-airplane/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [project/big-airplane](https://brisk-smokescreen.cloudvent.net/project/big-airplane)
+            [project/big-airplane/](https://brisk-smokescreen.cloudvent.net/project/big-airplane/)
           inputs:
             - big-airplane
             - email-address
@@ -23,7 +23,7 @@ _inputs:
             - the-rocks
         - heading: Already translated (jp)
           comment: Text already translated on
-            [project/big-airplane](https://brisk-smokescreen.cloudvent.net/project/big-airplane)
+            [project/big-airplane/](https://brisk-smokescreen.cloudvent.net/project/big-airplane/)
           inputs: []
   big-airplane:
     label: Big airplane
@@ -31,56 +31,56 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane#:~:tex\
-      t=Big%20airplane)"
+      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane/#:~:te\
+      xt=Big%20airplane)"
   email-address:
     label: Email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane#:~:tex\
-      t=Email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane/#:~:te\
+      xt=Email%20address)"
   email-input-placeholder:
     label: Your email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane#:~:tex\
-      t=Your%20email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane/#:~:te\
+      xt=Your%20email%20address)"
   join-my-mailing-list:
     label: Join my mailing list
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane#:~:tex\
-      t=Join%20my%20mailing%20list)"
+      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane/#:~:te\
+      xt=Join%20my%20mailing%20list)"
   next-project:
     label: Next Project
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane#:~:tex\
-      t=Next%20Project)"
+      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane/#:~:te\
+      xt=Next%20Project)"
   photography:
     label: Photography
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane#:~:tex\
-      t=Photography)"
+      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane/#:~:te\
+      xt=Photography)"
   static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane#:~:tex\
-      t=In%20qua%20quid,genere%20laudabiles%20servari)"
+      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane/#:~:te\
+      xt=In%20qua%20quid,genere%20laudabiles%20servari)"
     context:
       open: false
       title: Untranslated Text
@@ -121,16 +121,16 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane#:~:tex\
-      t=Subscribe)"
+      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane/#:~:te\
+      xt=Subscribe)"
   the-rocks:
     label: The rocks
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane#:~:tex\
-      t=The%20rocks)"
+      page](https://brisk-smokescreen.cloudvent.net/project/big-airplane/#:~:te\
+      xt=The%20rocks)"
 big-airplane: ""
 email-address: ""
 email-input-placeholder: ""

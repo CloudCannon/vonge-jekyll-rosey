@@ -3,14 +3,14 @@ _inputs:
   $:
     type: object
     comment: "[See
-      project/green-plant](https://brisk-smokescreen.cloudvent.net/project/gree\
-      n-plant)"
+      project/green-plant/](https://brisk-smokescreen.cloudvent.net/project/gre\
+      en-plant/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [project/green-plant](https://brisk-smokescreen.cloudvent.net/project/green-plant)
+            [project/green-plant/](https://brisk-smokescreen.cloudvent.net/project/green-plant/)
           inputs:
             - email-address
             - email-input-placeholder
@@ -21,7 +21,7 @@ _inputs:
             - subscribe
         - heading: Already translated (es)
           comment: Text already translated on
-            [project/green-plant](https://brisk-smokescreen.cloudvent.net/project/green-plant)
+            [project/green-plant/](https://brisk-smokescreen.cloudvent.net/project/green-plant/)
           inputs: []
   email-address:
     label: Email address
@@ -29,48 +29,48 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/green-plant#:~:text\
-      =Email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/green-plant/#:~:tex\
+      t=Email%20address)"
   email-input-placeholder:
     label: Your email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/green-plant#:~:text\
-      =Your%20email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/green-plant/#:~:tex\
+      t=Your%20email%20address)"
   green-plant:
     label: Green Plant
     hidden: false
-    type: text
+    type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/green-plant#:~:text\
-      =Green%20Plant)"
+      page](https://brisk-smokescreen.cloudvent.net/project/green-plant/#:~:tex\
+      t=Green%20Plant)"
   join-my-mailing-list:
     label: Join my mailing list
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/green-plant#:~:text\
-      =Join%20my%20mailing%20list)"
+      page](https://brisk-smokescreen.cloudvent.net/project/green-plant/#:~:tex\
+      t=Join%20my%20mailing%20list)"
   photography:
     label: Photography
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/green-plant#:~:text\
-      =Photography)"
+      page](https://brisk-smokescreen.cloudvent.net/project/green-plant/#:~:tex\
+      t=Photography)"
   static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/green-plant#:~:text\
-      =In%20qua%20quid,genere%20laudabiles%20servari)"
+      page](https://brisk-smokescreen.cloudvent.net/project/green-plant/#:~:tex\
+      t=In%20qua%20quid,genere%20laudabiles%20servari)"
     context:
       open: false
       title: Untranslated Text
@@ -111,8 +111,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/green-plant#:~:text\
-      =Subscribe)"
+      page](https://brisk-smokescreen.cloudvent.net/project/green-plant/#:~:tex\
+      t=Subscribe)"
 email-address: ""
 email-input-placeholder: ""
 green-plant: ""

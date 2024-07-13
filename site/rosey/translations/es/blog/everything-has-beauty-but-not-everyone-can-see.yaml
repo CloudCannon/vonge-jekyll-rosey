@@ -3,14 +3,15 @@ _inputs:
   $:
     type: object
     comment: "[See
-      blog/everything-has-beauty-but-not-everyone-can-see](https://brisk-smokes\
-      creen.cloudvent.net/blog/everything-has-beauty-but-not-everyone-can-see)"
+      blog/everything-has-beauty-but-not-everyone-can-see/](https://brisk-smoke\
+      screen.cloudvent.net/blog/everything-has-beauty-but-not-everyone-can-see/\
+      )"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [blog/everything-has-beauty-but-not-everyone-can-see](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-but-not-everyone-can-see)
+            [blog/everything-has-beauty-but-not-everyone-can-see/](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-but-not-everyone-can-see/)
           inputs:
             - bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward
             - email-address
@@ -30,7 +31,7 @@ _inputs:
             - share-pinterest-title
             - share-this-post
             - share-twitter-title
-            - static:/blog/everything-has-beauty-but-not-everyone-can-see-content
+            - static:/blog/everything-has-beauty-but-not-everyone-can-see/-content
             - story
             - subscribe
             - that-which-does-not-kill-us-makes-us-stronger
@@ -40,7 +41,7 @@ _inputs:
             - you-must-be-the-change-you-wish-to-see-in-the-world
         - heading: Already translated (es)
           comment: Text already translated on
-            [blog/everything-has-beauty-but-not-everyone-can-see](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-but-not-everyone-can-see)
+            [blog/everything-has-beauty-but-not-everyone-can-see/](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-but-not-everyone-can-see/)
           inputs: []
   bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward:
     label: Bring to the table win-win survival strate...
@@ -49,7 +50,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Bring%20to%20the,day%20going%20forward)"
+      but-not-everyone-can-see/#:~:text=Bring%20to%20the,day%20going%20forward)"
     context:
       open: false
       title: Untranslated Text
@@ -63,7 +64,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Email%20address)"
+      but-not-everyone-can-see/#:~:text=Email%20address)"
   email-input-placeholder:
     label: Your email address
     hidden: false
@@ -71,7 +72,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Your%20email%20address)"
+      but-not-everyone-can-see/#:~:text=Your%20email%20address)"
   everything-has-beauty-but-not-everyone-can-see:
     label: Everything has beauty, but not everyone ca...
     hidden: false
@@ -79,8 +80,8 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Everything%20has%20beauty,everyone%20can\
-      %20see)"
+      but-not-everyone-can-see/#:~:text=Everything%20has%20beauty,everyone%20ca\
+      n%20see)"
     context:
       open: false
       title: Untranslated Text
@@ -93,7 +94,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=It%20is%20never,might%20have%20been)"
+      but-not-everyone-can-see/#:~:text=It%20is%20never,might%20have%20been)"
     context:
       open: false
       title: Untranslated Text
@@ -106,7 +107,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Join%20my%20mailing%20list)"
+      but-not-everyone-can-see/#:~:text=Join%20my%20mailing%20list)"
   life:
     label: life
     hidden: false
@@ -114,7 +115,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=life)"
+      but-not-everyone-can-see/#:~:text=life)"
   life-shrinks-or-expands-in-proportion-to-one-s-courage:
     label: Life shrinks or expands in proportion to o...
     hidden: false
@@ -122,8 +123,8 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Life%20shrinks%20or,to%20one%E2%80%99s%2\
-      0courage)"
+      but-not-everyone-can-see/#:~:text=Life%20shrinks%20or,to%20one%E2%80%99s%\
+      20courage)"
     context:
       open: false
       title: Untranslated Text
@@ -136,7 +137,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=lifestyle)"
+      but-not-everyone-can-see/#:~:text=lifestyle)"
   next-post:
     label: Next post
     hidden: false
@@ -144,7 +145,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Next%20post)"
+      but-not-everyone-can-see/#:~:text=Next%20post)"
   prev-post:
     label: Prev post
     hidden: false
@@ -152,7 +153,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Prev%20post)"
+      but-not-everyone-can-see/#:~:text=Prev%20post)"
   rest:
     label: rest
     hidden: false
@@ -160,7 +161,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=rest)"
+      but-not-everyone-can-see/#:~:text=rest)"
   see-all:
     label: See all travel
     hidden: false
@@ -168,7 +169,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=See%20all%20travel)"
+      but-not-everyone-can-see/#:~:text=See%20all%20travel)"
   share-facebook-title:
     label: Share on Facebook
     hidden: false
@@ -176,7 +177,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Share%20on%20Facebook)"
+      but-not-everyone-can-see/#:~:text=Share%20on%20Facebook)"
   share-linkedin-title:
     label: Share on LinkedIn
     hidden: false
@@ -184,7 +185,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Share%20on%20LinkedIn)"
+      but-not-everyone-can-see/#:~:text=Share%20on%20LinkedIn)"
   share-pinterest-title:
     label: Share on Pinterest
     hidden: false
@@ -192,7 +193,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Share%20on%20Pinterest)"
+      but-not-everyone-can-see/#:~:text=Share%20on%20Pinterest)"
   share-this-post:
     label: Share this Post
     hidden: false
@@ -200,7 +201,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Share%20this%20Post)"
+      but-not-everyone-can-see/#:~:text=Share%20this%20Post)"
   share-twitter-title:
     label: Share on Twitter
     hidden: false
@@ -208,8 +209,8 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Share%20on%20Twitter)"
-  static:/blog/everything-has-beauty-but-not-everyone-can-see-content:
+      but-not-everyone-can-see/#:~:text=Share%20on%20Twitter)"
+  static:/blog/everything-has-beauty-but-not-everyone-can-see/-content:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: markdown
@@ -230,9 +231,60 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=In%20qua%20quid,facta%20est%20investiga)"
+    comment: >-
+      Added: In qua quid est boni praeter summam voluptatem, et eam sempiternam.
+      Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est
+      investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est
+      contemptissimis escis et potionibus, reman voluptatem amico percipi quam
+      rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret,
+      sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic
+      igitur in homine perfectio ista in eo potissimum, quod est optimum, id est
+      in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars
+      caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means
+      adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse
+      videatur in nis. !Woman with child In omni enim arte vel studio vel quavis
+      scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi,
+      habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima.
+      Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime,
+      deindestum etiam cum mediocri amico. Neque enim disputari sine
+      reprehensione nec cum iracundia aut pertinacia recte disputari potest. An,
+      partus ancillae sitned in fructum habendus, disseretur inter principes
+      civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum
+      est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito
+      sintero conservatio sui, necesse est huic partes quoque sui caras suo
+      genere laudabiles rarissimum servari tinere. The longer I live, the more I
+      realize that I am never wrong about anything, and that all the pains I
+      have so humbly taken to verify my notions have only wasted my time! Ego
+      quoque, inquit, didicerim libentius si quid attuleris, quam te
+      reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad
+      sapientiam possent pervenire, alios, qui possent, si id egissent,
+      sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses
+      te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab
+      amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et
+      dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod
+      velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam
+      videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine
+      sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino
+      plurimas gentis cantibus arbitramur, primarium populi fuisse, quod
+      praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram
+      tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.
+      !Beach Qua ex cognitione facilior facta est investigatio rerum
+      occultissimarum. Negat enim praeter tenuissimo victu, id est
+      contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus
+      exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista
+      animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in
+      homine perfectio ista in eo potissimum, quod est optimum, id est in
+      virtute, laudatur disputari sine potissimum. Sin tantum modo ad indicia
+      veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et
+      verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit.
+      Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret?
+      Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare
+      anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis.
+      Archytam? Qua ex cognitione facilior facta est investiga.
+
+
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-but-not-everyone-can-see/#:~:text=In%20qua%20quid,facta%20est%20investiga)
     context:
       open: false
       title: Untranslated Text
@@ -314,7 +366,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=story)"
+      but-not-everyone-can-see/#:~:text=story)"
   subscribe:
     label: Subscribe
     hidden: false
@@ -322,7 +374,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=Subscribe)"
+      but-not-everyone-can-see/#:~:text=Subscribe)"
   that-which-does-not-kill-us-makes-us-stronger:
     label: That which does not kill us makes us stron...
     hidden: false
@@ -330,8 +382,8 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=That%20which%20does,makes%20us%20stronge\
-      r)"
+      but-not-everyone-can-see/#:~:text=That%20which%20does,makes%20us%20strong\
+      er)"
     context:
       open: false
       title: Untranslated Text
@@ -344,7 +396,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=The%20way%20I,of%20good%20things)"
+      but-not-everyone-can-see/#:~:text=The%20way%20I,of%20good%20things)"
     context:
       open: false
       title: Untranslated Text
@@ -357,7 +409,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=travel)"
+      but-not-everyone-can-see/#:~:text=travel)"
   you-may-also-like:
     label: You may also like
     hidden: false
@@ -365,7 +417,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=You%20may%20also%20like)"
+      but-not-everyone-can-see/#:~:text=You%20may%20also%20like)"
   you-must-be-the-change-you-wish-to-see-in-the-world:
     label: You must be the change you wish to see in ...
     hidden: false
@@ -373,7 +425,7 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/everything-has-beauty-\
-      but-not-everyone-can-see#:~:text=You%20must%20be,in%20the%20world)"
+      but-not-everyone-can-see/#:~:text=You%20must%20be,in%20the%20world)"
     context:
       open: false
       title: Untranslated Text
@@ -397,7 +449,7 @@ share-linkedin-title: ""
 share-pinterest-title: ""
 share-this-post: ""
 share-twitter-title: ""
-static:/blog/everything-has-beauty-but-not-everyone-can-see-content: ""
+static:/blog/everything-has-beauty-but-not-everyone-can-see/-content: ""
 story: ""
 subscribe: ""
 that-which-does-not-kill-us-makes-us-stronger: ""

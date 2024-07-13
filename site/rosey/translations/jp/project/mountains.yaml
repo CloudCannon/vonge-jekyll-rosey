@@ -3,14 +3,14 @@ _inputs:
   $:
     type: object
     comment: "[See
-      project/mountains](https://brisk-smokescreen.cloudvent.net/project/mounta\
-      ins)"
+      project/mountains/](https://brisk-smokescreen.cloudvent.net/project/mount\
+      ains/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [project/mountains](https://brisk-smokescreen.cloudvent.net/project/mountains)
+            [project/mountains/](https://brisk-smokescreen.cloudvent.net/project/mountains/)
           inputs:
             - big-airplane
             - email-address
@@ -23,7 +23,7 @@ _inputs:
             - subscribe
         - heading: Already translated (jp)
           comment: Text already translated on
-            [project/mountains](https://brisk-smokescreen.cloudvent.net/project/mountains)
+            [project/mountains/](https://brisk-smokescreen.cloudvent.net/project/mountains/)
           inputs: []
   big-airplane:
     label: Big airplane
@@ -31,64 +31,64 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=B\
-      ig%20airplane)"
+      page](https://brisk-smokescreen.cloudvent.net/project/mountains/#:~:text=\
+      Big%20airplane)"
   email-address:
     label: Email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=E\
-      mail%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/mountains/#:~:text=\
+      Email%20address)"
   email-input-placeholder:
     label: Your email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=Y\
-      our%20email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/mountains/#:~:text=\
+      Your%20email%20address)"
   join-my-mailing-list:
     label: Join my mailing list
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=J\
-      oin%20my%20mailing%20list)"
+      page](https://brisk-smokescreen.cloudvent.net/project/mountains/#:~:text=\
+      Join%20my%20mailing%20list)"
   mountains:
     label: Mountains
     hidden: false
-    type: text
+    type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=M\
-      ountains)"
+      page](https://brisk-smokescreen.cloudvent.net/project/mountains/#:~:text=\
+      Mountains)"
   next-project:
     label: Next Project
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=N\
-      ext%20Project)"
+      page](https://brisk-smokescreen.cloudvent.net/project/mountains/#:~:text=\
+      Next%20Project)"
   photography:
     label: Photography
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=P\
-      hotography)"
+      page](https://brisk-smokescreen.cloudvent.net/project/mountains/#:~:text=\
+      Photography)"
   static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=I\
-      n%20qua%20quid,genere%20laudabiles%20servari)"
+      page](https://brisk-smokescreen.cloudvent.net/project/mountains/#:~:text=\
+      In%20qua%20quid,genere%20laudabiles%20servari)"
     context:
       open: false
       title: Untranslated Text
@@ -129,8 +129,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/mountains#:~:text=S\
-      ubscribe)"
+      page](https://brisk-smokescreen.cloudvent.net/project/mountains/#:~:text=\
+      Subscribe)"
 big-airplane: ""
 email-address: ""
 email-input-placeholder: ""

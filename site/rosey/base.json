@@ -18,12 +18,12 @@
       "total": 1
     },
     "antelope-canyon": {
-      "original": "Antelope Canyon<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
+      "original": "Antelope Canyon",
       "value": null,
       "pages": {
         "index.html": 1,
-        "project/antelope-anyon.html": 1,
-        "project/quiet-lake.html": 1,
+        "project/antelope-anyon/index.html": 1,
+        "project/quiet-lake/index.html": 1,
         "projects/index.html": 1
       },
       "total": 4
@@ -40,11 +40,11 @@
       "original": "Believe and act as if it were impossible to fail",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
         "blog/index.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 2,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 2,
         "tag/lifestyle.html": 1,
         "tag/travel.html": 1
       },
@@ -55,8 +55,8 @@
       "value": null,
       "pages": {
         "index.html": 1,
-        "project/big-airplane.html": 1,
-        "project/mountains.html": 1,
+        "project/big-airplane/index.html": 1,
+        "project/mountains/index.html": 1,
         "projects/index.html": 1
       },
       "total": 4
@@ -73,16 +73,16 @@
       "original": "\n                        Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward.\n                      ",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 3,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 2,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 3,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 3,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 2,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 3,
         "blog/index.html": 6,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 3,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 3,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 2,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 3,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 3,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 2,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 3,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 3,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 2,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 3,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 3,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 2,
         "index.html": 3,
         "tag/life.html": 3,
         "tag/lifestyle.html": 3,
@@ -105,7 +105,7 @@
       "original": "Desk setup",
       "value": null,
       "pages": {
-        "project/desk-setup.html": 1,
+        "project/desk-setup/index.html": 1,
         "projects/index.html": 1
       },
       "total": 2
@@ -114,12 +114,12 @@
       "original": "Do what you can, with what you have, where you are",
       "value": null,
       "pages": {
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
         "blog/index.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 2,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 2,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
         "index.html": 1,
         "tag/life.html": 1,
         "tag/story.html": 1
@@ -139,27 +139,27 @@
       "value": null,
       "pages": {
         "about/index.html": 1,
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
         "blog/index.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1,
         "elements/index.html": 1,
         "index.html": 1,
-        "project/antelope-anyon.html": 1,
-        "project/big-airplane.html": 1,
-        "project/desk-setup.html": 1,
-        "project/green-plant.html": 1,
-        "project/mountains.html": 1,
-        "project/prague-city.html": 1,
-        "project/quiet-lake.html": 1,
-        "project/sea-and-rest.html": 1,
-        "project/the-rocks.html": 1,
+        "project/antelope-anyon/index.html": 1,
+        "project/big-airplane/index.html": 1,
+        "project/desk-setup/index.html": 1,
+        "project/green-plant/index.html": 1,
+        "project/mountains/index.html": 1,
+        "project/prague-city/index.html": 1,
+        "project/quiet-lake/index.html": 1,
+        "project/sea-and-rest/index.html": 1,
+        "project/the-rocks/index.html": 1,
         "projects/index.html": 1,
         "tag/life.html": 1,
         "tag/lifestyle.html": 1,
@@ -175,27 +175,27 @@
       "value": null,
       "pages": {
         "about/index.html": 1,
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
         "blog/index.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1,
         "elements/index.html": 1,
         "index.html": 2,
-        "project/antelope-anyon.html": 1,
-        "project/big-airplane.html": 1,
-        "project/desk-setup.html": 1,
-        "project/green-plant.html": 1,
-        "project/mountains.html": 1,
-        "project/prague-city.html": 1,
-        "project/quiet-lake.html": 1,
-        "project/sea-and-rest.html": 1,
-        "project/the-rocks.html": 1,
+        "project/antelope-anyon/index.html": 1,
+        "project/big-airplane/index.html": 1,
+        "project/desk-setup/index.html": 1,
+        "project/green-plant/index.html": 1,
+        "project/mountains/index.html": 1,
+        "project/prague-city/index.html": 1,
+        "project/quiet-lake/index.html": 1,
+        "project/sea-and-rest/index.html": 1,
+        "project/the-rocks/index.html": 1,
         "projects/index.html": 1,
         "tag/life.html": 1,
         "tag/lifestyle.html": 1,
@@ -210,10 +210,10 @@
       "original": "Everything has beauty, but not everyone can see",
       "value": null,
       "pages": {
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
         "blog/index.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
         "tag/rest.html": 1,
         "tag/travel.html": 1
       },
@@ -228,12 +228,12 @@
       "total": 2
     },
     "green-plant": {
-      "original": "Green Plant",
+      "original": "Green Plant<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
       "value": null,
       "pages": {
         "index.html": 1,
-        "project/antelope-anyon.html": 1,
-        "project/green-plant.html": 1,
+        "project/antelope-anyon/index.html": 1,
+        "project/green-plant/index.html": 1,
         "projects/index.html": 1
       },
       "total": 4
@@ -266,9 +266,9 @@
       "original": "It is never too late to be what you might have been",
       "value": null,
       "pages": {
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
         "blog/index.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
         "tag/notes.html": 1,
         "tag/travel.html": 1
       },
@@ -279,27 +279,27 @@
       "value": null,
       "pages": {
         "about/index.html": 1,
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
         "blog/index.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1,
         "elements/index.html": 1,
         "index.html": 1,
-        "project/antelope-anyon.html": 1,
-        "project/big-airplane.html": 1,
-        "project/desk-setup.html": 1,
-        "project/green-plant.html": 1,
-        "project/mountains.html": 1,
-        "project/prague-city.html": 1,
-        "project/quiet-lake.html": 1,
-        "project/sea-and-rest.html": 1,
-        "project/the-rocks.html": 1,
+        "project/antelope-anyon/index.html": 1,
+        "project/big-airplane/index.html": 1,
+        "project/desk-setup/index.html": 1,
+        "project/green-plant/index.html": 1,
+        "project/mountains/index.html": 1,
+        "project/prague-city/index.html": 1,
+        "project/quiet-lake/index.html": 1,
+        "project/sea-and-rest/index.html": 1,
+        "project/the-rocks/index.html": 1,
         "projects/index.html": 1,
         "tag/life.html": 1,
         "tag/lifestyle.html": 1,
@@ -322,15 +322,15 @@
       "original": "life",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 4,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 4,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
         "blog/index.html": 3,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 2,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 3,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 4,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 3,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 2,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 3,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 4,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 3,
         "index.html": 2,
         "tag/life.html": 4,
         "tag/notes.html": 1,
@@ -343,16 +343,16 @@
       "original": "Life shrinks or expands in proportion to one’s courage",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
         "blog/index.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 2,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 2,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1,
         "tag/life.html": 1,
         "tag/story.html": 1,
         "tag/travel.html": 1
@@ -363,13 +363,13 @@
       "original": "lifestyle",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 3,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 2,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 3,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 2,
         "blog/index.html": 3,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 3,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 4,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 3,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 4,
         "index.html": 1,
         "tag/lifestyle.html": 4,
         "tag/rest.html": 1,
@@ -390,9 +390,9 @@
       "original": "\n                        In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione ...\n                      ",
       "value": null,
       "pages": {
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1,
         "tag/notes.html": 2,
         "tag/rest.html": 2,
         "tag/story.html": 1,
@@ -409,12 +409,12 @@
       "total": 1
     },
     "mountains": {
-      "original": "Mountains",
+      "original": "Mountains<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
       "value": null,
       "pages": {
         "index.html": 1,
-        "project/mountains.html": 1,
-        "project/sea-and-rest.html": 1,
+        "project/mountains/index.html": 1,
+        "project/sea-and-rest/index.html": 1,
         "projects/index.html": 1
       },
       "total": 4
@@ -431,14 +431,14 @@
       "original": "Next post",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1
       },
       "total": 8
     },
@@ -446,14 +446,14 @@
       "original": "Next Project",
       "value": null,
       "pages": {
-        "project/antelope-anyon.html": 1,
-        "project/big-airplane.html": 1,
-        "project/desk-setup.html": 1,
-        "project/mountains.html": 1,
-        "project/prague-city.html": 1,
-        "project/quiet-lake.html": 1,
-        "project/sea-and-rest.html": 1,
-        "project/the-rocks.html": 1
+        "project/antelope-anyon/index.html": 1,
+        "project/big-airplane/index.html": 1,
+        "project/desk-setup/index.html": 1,
+        "project/mountains/index.html": 1,
+        "project/prague-city/index.html": 1,
+        "project/quiet-lake/index.html": 1,
+        "project/sea-and-rest/index.html": 1,
+        "project/the-rocks/index.html": 1
       },
       "total": 8
     },
@@ -461,13 +461,13 @@
       "original": "notes",
       "value": null,
       "pages": {
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 2,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 2,
         "blog/index.html": 3,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 2,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 2,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 3,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 2,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 2,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 3,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1,
         "index.html": 1,
         "tag/life.html": 1,
         "tag/notes.html": 4,
@@ -505,24 +505,24 @@
       "original": "Photography",
       "value": null,
       "pages": {
-        "project/antelope-anyon.html": 1,
-        "project/big-airplane.html": 1,
-        "project/desk-setup.html": 1,
-        "project/green-plant.html": 1,
-        "project/mountains.html": 1,
-        "project/prague-city.html": 1,
-        "project/quiet-lake.html": 1,
-        "project/sea-and-rest.html": 1,
-        "project/the-rocks.html": 1
+        "project/antelope-anyon/index.html": 1,
+        "project/big-airplane/index.html": 1,
+        "project/desk-setup/index.html": 1,
+        "project/green-plant/index.html": 1,
+        "project/mountains/index.html": 1,
+        "project/prague-city/index.html": 1,
+        "project/quiet-lake/index.html": 1,
+        "project/sea-and-rest/index.html": 1,
+        "project/the-rocks/index.html": 1
       },
       "total": 9
     },
     "prague-city": {
-      "original": "Prague city<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
+      "original": "Prague city",
       "value": null,
       "pages": {
-        "project/desk-setup.html": 1,
-        "project/prague-city.html": 1,
+        "project/desk-setup/index.html": 1,
+        "project/prague-city/index.html": 1,
         "projects/index.html": 1
       },
       "total": 3
@@ -531,14 +531,14 @@
       "original": "Prev post",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1
       },
       "total": 8
     },
@@ -555,8 +555,8 @@
       "value": null,
       "pages": {
         "index.html": 1,
-        "project/quiet-lake.html": 1,
-        "project/the-rocks.html": 1,
+        "project/quiet-lake/index.html": 1,
+        "project/the-rocks/index.html": 1,
         "projects/index.html": 1
       },
       "total": 4
@@ -573,14 +573,14 @@
       "original": "rest",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 2,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 2,
         "blog/index.html": 3,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 2,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 2,
         "tag/lifestyle.html": 1,
         "tag/notes.html": 1,
         "tag/rest.html": 4,
@@ -590,11 +590,11 @@
       "total": 20
     },
     "sea-and-rest": {
-      "original": "Sea and rest<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
+      "original": "Sea and rest",
       "value": null,
       "pages": {
-        "project/prague-city.html": 1,
-        "project/sea-and-rest.html": 1,
+        "project/prague-city/index.html": 1,
+        "project/sea-and-rest/index.html": 1,
         "projects/index.html": 1
       },
       "total": 3
@@ -603,15 +603,15 @@
       "original": "See all<span data-rosey=\"travel\"> travel</span> <i class=\"ion ion-md-arrow-forward\"></i>",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1
       },
       "total": 9
     },
@@ -635,15 +635,15 @@
       "original": "Share on Facebook",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1
       },
       "total": 9
     },
@@ -651,15 +651,15 @@
       "original": "Share on LinkedIn",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1
       },
       "total": 9
     },
@@ -667,15 +667,15 @@
       "original": "Share on Pinterest",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1
       },
       "total": 9
     },
@@ -683,15 +683,15 @@
       "original": "Share this Post",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1
       },
       "total": 9
     },
@@ -699,15 +699,15 @@
       "original": "Share on Twitter",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1
       },
       "total": 9
     },
@@ -715,87 +715,87 @@
       "original": "\n    <p>In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.</p>\n\n<p><img alt=\"Palm trees\" height=\"900\" src=\"/images/image-example-3.jpg\" width=\"1200\"></p>\n\n<p>Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.</p>\n\n<p><img alt=\"Sea\" height=\"900\" src=\"/images/image-example-4.jpg\" width=\"1200\"></p>\n\n<p>Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.</p>\n\n  ",
       "value": null,
       "pages": {
-        "project/antelope-anyon.html": 1,
-        "project/big-airplane.html": 1,
-        "project/desk-setup.html": 1,
-        "project/green-plant.html": 1,
-        "project/mountains.html": 1,
-        "project/prague-city.html": 1,
-        "project/quiet-lake.html": 1,
-        "project/sea-and-rest.html": 1,
-        "project/the-rocks.html": 1
+        "project/antelope-anyon/index.html": 1,
+        "project/big-airplane/index.html": 1,
+        "project/desk-setup/index.html": 1,
+        "project/green-plant/index.html": 1,
+        "project/mountains/index.html": 1,
+        "project/prague-city/index.html": 1,
+        "project/quiet-lake/index.html": 1,
+        "project/sea-and-rest/index.html": 1,
+        "project/the-rocks/index.html": 1
       },
       "total": 9
     },
-    "static:/blog/believe-and-act-as-if-it-were-impossible-to-fail-content": {
+    "static:/blog/believe-and-act-as-if-it-were-impossible-to-fail/-content": {
       "original": "\n      <p>In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.</p>\n\n<p><img alt=\"Woman with child\" height=\"900\" src=\"/images/image-example-1.jpg\" width=\"1200\"></p>\n\n<p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p>\n\n<blockquote>\n  <p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p>\n</blockquote>\n\n<p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n\n<p><img alt=\"Beach\" height=\"900\" src=\"/images/image-example-2.jpg\" width=\"1200\"></p>\n\n<p>Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.</p>\n\n<p>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.</p>\n\n    ",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1
       },
       "total": 1
     },
-    "static:/blog/do-what-you-can-with-what-you-have-where-you-are-content": {
+    "static:/blog/do-what-you-can-with-what-you-have-where-you-are/-content": {
       "original": "\n      <p>In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.</p>\n\n<p><img alt=\"Woman with child\" height=\"900\" src=\"/images/image-example-1.jpg\" width=\"1200\"></p>\n\n<p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p>\n\n<blockquote>\n  <p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p>\n</blockquote>\n\n<p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n\n<p><img alt=\"Beach\" height=\"900\" src=\"/images/image-example-2.jpg\" width=\"1200\"></p>\n\n<p>Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.</p>\n\n<p>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.</p>\n\n    ",
       "value": null,
       "pages": {
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1
       },
       "total": 1
     },
-    "static:/blog/everything-has-beauty-but-not-everyone-can-see-content": {
+    "static:/blog/everything-has-beauty-but-not-everyone-can-see/-content": {
       "original": "\n      <p>In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.</p>\n\n<p><img alt=\"Woman with child\" height=\"900\" src=\"/images/image-example-1.jpg\" width=\"1200\"></p>\n\n<p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p>\n\n<blockquote>\n  <p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p>\n</blockquote>\n\n<p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n\n<p><img alt=\"Beach\" height=\"900\" src=\"/images/image-example-2.jpg\" width=\"1200\"></p>\n\n<p>Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.</p>\n\n<p>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.</p>\n\n    ",
       "value": null,
       "pages": {
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1
       },
       "total": 1
     },
-    "static:/blog/it-is-never-too-late-to-be-what-you-might-have-been-content": {
+    "static:/blog/it-is-never-too-late-to-be-what-you-might-have-been/-content": {
       "original": "\n      <p>In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.</p>\n\n<p><img alt=\"Woman with child\" height=\"900\" src=\"/images/image-example-1.jpg\" width=\"1200\"></p>\n\n<p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p>\n\n<blockquote>\n  <p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p>\n</blockquote>\n\n<p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n\n<p><img alt=\"Beach\" height=\"900\" src=\"/images/image-example-2.jpg\" width=\"1200\"></p>\n\n<p>Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.</p>\n\n<p>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.</p>\n\n    ",
       "value": null,
       "pages": {
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1
       },
       "total": 1
     },
-    "static:/blog/life-shrinks-or-expands-in-proportion-to-one-s-courage-content": {
+    "static:/blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/-content": {
       "original": "\n      <p>In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.</p>\n\n<p><img alt=\"Woman with child\" height=\"900\" src=\"/images/image-example-1.jpg\" width=\"1200\"></p>\n\n<p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p>\n\n<blockquote>\n  <p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p>\n</blockquote>\n\n<p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n\n<p><img alt=\"Beach\" height=\"900\" src=\"/images/image-example-2.jpg\" width=\"1200\"></p>\n\n<p>Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.</p>\n\n<p>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.</p>\n\n    ",
       "value": null,
       "pages": {
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1
       },
       "total": 1
     },
-    "static:/blog/strive-not-to-be-a-success-but-rather-to-be-of-value-content": {
+    "static:/blog/strive-not-to-be-a-success-but-rather-to-be-of-value/-content": {
       "original": "\n      <p>In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.</p>\n\n<p><img alt=\"Woman with child\" height=\"900\" src=\"/images/image-example-1.jpg\" width=\"1200\"></p>\n\n<p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p>\n\n<blockquote>\n  <p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p>\n</blockquote>\n\n<p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n\n<p><img alt=\"Beach\" height=\"900\" src=\"/images/image-example-2.jpg\" width=\"1200\"></p>\n\n<p>Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.</p>\n\n<p>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.</p>\n\n    ",
       "value": null,
       "pages": {
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1
       },
       "total": 1
     },
-    "static:/blog/that-which-does-not-kill-us-makes-us-stronger-content": {
+    "static:/blog/that-which-does-not-kill-us-makes-us-stronger/-content": {
       "original": "\n      <p>In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.</p>\n\n<p><img alt=\"Woman with child\" height=\"900\" src=\"/images/image-example-1.jpg\" width=\"1200\"></p>\n\n<p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p>\n\n<blockquote>\n  <p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p>\n</blockquote>\n\n<p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n\n<p><img alt=\"Beach\" height=\"900\" src=\"/images/image-example-2.jpg\" width=\"1200\"></p>\n\n<p>Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.</p>\n\n<p>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.</p>\n\n    ",
       "value": null,
       "pages": {
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1
       },
       "total": 1
     },
-    "static:/blog/the-way-i-see-it-every-life-is-a-pile-of-good-things-content": {
+    "static:/blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/-content": {
       "original": "\n      <p>In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.</p>\n\n<p><img alt=\"Woman with child\" height=\"900\" src=\"/images/image-example-1.jpg\" width=\"1200\"></p>\n\n<p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p>\n\n<blockquote>\n  <p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p>\n</blockquote>\n\n<p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n\n<p><img alt=\"Beach\" height=\"900\" src=\"/images/image-example-2.jpg\" width=\"1200\"></p>\n\n<p>Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.</p>\n\n<p>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.</p>\n\n    ",
       "value": null,
       "pages": {
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1
       },
       "total": 1
     },
-    "static:/blog/you-must-be-the-change-you-wish-to-see-in-the-world-content": {
+    "static:/blog/you-must-be-the-change-you-wish-to-see-in-the-world/-content": {
       "original": "\n      <p>In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.</p>\n\n<p><img alt=\"Woman with child\" height=\"900\" src=\"/images/image-example-1.jpg\" width=\"1200\"></p>\n\n<p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p>\n\n<blockquote>\n  <p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p>\n</blockquote>\n\n<p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n\n<p><img alt=\"Beach\" height=\"900\" src=\"/images/image-example-2.jpg\" width=\"1200\"></p>\n\n<p>Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim praeter tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine potissimum.</p>\n\n<p>Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.</p>\n\n    ",
       "value": null,
       "pages": {
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1
       },
       "total": 1
     },
@@ -811,16 +811,16 @@
       "original": "story",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 3,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 3,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
         "blog/index.html": 3,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 2,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 3,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 3,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 2,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 3,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 3,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1,
         "index.html": 1,
         "tag/life.html": 2,
         "tag/notes.html": 1,
@@ -834,12 +834,12 @@
       "original": "Strive not to be a success, but rather to be of value",
       "value": null,
       "pages": {
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 2,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 2,
         "blog/index.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 2,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 2,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
         "index.html": 1,
         "tag/life.html": 1,
         "tag/notes.html": 1
@@ -851,27 +851,27 @@
       "value": null,
       "pages": {
         "about/index.html": 1,
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
         "blog/index.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1,
         "elements/index.html": 1,
         "index.html": 1,
-        "project/antelope-anyon.html": 1,
-        "project/big-airplane.html": 1,
-        "project/desk-setup.html": 1,
-        "project/green-plant.html": 1,
-        "project/mountains.html": 1,
-        "project/prague-city.html": 1,
-        "project/quiet-lake.html": 1,
-        "project/sea-and-rest.html": 1,
-        "project/the-rocks.html": 1,
+        "project/antelope-anyon/index.html": 1,
+        "project/big-airplane/index.html": 1,
+        "project/desk-setup/index.html": 1,
+        "project/green-plant/index.html": 1,
+        "project/mountains/index.html": 1,
+        "project/prague-city/index.html": 1,
+        "project/quiet-lake/index.html": 1,
+        "project/sea-and-rest/index.html": 1,
+        "project/the-rocks/index.html": 1,
         "projects/index.html": 1,
         "tag/life.html": 1,
         "tag/lifestyle.html": 1,
@@ -886,14 +886,14 @@
       "original": "That which does not kill us makes us stronger",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
         "blog/index.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1,
         "index.html": 1,
         "tag/lifestyle.html": 1,
         "tag/travel.html": 1
@@ -905,8 +905,8 @@
       "value": null,
       "pages": {
         "index.html": 1,
-        "project/big-airplane.html": 1,
-        "project/the-rocks.html": 1,
+        "project/big-airplane/index.html": 1,
+        "project/the-rocks/index.html": 1,
         "projects/index.html": 1
       },
       "total": 4
@@ -915,13 +915,13 @@
       "original": "The way I see it, every life is a pile of good things",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
         "blog/index.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1,
         "tag/notes.html": 1,
         "tag/rest.html": 1,
         "tag/story.html": 1
@@ -932,16 +932,16 @@
       "original": "travel",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 4,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 4,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 4,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 4,
         "blog/index.html": 5,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 4,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 3,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 4,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 2,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 4,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 3,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 4,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 2,
         "index.html": 1,
         "tag/life.html": 1,
         "tag/lifestyle.html": 2,
@@ -988,15 +988,15 @@
       "original": "You may also like",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 1,
-        "blog/do-what-you-can-with-what-you-have-where-you-are.html": 1,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
-        "blog/it-is-never-too-late-to-be-what-you-might-have-been.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 1,
+        "blog/do-what-you-can-with-what-you-have-where-you-are/index.html": 1,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
+        "blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1
       },
       "total": 9
     },
@@ -1004,12 +1004,12 @@
       "original": "You must be the change you wish to see in the world",
       "value": null,
       "pages": {
-        "blog/believe-and-act-as-if-it-were-impossible-to-fail.html": 2,
-        "blog/everything-has-beauty-but-not-everyone-can-see.html": 1,
+        "blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": 2,
+        "blog/everything-has-beauty-but-not-everyone-can-see/index.html": 1,
         "blog/index.html": 1,
-        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html": 1,
-        "blog/that-which-does-not-kill-us-makes-us-stronger.html": 1,
-        "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html": 1,
+        "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": 1,
+        "blog/that-which-does-not-kill-us-makes-us-stronger/index.html": 1,
+        "blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": 1,
         "tag/lifestyle.html": 1,
         "tag/rest.html": 1
       },

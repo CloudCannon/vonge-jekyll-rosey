@@ -3,14 +3,14 @@ _inputs:
   $:
     type: object
     comment: "[See
-      project/prague-city](https://brisk-smokescreen.cloudvent.net/project/prag\
-      ue-city)"
+      project/prague-city/](https://brisk-smokescreen.cloudvent.net/project/pra\
+      gue-city/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [project/prague-city](https://brisk-smokescreen.cloudvent.net/project/prague-city)
+            [project/prague-city/](https://brisk-smokescreen.cloudvent.net/project/prague-city/)
           inputs:
             - email-address
             - email-input-placeholder
@@ -23,7 +23,7 @@ _inputs:
             - subscribe
         - heading: Already translated (es)
           comment: Text already translated on
-            [project/prague-city](https://brisk-smokescreen.cloudvent.net/project/prague-city)
+            [project/prague-city/](https://brisk-smokescreen.cloudvent.net/project/prague-city/)
           inputs: []
   email-address:
     label: Email address
@@ -31,64 +31,64 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/prague-city#:~:text\
-      =Email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/prague-city/#:~:tex\
+      t=Email%20address)"
   email-input-placeholder:
     label: Your email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/prague-city#:~:text\
-      =Your%20email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/prague-city/#:~:tex\
+      t=Your%20email%20address)"
   join-my-mailing-list:
     label: Join my mailing list
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/prague-city#:~:text\
-      =Join%20my%20mailing%20list)"
+      page](https://brisk-smokescreen.cloudvent.net/project/prague-city/#:~:tex\
+      t=Join%20my%20mailing%20list)"
   next-project:
     label: Next Project
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/prague-city#:~:text\
-      =Next%20Project)"
+      page](https://brisk-smokescreen.cloudvent.net/project/prague-city/#:~:tex\
+      t=Next%20Project)"
   photography:
     label: Photography
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/prague-city#:~:text\
-      =Photography)"
+      page](https://brisk-smokescreen.cloudvent.net/project/prague-city/#:~:tex\
+      t=Photography)"
   prague-city:
     label: Prague city
     hidden: false
-    type: textarea
+    type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/prague-city#:~:text\
-      =Prague%20city)"
+      page](https://brisk-smokescreen.cloudvent.net/project/prague-city/#:~:tex\
+      t=Prague%20city)"
   sea-and-rest:
     label: Sea and rest
     hidden: false
-    type: textarea
+    type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/prague-city#:~:text\
-      =Sea%20and%20rest)"
+      page](https://brisk-smokescreen.cloudvent.net/project/prague-city/#:~:tex\
+      t=Sea%20and%20rest)"
   static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/prague-city#:~:text\
-      =In%20qua%20quid,genere%20laudabiles%20servari)"
+      page](https://brisk-smokescreen.cloudvent.net/project/prague-city/#:~:tex\
+      t=In%20qua%20quid,genere%20laudabiles%20servari)"
     context:
       open: false
       title: Untranslated Text
@@ -129,8 +129,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/prague-city#:~:text\
-      =Subscribe)"
+      page](https://brisk-smokescreen.cloudvent.net/project/prague-city/#:~:tex\
+      t=Subscribe)"
 email-address: ""
 email-input-placeholder: ""
 join-my-mailing-list: ""
