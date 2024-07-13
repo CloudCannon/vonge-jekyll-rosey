@@ -1,7 +1,7 @@
 {
 	"about": {
 		"original": "About",
-		"value": "About"
+		"value": "Acerca de"
 	},
 	"email-address": {
 		"original": "Email address",
@@ -17,7 +17,7 @@
 	},
 	"markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab": {
 		"original": "\n    <p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p><blockquote><p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p></blockquote><p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n  ",
-		"value": "\n    <p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p><blockquote><p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p></blockquote><p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n  "
+		"value": "<p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute óptimo quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p>\n<blockquote>\n<p>Cuanto más vivo, más me doy cuenta de que nunca me equivoco en nada y que todos los esfuerzos que me he esforzado tan humildemente para verificar mis nociones sólo han hecho perder el tiempo.</p>\n</blockquote>\n<p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. Soy quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid age tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicuro voluptate terra perfectio.</p>\n"
 	},
 	"subscribe": {
 		"original": "Subscribe",
@@ -25,7 +25,7 @@
 	},
 	"believe-and-act-as-if-it-were-impossible-to-fail": {
 		"original": "Believe and act as if it were impossible to fail",
-		"value": "Believe and act as if it were impossible to fail"
+		"value": "Cree y actúa como si fuera imposible fracasar"
 	},
 	"blog": {
 		"original": "Blog",
@@ -41,11 +41,11 @@
 	},
 	"everything-has-beauty-but-not-everyone-can-see": {
 		"original": "Everything has beauty, but not everyone can see",
-		"value": "Everything has beauty, but not everyone can see"
+		"value": "Todo tiene belleza, pero no todos pueden ver."
 	},
 	"it-is-never-too-late-to-be-what-you-might-have-been": {
 		"original": "It is never too late to be what you might have been",
-		"value": "It is never too late to be what you might have been"
+		"value": "Nunca es demasiado tarde para ser lo que podrías haber sido"
 	},
 	"life": {
 		"original": "life",
@@ -53,7 +53,7 @@
 	},
 	"life-shrinks-or-expands-in-proportion-to-one-s-courage": {
 		"original": "Life shrinks or expands in proportion to one’s courage",
-		"value": "Life shrinks or expands in proportion to one’s courage"
+		"value": "La vida se reduce o se expande en proporción al coraje de uno."
 	},
 	"lifestyle": {
 		"original": "lifestyle",
@@ -65,11 +65,11 @@
 	},
 	"rest": {
 		"original": "rest",
-		"value": "rest"
+		"value": "descansar"
 	},
 	"static:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitione-facilior-facta-est-investigatio-rerum-occultissimarum-negat-enim-tenuissimo-victu-id-est-contemptissimis-escis-et-potionibus-reman-voluptatem-amico-percipi-quam-rebus-exquisitissimis-ad-epulandum-non-enim-iam-stirpis-bonum-quaeret-sed-animalis-qui-autem-esse-poteris-nisi-te-amor-ipse-ceperit-sic-igitur-in-homine-perfectio-ista-in-eo-potissimum-quod-est-optimum-id-est-in-virtute-laudatur-natura-sic-ab-iis-investigata-est-ut-nulla-pars-caelo-mari-terra-ut-poëtice-loquar-praetermissa-sit-eadem-nunc-means-adversum-te-oratio-est-mihi-quidem-homerus-huius-modi-quiddam-vidisse-videatur-in-nis-p-p-img-src-images-image-example-1-jpg-alt-woman-with-child-width-1200-height-900-p-p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-habere-ea-quae-secundum-naturam-sint-vel-omnia-vel-plurima-et-maxima-quodsi-ipsam-honestatem-undique-pertectam-atque-absolutam-tecum-optime-deindestum-etiam-cum-mediocri-amico-neque-enim-disputari-sine-reprehensione-nec-cum-iracundia-aut-pertinacia-recte-disputari-potest-an-partus-ancillae-sitned-in-fructum-habendus-disseretur-inter-principes-civitatis-p-ut-in-geometria-prima-si-dederis-danda-sunt-omnia-longum-est-enim-ad-omnia-respondere-quae-a-te-dicta-sunt-nam-cui-proposito-sintero-conservatio-sui-necesse-est-huic-partes-quoque-sui-caras-suo-genere-laudabiles-rarissimum-servari-tinere-p-blockquote-p-the-longer-i-live-the-more-i-realize-that-i-am-never-wrong-about-anything-and-that-all-the-pains-i-have-so-humbly-taken-to-verify-my-notions-have-only-wasted-my-time-p-blockquote-p-ego-quoque-inquit-didicerim-libentius-si-quid-attuleris-quam-te-reprehenderim-i-am-quod-insipientes-alios-ita-esse-ut-nullo-modo-ad-sapientiam-possent-pervenire-alios-qui-possent-si-id-egissent-sapientiam-consequi-id-quaeris-inquam-in-quo-utrum-respondero-verses-te-huc-atque-illuc-necesse-est-sed-quid-ages-tandem-si-utilitas-ab-amicitia-ut-fit-saepe-oratio-defecerit-sed-isti-ipsi-qui-voluptate-et-dolore-omnia-metiuntur-nonne-clamant-sapienti-plus-semper-adesse-quod-velit-quam-quod-nolit-quae-quidem-sapientes-sequuntur-duce-natura-tamquam-videntes-quod-enim-dissolutum-sit-id-esse-sine-sensu-quod-autem-sine-sensu-sit-id-nihil-ad-nos-pertinere-omnino-idne-consensisse-de-calatino-plurimas-gentis-cantibus-arbitramur-primarium-populi-fuisse-quod-praestantissimus-fuisset-in-conficiendis-disseretur-voluptatibus-utram-tandem-linguam-nescio-quod-dicit-epicurus-voluptate-terra-perfectio-p-p-img-src-images-image-example-2-jpg-alt-beach-width-1200-height-900-p-p-qua-ex-cognitione-facilior-facta-est-investigatio-rerum-occultissimarum-negat-enim-praeter-tenuissimo-victu-id-est-contemptissimis-escis-et-potionibus-minorem-voluptatem-percipi-quam-rebus-exquisitissimis-ad-epulandum-non-enim-iam-stirpis-bonum-quaeret-sed-ista-animalis-qui-autem-esse-poteris-nisi-te-amor-ipse-ceperit-sic-igitur-in-homine-perfectio-ista-in-eo-potissimum-quod-est-optimum-id-est-in-virtute-laudatur-disputari-sine-potissimum-p-p-sin-tantum-modo-ad-indicia-veteris-memoriae-cognoscenda-curiosorum-haec-et-tu-ita-posuisti-et-verba-vestra-sunt-idemne-potest-esse-dies-saepius-qui-semel-fuit-ampulla-enim-sit-necne-sit-quis-non-iure-optimo-irrideatur-si-laboret-ego-vero-volo-in-virtute-vim-esse-quam-maximam-serpere-anguiculos-nare-anaticulas-evolare-merulas-cornibus-uti-videmus-boves-nepas-aculeis-archytam-qua-ex-cognitione-facilior-facta-est-investiga-p": {
 		"original": "\n          In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione ...\n        ",
-		"value": "\n          In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione ...\n        "
+		"value": "<p>In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione ...</p>\n"
 	},
 	"story": {
 		"original": "story",
@@ -85,7 +85,7 @@
 	},
 	"the-way-i-see-it-every-life-is-a-pile-of-good-things": {
 		"original": "The way I see it, every life is a pile of good things",
-		"value": "The way I see it, every life is a pile of good things"
+		"value": "A mi modo de ver, cada vida es un montón de cosas buenas."
 	},
 	"travel": {
 		"original": "travel",
@@ -93,31 +93,67 @@
 	},
 	"vonge-blog-features-productivity-tips-inspiration-and-strategies-for-massive-profits-find-out-how-to-set-up-a-successful-blog-or-how-to-make-yours-even-better": {
 		"original": "Vonge blog features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!",
-		"value": "Vonge blog features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!"
+		"value": "El blog de Vonge presenta productividad, consejos, inspiración y estrategias para obtener enormes ganancias. ¡Descubra cómo crear un blog exitoso o cómo hacer que el suyo sea aún mejor!"
 	},
 	"you-must-be-the-change-you-wish-to-see-in-the-world": {
 		"original": "You must be the change you wish to see in the world",
-		"value": "You must be the change you wish to see in the world"
+		"value": "Debes ser el cambio que deseas ver en el mundo."
 	},
 	"elements": {
 		"original": "Elements",
-		"value": "Elements"
-	},
-	"MC3PyHtVr6QZLzjZ2JRz2bR1FDUIOcj9tCMXEczuLiY": {
-		"original": "",
-		"value": ""
+		"value": "Elementos"
 	},
 	"antelope-canyon": {
 		"original": "Antelope Canyon<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
 		"value": "Cañón del Antílope"
 	},
-	"art-director": {
-		"original": "Art Director",
-		"value": "Director de arte"
-	},
 	"big-airplane": {
 		"original": "Big airplane<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
 		"value": "Avion grande"
+	},
+	"desk-setup": {
+		"original": "Desk setup",
+		"value": "Desk setup"
+	},
+	"green-plant": {
+		"original": "Green Plant",
+		"value": "Planta verde"
+	},
+	"i-show-only-my-best-works-built-completely-with-passion-simplicity-and-creativity": {
+		"original": "I show only my best works built completely with passion, simplicity, and creativity!",
+		"value": "I show only my best works built completely with passion, simplicity, and creativity!"
+	},
+	"mountains": {
+		"original": "Mountains",
+		"value": "Marketing"
+	},
+	"my-works": {
+		"original": "My works",
+		"value": "My works"
+	},
+	"prague-city": {
+		"original": "Prague city<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
+		"value": "Prague city<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>"
+	},
+	"quiet-lake": {
+		"original": "Quiet Lake<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
+		"value": "Lago tranquilo"
+	},
+	"sea-and-rest": {
+		"original": "Sea and rest<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
+		"value": "Sea and rest<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>"
+	},
+	"the-rocks": {
+		"original": "The rocks",
+		"value": "Las rocas"
+	},
+	"MC3PyHtVr6QZLzjZ2JRz2bR1FDUIOcj9tCMXEczuLiY": {
+		"original": "",
+		"value": ""
+	},
+	"art-director": {
+		"original": "Art Director",
+		"value": "Director de arte"
 	},
 	"copywriter": {
 		"original": "Copywriter",
@@ -126,10 +162,6 @@
 	"get-in-touch": {
 		"original": "Get in touch",
 		"value": "Ponerse en contacto"
-	},
-	"green-plant": {
-		"original": "Green Plant",
-		"value": "Planta verde"
 	},
 	"happy-clients": {
 		"original": "Happy Clients",
@@ -145,10 +177,6 @@
 	},
 	"marketing": {
 		"original": "Marketing",
-		"value": "Marketing"
-	},
-	"mountains": {
-		"original": "Mountains",
 		"value": "Marketing"
 	},
 	"p-i-show-only-my-best-works-built-completely-with-passion-simplicity-and-creativity-p": {
@@ -167,10 +195,6 @@
 		"original": "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis studiis semper.",
 		"value": "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis studiis semper."
 	},
-	"quiet-lake": {
-		"original": "Quiet Lake<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
-		"value": "Lago tranquilo"
-	},
 	"recent-posts": {
 		"original": "Recent Posts",
 		"value": "Mensajes recientes"
@@ -182,10 +206,6 @@
 	"send-now": {
 		"original": "Send now",
 		"value": "Enviar ahora"
-	},
-	"the-rocks": {
-		"original": "The rocks",
-		"value": "Las rocas"
 	},
 	"traveler": {
 		"original": "Traveler",
@@ -218,26 +238,6 @@
 	"your-name-placeholder": {
 		"original": "Your name...",
 		"value": "Su nombre..."
-	},
-	"desk-setup": {
-		"original": "Desk setup",
-		"value": "Desk setup"
-	},
-	"i-show-only-my-best-works-built-completely-with-passion-simplicity-and-creativity": {
-		"original": "I show only my best works built completely with passion, simplicity, and creativity!",
-		"value": "I show only my best works built completely with passion, simplicity, and creativity!"
-	},
-	"my-works": {
-		"original": "My works",
-		"value": "My works"
-	},
-	"prague-city": {
-		"original": "Prague city<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
-		"value": "Prague city<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>"
-	},
-	"sea-and-rest": {
-		"original": "Sea and rest<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
-		"value": "Sea and rest<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>"
 	},
 	"markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio": {
 		"original": "\n                        In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione ...\n                      ",

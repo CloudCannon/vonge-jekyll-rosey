@@ -2,59 +2,55 @@ urlTranslation: about/index.html
 _inputs:
   $:
     type: object
-    comment: '[See about/](https://brisk-smokescreen.cloudvent.net/about/)'
+    comment: "[See about/](https://brisk-smokescreen.cloudvent.net/about/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
-          comment: >-
-            Text to translate on
+          comment: Text to translate on
+            [about/](https://brisk-smokescreen.cloudvent.net/about/)
+          inputs: []
+        - heading: Already translated (es)
+          comment: Text already translated on
             [about/](https://brisk-smokescreen.cloudvent.net/about/)
           inputs:
             - about
-            - >-
-              markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab
-        - heading: Already translated (es)
-          comment: >-
-            Text already translated on
-            [about/](https://brisk-smokescreen.cloudvent.net/about/)
-          inputs:
             - email-address
             - email-input-placeholder
             - join-my-mailing-list
+            - markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab
             - subscribe
   about:
     label: About
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=About)
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=About)"
   email-address:
     label: Email address
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Email%20address)
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Email%20addr\
+      ess)"
   email-input-placeholder:
     label: Your email address
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Your%20email%20address)
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Your%20email\
+      %20address)"
   join-my-mailing-list:
     label: Join my mailing list
     hidden: false
     type: textarea
     options: {}
-    comment: >-
-      [See on
-      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Join%20my%20mailing%20list)
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Join%20my%20\
+      mailing%20list)"
   markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab:
     label: In omni enim arte vel studio vel quavis sc...
     hidden: false
@@ -76,9 +72,9 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: >-
-      [See on
-      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=In%20omni%20enim,voluptate%20terra%20perfectio)
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=In%20omni%20\
+      enim,voluptate%20terra%20perfectio)"
     context:
       open: false
       title: Untranslated Text
@@ -121,9 +117,8 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: >-
-      [See on
-      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Subscribe)
+    comment: "[See on
+      page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Subscribe)"
 about: Acerca de
 email-address: Dirección de correo electrónico
 email-input-placeholder: Su dirección de correo electrónico
