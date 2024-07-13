@@ -5,15 +5,15 @@
 	},
 	"email-address": {
 		"original": "Email address",
-		"value": "Email address"
+		"value": "電子メールアドレス"
 	},
 	"email-input-placeholder": {
 		"original": "Your email address",
-		"value": "Your email address"
+		"value": "あなたのメールアドレス"
 	},
 	"join-my-mailing-list": {
 		"original": "Join my mailing list",
-		"value": "Join my mailing list"
+		"value": "私のメーリングリストに参加してください"
 	},
 	"markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab": {
 		"original": "\n    <p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p><blockquote><p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p></blockquote><p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n  ",
@@ -21,7 +21,7 @@
 	},
 	"subscribe": {
 		"original": "Subscribe",
-		"value": "Subscribe"
+		"value": "購読する"
 	},
 	"believe-and-act-as-if-it-were-impossible-to-fail": {
 		"original": "Believe and act as if it were impossible to fail",
@@ -33,11 +33,11 @@
 	},
 	"bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward": {
 		"original": "\n                        Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward.\n                      ",
-		"value": "\n                        Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward.\n                      "
+		"value": "双方にとって有利な生存戦略をテーブルに提示し、積極的な支配を確保します。結局のところ、前に進むことです。"
 	},
 	"do-what-you-can-with-what-you-have-where-you-are": {
 		"original": "Do what you can, with what you have, where you are",
-		"value": "Do what you can, with what you have, where you are"
+		"value": "今いる場所で、持っているものを使って、できることをする"
 	},
 	"everything-has-beauty-but-not-everyone-can-see": {
 		"original": "Everything has beauty, but not everyone can see",
@@ -49,7 +49,7 @@
 	},
 	"life": {
 		"original": "life",
-		"value": "life"
+		"value": "人生"
 	},
 	"life-shrinks-or-expands-in-proportion-to-one-s-courage": {
 		"original": "Life shrinks or expands in proportion to one’s courage",
@@ -57,11 +57,11 @@
 	},
 	"lifestyle": {
 		"original": "lifestyle",
-		"value": "lifestyle"
+		"value": "ライフスタイル"
 	},
 	"notes": {
 		"original": "notes",
-		"value": "notes"
+		"value": "ノート"
 	},
 	"rest": {
 		"original": "rest",
@@ -73,15 +73,15 @@
 	},
 	"story": {
 		"original": "story",
-		"value": "story"
+		"value": "話"
 	},
 	"strive-not-to-be-a-success-but-rather-to-be-of-value": {
 		"original": "Strive not to be a success, but rather to be of value",
-		"value": "Strive not to be a success, but rather to be of value"
+		"value": "成功することを目指すのではなく、価値のある人間になることを目指す"
 	},
 	"that-which-does-not-kill-us-makes-us-stronger": {
 		"original": "That which does not kill us makes us stronger",
-		"value": "That which does not kill us makes us stronger"
+		"value": "私たちを殺さないものは私たちを強くする"
 	},
 	"the-way-i-see-it-every-life-is-a-pile-of-good-things": {
 		"original": "The way I see it, every life is a pile of good things",
@@ -89,7 +89,7 @@
 	},
 	"travel": {
 		"original": "travel",
-		"value": "travel"
+		"value": "旅行"
 	},
 	"vonge-blog-features-productivity-tips-inspiration-and-strategies-for-massive-profits-find-out-how-to-set-up-a-successful-blog-or-how-to-make-yours-even-better": {
 		"original": "Vonge blog features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!",
@@ -109,59 +109,59 @@
 	},
 	"antelope-canyon": {
 		"original": "Antelope Canyon<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
-		"value": "Antelope Canyon<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>"
+		"value": "アンテロープキャニオン"
 	},
 	"art-director": {
 		"original": "Art Director",
-		"value": "Art Director"
+		"value": "美術監督"
 	},
 	"big-airplane": {
 		"original": "Big airplane<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
-		"value": "Big airplane<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>"
+		"value": "大きな飛行機"
 	},
 	"copywriter": {
 		"original": "Copywriter",
-		"value": "Copywriter"
+		"value": "コピーライター"
 	},
 	"get-in-touch": {
 		"original": "Get in touch",
-		"value": "Get in touch"
+		"value": "連絡する"
 	},
 	"green-plant": {
 		"original": "Green Plant",
-		"value": "Green Plant"
+		"value": "緑の植物"
 	},
 	"happy-clients": {
 		"original": "Happy Clients",
-		"value": "Happy Clients"
+		"value": "幸せなクライアント"
 	},
 	"hi-there-i-am-vanessa-marley": {
 		"original": "Hi there, I am Vanessa Marley",
-		"value": "Hi there, I am Vanessa Marley"
+		"value": "こんにちは、私です Vanessa Marley"
 	},
 	"latest-works": {
 		"original": "Latest Works",
-		"value": "Latest Works"
+		"value": "最新作"
 	},
 	"marketing": {
 		"original": "Marketing",
-		"value": "Marketing"
+		"value": "マーケティング"
 	},
 	"mountains": {
 		"original": "Mountains",
-		"value": "Mountains"
+		"value": "山"
 	},
 	"p-i-show-only-my-best-works-built-completely-with-passion-simplicity-and-creativity-p": {
 		"original": "<p>I show only my best works built completely with passion, simplicity, and creativity!</p>",
-		"value": "<p>I show only my best works built completely with passion, simplicity, and creativity!</p>"
+		"value": "情熱、シンプルさ、創造性を完全に注ぎ込んだ私の最高の作品だけを紹介します。"
 	},
 	"p-strong-photographer-strong-and-strong-visual-content-strategist-strong-from-albany-i-work-as-a-lifestyle-product-and-landscape-photographer-creating-images-for-a-diverse-range-of-requests-from-online-media-to-printed-artwork-p": {
 		"original": "<p><strong>Photographer</strong> and <strong>Visual Content Strategist</strong> from Albany. I work as a lifestyle, product, and landscape photographer, creating images for a diverse range of requests, from online media to printed artwork.</p>",
-		"value": "<p><strong>Photographer</strong> and <strong>Visual Content Strategist</strong> from Albany. I work as a lifestyle, product, and landscape photographer, creating images for a diverse range of requests, from online media to printed artwork.</p>"
+		"value": "アルバニー出身の写真家兼ビジュアル コンテンツ ストラテジスト。ライフスタイル、プロダクト、風景の写真家として活動し、オンラインメディアから印刷物まで、さまざまなリクエストに応じて画像を制作しています。"
 	},
 	"p-vonge-blog-features-productivity-tips-inspiration-and-strategies-for-massive-profits-find-out-how-to-set-up-a-successful-blog-or-how-to-make-yours-even-better-p": {
 		"original": "<p>Vonge blog features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!</p> ",
-		"value": "<p>Vonge blog features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!</p> "
+		"value": "Vonge ブログでは、生産性、ヒント、インスピレーション、巨額の利益を生み出す戦略を特集しています。成功するブログをセットアップする方法、またはブログをさらに改善する方法をご覧ください。"
 	},
 	"quamquam-id-quidem-infinitum-est-in-hac-urbe-ita-multo-sanguine-profuso-in-laetitia-et-in-victoria-est-mortuus-atqui-pugnantibus-et-contrariis-studiis-semper": {
 		"original": "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis studiis semper.",
@@ -169,55 +169,55 @@
 	},
 	"quiet-lake": {
 		"original": "Quiet Lake<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>",
-		"value": "Quiet Lake<i class=\"ion ion-md-arrow-round-forward arrow-right\"></i>"
+		"value": "静かな湖"
 	},
 	"recent-posts": {
 		"original": "Recent Posts",
-		"value": "Recent Posts"
+		"value": "最近の投稿"
 	},
 	"see-my-works": {
 		"original": "\n                <span class=\"circle-bg\"><i class=\"ion ion-md-arrow-down button-arrow\"></i></span> See my works\n              ",
-		"value": "\n                <span class=\"circle-bg\"><i class=\"ion ion-md-arrow-down button-arrow\"></i></span> See my works\n              "
+		"value": "私の作品を見てください"
 	},
 	"send-now": {
 		"original": "Send now",
-		"value": "Send now"
+		"value": "今すぐ送信"
 	},
 	"the-rocks": {
 		"original": "The rocks",
-		"value": "The rocks"
+		"value": "岩"
 	},
 	"traveler": {
 		"original": "Traveler",
-		"value": "Traveler"
+		"value": "旅行者"
 	},
 	"view-all": {
 		"original": "View all <i class=\"ion ion-md-arrow-forward\"></i>",
-		"value": "View all <i class=\"ion ion-md-arrow-forward\"></i>"
+		"value": "すべて見る"
 	},
 	"vonge-comes-with-a-built-in-contact-form": {
 		"original": "Vonge comes with a built-in contact form.",
-		"value": "Vonge comes with a built-in contact form."
+		"value": "Vonge には組み込みのお問い合わせフォームが付属しています。"
 	},
 	"your-email": {
 		"original": "Your Email",
-		"value": "Your Email"
+		"value": "あなたのメールアドレス"
 	},
 	"your-message": {
 		"original": "Your Message",
-		"value": "Your Message"
+		"value": "あなたのメッセージ"
 	},
 	"your-message-placeholder": {
 		"original": "Your message...",
-		"value": "Your message..."
+		"value": " あなたのメッセージ..."
 	},
 	"your-name": {
 		"original": "Your Name",
-		"value": "Your Name"
+		"value": "あなたの名前"
 	},
 	"your-name-placeholder": {
 		"original": "Your name...",
-		"value": "Your name..."
+		"value": "あなたの名前..."
 	},
 	"desk-setup": {
 		"original": "Desk setup",

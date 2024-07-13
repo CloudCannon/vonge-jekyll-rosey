@@ -398,16 +398,18 @@ _inputs:
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/blog/do-what-you-can-with-w\
       hat-you-have-where-you-are#:~:text=You%20may%20also%20like)"
-bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward: ""
-do-what-you-can-with-what-you-have-where-you-are: ""
-email-address: ""
-email-input-placeholder: ""
-join-my-mailing-list: ""
-life: ""
+bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward:
+  Ponga sobre la mesa estrategias de supervivencia beneficiosas para todos para
+  garantizar una dominación proactiva. Al final del día, de cara al futuro.
+do-what-you-can-with-what-you-have-where-you-are: Haz lo que puedas, con lo que tienes, donde estés
+email-address: Dirección de correo electrónico
+email-input-placeholder: Su dirección de correo electrónico
+join-my-mailing-list: Únete a mi lista de correo
+life: vida
 life-shrinks-or-expands-in-proportion-to-one-s-courage: ""
 markdown:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitio: ""
 next-post: ""
-notes: ""
+notes: notas
 prev-post: ""
 rest: ""
 see-all: ""
@@ -417,10 +419,10 @@ share-pinterest-title: ""
 share-this-post: ""
 share-twitter-title: ""
 static:/blog/do-what-you-can-with-what-you-have-where-you-are-content: ""
-story: ""
-strive-not-to-be-a-success-but-rather-to-be-of-value: ""
-subscribe: ""
-that-which-does-not-kill-us-makes-us-stronger: ""
+story: historia
+strive-not-to-be-a-success-but-rather-to-be-of-value: Esforzarse no por ser un éxito, sino por ser de valor.
+subscribe: Suscribir
+that-which-does-not-kill-us-makes-us-stronger: Lo que no nos mata nos hace más fuertes
 the-way-i-see-it-every-life-is-a-pile-of-good-things: ""
-travel: ""
+travel: viajar
 you-may-also-like: ""

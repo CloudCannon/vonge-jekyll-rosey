@@ -120,8 +120,8 @@ _inputs:
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/about/#:~:text=Subscribe)"
 about: ""
-email-address: ""
-email-input-placeholder: ""
-join-my-mailing-list: ""
+email-address: 電子メールアドレス
+email-input-placeholder: あなたのメールアドレス
+join-my-mailing-list: 私のメーリングリストに参加してください
 markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab: ""
-subscribe: ""
+subscribe: 購読する

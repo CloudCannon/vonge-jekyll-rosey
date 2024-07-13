@@ -121,8 +121,8 @@ _inputs:
       page](https://brisk-smokescreen.cloudvent.net/elements/#:~:text=Subscribe\
       )"
 elements: ""
-email-address: ""
-email-input-placeholder: ""
-join-my-mailing-list: ""
+email-address: Dirección de correo electrónico
+email-input-placeholder: Su dirección de correo electrónico
+join-my-mailing-list: Únete a mi lista de correo
 markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab: ""
-subscribe: ""
+subscribe: Suscribir

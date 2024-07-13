@@ -379,15 +379,17 @@ _inputs:
       title: Untranslated Text
       icon: translate
       content: You must be the change you wish to see in the world
-bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward: ""
-email-address: ""
-email-input-placeholder: ""
+bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward:
+  Ponga sobre la mesa estrategias de supervivencia beneficiosas para todos para
+  garantizar una dominación proactiva. Al final del día, de cara al futuro.
+email-address: Dirección de correo electrónico
+email-input-placeholder: Su dirección de correo electrónico
 everything-has-beauty-but-not-everyone-can-see: ""
 it-is-never-too-late-to-be-what-you-might-have-been: ""
-join-my-mailing-list: ""
-life: ""
+join-my-mailing-list: Únete a mi lista de correo
+life: vida
 life-shrinks-or-expands-in-proportion-to-one-s-courage: ""
-lifestyle: ""
+lifestyle: estilo de vida
 next-post: ""
 prev-post: ""
 rest: ""
@@ -398,10 +400,10 @@ share-pinterest-title: ""
 share-this-post: ""
 share-twitter-title: ""
 static:/blog/everything-has-beauty-but-not-everyone-can-see-content: ""
-story: ""
-subscribe: ""
-that-which-does-not-kill-us-makes-us-stronger: ""
+story: historia
+subscribe: Suscribir
+that-which-does-not-kill-us-makes-us-stronger: Lo que no nos mata nos hace más fuertes
 the-way-i-see-it-every-life-is-a-pile-of-good-things: ""
-travel: ""
+travel: viajar
 you-may-also-like: ""
 you-must-be-the-change-you-wish-to-see-in-the-world: ""
