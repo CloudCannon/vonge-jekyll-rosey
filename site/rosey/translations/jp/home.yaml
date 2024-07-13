@@ -63,7 +63,7 @@ _inputs:
   antelope-canyon:
     label: Antelope Canyon
     hidden: false
-    type: textarea
+    type: text
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/#:~:text=Antelope%20Canyon)"
@@ -140,7 +140,7 @@ _inputs:
   green-plant:
     label: Green Plant
     hidden: false
-    type: text
+    type: textarea
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/#:~:text=Green%20Plant)"
@@ -195,7 +195,7 @@ _inputs:
   mountains:
     label: Mountains
     hidden: false
-    type: text
+    type: textarea
     options: {}
     comment: "[See on page](https://brisk-smokescreen.cloudvent.net/#:~:text=Mountains)"
   notes:

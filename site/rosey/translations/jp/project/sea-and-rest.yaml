@@ -3,14 +3,14 @@ _inputs:
   $:
     type: object
     comment: "[See
-      project/sea-and-rest](https://brisk-smokescreen.cloudvent.net/project/sea\
-      -and-rest)"
+      project/sea-and-rest/](https://brisk-smokescreen.cloudvent.net/project/se\
+      a-and-rest/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [project/sea-and-rest](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest)
+            [project/sea-and-rest/](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest/)
           inputs:
             - email-address
             - email-input-placeholder
@@ -23,7 +23,7 @@ _inputs:
             - subscribe
         - heading: Already translated (jp)
           comment: Text already translated on
-            [project/sea-and-rest](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest)
+            [project/sea-and-rest/](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest/)
           inputs: []
   email-address:
     label: Email address
@@ -31,64 +31,64 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
-      t=Email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest/#:~:te\
+      xt=Email%20address)"
   email-input-placeholder:
     label: Your email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
-      t=Your%20email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest/#:~:te\
+      xt=Your%20email%20address)"
   join-my-mailing-list:
     label: Join my mailing list
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
-      t=Join%20my%20mailing%20list)"
+      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest/#:~:te\
+      xt=Join%20my%20mailing%20list)"
   mountains:
     label: Mountains
     hidden: false
-    type: text
+    type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
-      t=Mountains)"
+      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest/#:~:te\
+      xt=Mountains)"
   next-project:
     label: Next Project
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
-      t=Next%20Project)"
+      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest/#:~:te\
+      xt=Next%20Project)"
   photography:
     label: Photography
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
-      t=Photography)"
+      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest/#:~:te\
+      xt=Photography)"
   sea-and-rest:
     label: Sea and rest
     hidden: false
-    type: textarea
+    type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
-      t=Sea%20and%20rest)"
+      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest/#:~:te\
+      xt=Sea%20and%20rest)"
   static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
-      t=In%20qua%20quid,genere%20laudabiles%20servari)"
+      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest/#:~:te\
+      xt=In%20qua%20quid,genere%20laudabiles%20servari)"
     context:
       open: false
       title: Untranslated Text
@@ -129,8 +129,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest#:~:tex\
-      t=Subscribe)"
+      page](https://brisk-smokescreen.cloudvent.net/project/sea-and-rest/#:~:te\
+      xt=Subscribe)"
 email-address: ""
 email-input-placeholder: ""
 join-my-mailing-list: ""

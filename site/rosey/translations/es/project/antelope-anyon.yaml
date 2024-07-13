@@ -3,14 +3,14 @@ _inputs:
   $:
     type: object
     comment: "[See
-      project/antelope-anyon](https://brisk-smokescreen.cloudvent.net/project/a\
-      ntelope-anyon)"
+      project/antelope-anyon/](https://brisk-smokescreen.cloudvent.net/project/\
+      antelope-anyon/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [project/antelope-anyon](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon)
+            [project/antelope-anyon/](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon/)
           inputs:
             - antelope-canyon
             - email-address
@@ -23,72 +23,72 @@ _inputs:
             - subscribe
         - heading: Already translated (es)
           comment: Text already translated on
-            [project/antelope-anyon](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon)
+            [project/antelope-anyon/](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon/)
           inputs: []
   antelope-canyon:
     label: Antelope Canyon
     hidden: false
-    type: textarea
+    type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
-      ext=Antelope%20Canyon)"
+      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon/#:~:\
+      text=Antelope%20Canyon)"
   email-address:
     label: Email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
-      ext=Email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon/#:~:\
+      text=Email%20address)"
   email-input-placeholder:
     label: Your email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
-      ext=Your%20email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon/#:~:\
+      text=Your%20email%20address)"
   green-plant:
     label: Green Plant
     hidden: false
-    type: text
+    type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
-      ext=Green%20Plant)"
+      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon/#:~:\
+      text=Green%20Plant)"
   join-my-mailing-list:
     label: Join my mailing list
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
-      ext=Join%20my%20mailing%20list)"
+      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon/#:~:\
+      text=Join%20my%20mailing%20list)"
   next-project:
     label: Next Project
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
-      ext=Next%20Project)"
+      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon/#:~:\
+      text=Next%20Project)"
   photography:
     label: Photography
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
-      ext=Photography)"
+      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon/#:~:\
+      text=Photography)"
   static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
-      ext=In%20qua%20quid,genere%20laudabiles%20servari)"
+      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon/#:~:\
+      text=In%20qua%20quid,genere%20laudabiles%20servari)"
     context:
       open: false
       title: Untranslated Text
@@ -129,8 +129,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon#:~:t\
-      ext=Subscribe)"
+      page](https://brisk-smokescreen.cloudvent.net/project/antelope-anyon/#:~:\
+      text=Subscribe)"
 antelope-canyon: ""
 email-address: ""
 email-input-placeholder: ""

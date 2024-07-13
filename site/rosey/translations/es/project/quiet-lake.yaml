@@ -3,14 +3,14 @@ _inputs:
   $:
     type: object
     comment: "[See
-      project/quiet-lake](https://brisk-smokescreen.cloudvent.net/project/quiet\
-      -lake)"
+      project/quiet-lake/](https://brisk-smokescreen.cloudvent.net/project/quie\
+      t-lake/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [project/quiet-lake](https://brisk-smokescreen.cloudvent.net/project/quiet-lake)
+            [project/quiet-lake/](https://brisk-smokescreen.cloudvent.net/project/quiet-lake/)
           inputs:
             - antelope-canyon
             - email-address
@@ -23,72 +23,72 @@ _inputs:
             - subscribe
         - heading: Already translated (es)
           comment: Text already translated on
-            [project/quiet-lake](https://brisk-smokescreen.cloudvent.net/project/quiet-lake)
+            [project/quiet-lake/](https://brisk-smokescreen.cloudvent.net/project/quiet-lake/)
           inputs: []
   antelope-canyon:
     label: Antelope Canyon
     hidden: false
-    type: textarea
+    type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
-      Antelope%20Canyon)"
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake/#:~:text\
+      =Antelope%20Canyon)"
   email-address:
     label: Email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
-      Email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake/#:~:text\
+      =Email%20address)"
   email-input-placeholder:
     label: Your email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
-      Your%20email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake/#:~:text\
+      =Your%20email%20address)"
   join-my-mailing-list:
     label: Join my mailing list
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
-      Join%20my%20mailing%20list)"
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake/#:~:text\
+      =Join%20my%20mailing%20list)"
   next-project:
     label: Next Project
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
-      Next%20Project)"
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake/#:~:text\
+      =Next%20Project)"
   photography:
     label: Photography
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
-      Photography)"
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake/#:~:text\
+      =Photography)"
   quiet-lake:
     label: Quiet Lake
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
-      Quiet%20Lake)"
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake/#:~:text\
+      =Quiet%20Lake)"
   static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
-      In%20qua%20quid,genere%20laudabiles%20servari)"
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake/#:~:text\
+      =In%20qua%20quid,genere%20laudabiles%20servari)"
     context:
       open: false
       title: Untranslated Text
@@ -129,8 +129,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake#:~:text=\
-      Subscribe)"
+      page](https://brisk-smokescreen.cloudvent.net/project/quiet-lake/#:~:text\
+      =Subscribe)"
 antelope-canyon: ""
 email-address: ""
 email-input-placeholder: ""

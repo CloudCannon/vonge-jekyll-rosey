@@ -32,7 +32,7 @@ _inputs:
   antelope-canyon:
     label: Antelope Canyon
     hidden: false
-    type: textarea
+    type: text
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Antelope%\
@@ -72,7 +72,7 @@ _inputs:
   green-plant:
     label: Green Plant
     hidden: false
-    type: text
+    type: textarea
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Green%20P\
@@ -102,7 +102,7 @@ _inputs:
   mountains:
     label: Mountains
     hidden: false
-    type: text
+    type: textarea
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Mountains\
@@ -118,7 +118,7 @@ _inputs:
   prague-city:
     label: Prague city
     hidden: false
-    type: textarea
+    type: text
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Prague%20\
@@ -134,7 +134,7 @@ _inputs:
   sea-and-rest:
     label: Sea and rest
     hidden: false
-    type: textarea
+    type: text
     options: {}
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/projects/#:~:text=Sea%20and\

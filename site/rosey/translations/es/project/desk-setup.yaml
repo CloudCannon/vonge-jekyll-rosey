@@ -3,14 +3,14 @@ _inputs:
   $:
     type: object
     comment: "[See
-      project/desk-setup](https://brisk-smokescreen.cloudvent.net/project/desk-\
-      setup)"
+      project/desk-setup/](https://brisk-smokescreen.cloudvent.net/project/desk\
+      -setup/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [project/desk-setup](https://brisk-smokescreen.cloudvent.net/project/desk-setup)
+            [project/desk-setup/](https://brisk-smokescreen.cloudvent.net/project/desk-setup/)
           inputs:
             - desk-setup
             - email-address
@@ -23,7 +23,7 @@ _inputs:
             - subscribe
         - heading: Already translated (es)
           comment: Text already translated on
-            [project/desk-setup](https://brisk-smokescreen.cloudvent.net/project/desk-setup)
+            [project/desk-setup/](https://brisk-smokescreen.cloudvent.net/project/desk-setup/)
           inputs: []
   desk-setup:
     label: Desk setup
@@ -31,64 +31,64 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
-      Desk%20setup)"
+      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup/#:~:text\
+      =Desk%20setup)"
   email-address:
     label: Email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
-      Email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup/#:~:text\
+      =Email%20address)"
   email-input-placeholder:
     label: Your email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
-      Your%20email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup/#:~:text\
+      =Your%20email%20address)"
   join-my-mailing-list:
     label: Join my mailing list
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
-      Join%20my%20mailing%20list)"
+      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup/#:~:text\
+      =Join%20my%20mailing%20list)"
   next-project:
     label: Next Project
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
-      Next%20Project)"
+      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup/#:~:text\
+      =Next%20Project)"
   photography:
     label: Photography
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
-      Photography)"
+      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup/#:~:text\
+      =Photography)"
   prague-city:
     label: Prague city
     hidden: false
-    type: textarea
+    type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
-      Prague%20city)"
+      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup/#:~:text\
+      =Prague%20city)"
   static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
-      In%20qua%20quid,genere%20laudabiles%20servari)"
+      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup/#:~:text\
+      =In%20qua%20quid,genere%20laudabiles%20servari)"
     context:
       open: false
       title: Untranslated Text
@@ -129,8 +129,8 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
-      Subscribe)"
+      page](https://brisk-smokescreen.cloudvent.net/project/desk-setup/#:~:text\
+      =Subscribe)"
 desk-setup: ""
 email-address: ""
 email-input-placeholder: ""

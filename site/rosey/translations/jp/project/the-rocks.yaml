@@ -3,14 +3,14 @@ _inputs:
   $:
     type: object
     comment: "[See
-      project/the-rocks](https://brisk-smokescreen.cloudvent.net/project/the-ro\
-      cks)"
+      project/the-rocks/](https://brisk-smokescreen.cloudvent.net/project/the-r\
+      ocks/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [project/the-rocks](https://brisk-smokescreen.cloudvent.net/project/the-rocks)
+            [project/the-rocks/](https://brisk-smokescreen.cloudvent.net/project/the-rocks/)
           inputs:
             - email-address
             - email-input-placeholder
@@ -23,7 +23,7 @@ _inputs:
             - the-rocks
         - heading: Already translated (jp)
           comment: Text already translated on
-            [project/the-rocks](https://brisk-smokescreen.cloudvent.net/project/the-rocks)
+            [project/the-rocks/](https://brisk-smokescreen.cloudvent.net/project/the-rocks/)
           inputs: []
   email-address:
     label: Email address
@@ -31,56 +31,56 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks#:~:text=E\
-      mail%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks/#:~:text=\
+      Email%20address)"
   email-input-placeholder:
     label: Your email address
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks#:~:text=Y\
-      our%20email%20address)"
+      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks/#:~:text=\
+      Your%20email%20address)"
   join-my-mailing-list:
     label: Join my mailing list
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks#:~:text=J\
-      oin%20my%20mailing%20list)"
+      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks/#:~:text=\
+      Join%20my%20mailing%20list)"
   next-project:
     label: Next Project
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks#:~:text=N\
-      ext%20Project)"
+      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks/#:~:text=\
+      Next%20Project)"
   photography:
     label: Photography
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks#:~:text=P\
-      hotography)"
+      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks/#:~:text=\
+      Photography)"
   quiet-lake:
     label: Quiet Lake
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks#:~:text=Q\
-      uiet%20Lake)"
+      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks/#:~:text=\
+      Quiet%20Lake)"
   static:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks#:~:text=I\
-      n%20qua%20quid,genere%20laudabiles%20servari)"
+      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks/#:~:text=\
+      In%20qua%20quid,genere%20laudabiles%20servari)"
     context:
       open: false
       title: Untranslated Text
@@ -121,16 +121,16 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks#:~:text=S\
-      ubscribe)"
+      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks/#:~:text=\
+      Subscribe)"
   the-rocks:
     label: The rocks
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks#:~:text=T\
-      he%20rocks)"
+      page](https://brisk-smokescreen.cloudvent.net/project/the-rocks/#:~:text=\
+      The%20rocks)"
 email-address: ""
 email-input-placeholder: ""
 join-my-mailing-list: ""

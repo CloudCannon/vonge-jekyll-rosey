@@ -214,6 +214,9 @@ function getTranslationHTMLFilename(translationFilename) {
   if (translationFilename === 'home.yaml') {
     return 'index.html';
   }
+  if (translationFilename.includes('tag/')) {
+    return translationFilename.replace('.yaml', '.html');
+  }
 
   return translationFilename.replace('.yaml', '/index.html');
 }
