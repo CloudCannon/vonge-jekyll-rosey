@@ -11,13 +11,13 @@
 		"original": "elements/index.html",
 		"value": "elements/index.html"
 	},
-	"projects/index.html": {
-		"original": "projects/index.html",
-		"value": "projects/index.html"
-	},
 	"index.html": {
 		"original": "index.html",
 		"value": "index.html"
+	},
+	"projects/index.html": {
+		"original": "projects/index.html",
+		"value": "projects/index.html"
 	},
 	"tag/life/index.html": {
 		"value": "tag/life.html"
@@ -31,23 +31,23 @@
 	"tag/rest/index.html": {
 		"value": "tag/rest.html"
 	},
-	"tag/story/index.html": {
-		"value": "tag/story.html"
-	},
 	"tag/travel/index.html": {
 		"value": "tag/travel.html"
 	},
 	"project/big-airplane/index.html": {
 		"value": "project/big-airplane.html"
 	},
+	"tag/story/index.html": {
+		"value": "tag/story.html"
+	},
 	"project/antelope-anyon/index.html": {
 		"value": "project/antelope-anyon.html"
 	},
-	"project/desk-setup/index.html": {
-		"value": "project/desk-setup.html"
-	},
 	"project/green-plant/index.html": {
 		"value": "project/green-plant.html"
+	},
+	"project/desk-setup/index.html": {
+		"value": "project/desk-setup.html"
 	},
 	"project/mountains/index.html": {
 		"value": "project/mountains.html"
@@ -58,6 +58,9 @@
 	"project/quiet-lake/index.html": {
 		"value": "project/quiet-lake.html"
 	},
+	"project/sea-and-rest/index.html": {
+		"value": "project/sea-and-rest.html"
+	},
 	"project/the-rocks/index.html": {
 		"value": "project/the-rocks.html"
 	},
@@ -67,28 +70,25 @@
 	"blog/do-what-you-can-with-what-you-have-where-you-are/index.html": {
 		"value": "blog/do-what-you-can-with-what-you-have-where-you-are.html"
 	},
-	"project/sea-and-rest/index.html": {
-		"value": "project/sea-and-rest.html"
-	},
 	"blog/everything-has-beauty-but-not-everyone-can-see/index.html": {
 		"value": "blog/everything-has-beauty-but-not-everyone-can-see.html"
 	},
 	"blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": {
 		"value": "blog/it-is-never-too-late-to-be-what-you-might-have-been.html"
 	},
-	"blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": {
-		"value": "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html"
-	},
 	"blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": {
 		"value": "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html"
+	},
+	"blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": {
+		"value": "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html"
 	},
 	"blog/that-which-does-not-kill-us-makes-us-stronger/index.html": {
 		"value": "blog/that-which-does-not-kill-us-makes-us-stronger.html"
 	},
-	"blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": {
-		"value": "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html"
-	},
 	"blog/you-must-be-the-change-you-wish-to-see-in-the-world/index.html": {
 		"value": "blog/you-must-be-the-change-you-wish-to-see-in-the-world.html"
+	},
+	"blog/the-way-i-see-it-every-life-is-a-pile-of-good-things/index.html": {
+		"value": "blog/the-way-i-see-it-every-life-is-a-pile-of-good-things.html"
 	}
 }

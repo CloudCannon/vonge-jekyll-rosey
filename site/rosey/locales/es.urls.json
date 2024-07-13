@@ -11,13 +11,13 @@
 		"original": "elements/index.html",
 		"value": "elements/index.html"
 	},
-	"projects/index.html": {
-		"original": "projects/index.html",
-		"value": "projects/index.html"
-	},
 	"index.html": {
 		"original": "index.html",
 		"value": "index.html"
+	},
+	"projects/index.html": {
+		"original": "projects/index.html",
+		"value": "projects/index.html"
 	},
 	"tag/life/index.html": {
 		"value": "tag/life.html"
