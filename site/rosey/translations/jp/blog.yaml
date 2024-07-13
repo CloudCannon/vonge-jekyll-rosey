@@ -2,12 +2,13 @@ urlTranslation: blog/index.html
 _inputs:
   $:
     type: object
-    comment: "[See blog/](https://brisk-smokescreen.cloudvent.net/blog/)"
+    comment: '[See blog/](https://brisk-smokescreen.cloudvent.net/blog/)'
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
-          comment: Text to translate on
+          comment: >-
+            Text to translate on
             [blog/](https://brisk-smokescreen.cloudvent.net/blog/)
           inputs:
             - believe-and-act-as-if-it-were-impossible-to-fail
@@ -16,15 +17,19 @@ _inputs:
             - it-is-never-too-late-to-be-what-you-might-have-been
             - life-shrinks-or-expands-in-proportion-to-one-s-courage
             - rest
-            - static:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitione-facilior-facta-est-investigatio-rerum-occultissimarum-negat-enim-tenuissimo-victu-id-est-contemptissimis-escis-et-potionibus-reman-voluptatem-amico-percipi-quam-rebus-exquisitissimis-ad-epulandum-non-enim-iam-stirpis-bonum-quaeret-sed-animalis-qui-autem-esse-poteris-nisi-te-amor-ipse-ceperit-sic-igitur-in-homine-perfectio-ista-in-eo-potissimum-quod-est-optimum-id-est-in-virtute-laudatur-natura-sic-ab-iis-investigata-est-ut-nulla-pars-caelo-mari-terra-ut-poëtice-loquar-praetermissa-sit-eadem-nunc-means-adversum-te-oratio-est-mihi-quidem-homerus-huius-modi-quiddam-vidisse-videatur-in-nis-p-p-img-src-images-image-example-1-jpg-alt-woman-with-child-width-1200-height-900-p-p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-habere-ea-quae-secundum-naturam-sint-vel-omnia-vel-plurima-et-maxima-quodsi-ipsam-honestatem-undique-pertectam-atque-absolutam-tecum-optime-deindestum-etiam-cum-mediocri-amico-neque-enim-disputari-sine-reprehensione-nec-cum-iracundia-aut-pertinacia-recte-disputari-potest-an-partus-ancillae-sitned-in-fructum-habendus-disseretur-inter-principes-civitatis-p-ut-in-geometria-prima-si-dederis-danda-sunt-omnia-longum-est-enim-ad-omnia-respondere-quae-a-te-dicta-sunt-nam-cui-proposito-sintero-conservatio-sui-necesse-est-huic-partes-quoque-sui-caras-suo-genere-laudabiles-rarissimum-servari-tinere-p-blockquote-p-the-longer-i-live-the-more-i-realize-that-i-am-never-wrong-about-anything-and-that-all-the-pains-i-have-so-humbly-taken-to-verify-my-notions-have-only-wasted-my-time-p-blockquote-p-ego-quoque-inquit-didicerim-libentius-si-quid-attuleris-quam-te-reprehenderim-i-am-quod-insipientes-alios-ita-esse-ut-nullo-modo-ad-sapientiam-possent-pervenire-alios-qui-possent-si-id-egissent-sapientiam-consequi-id-quaeris-inquam-in-quo-utrum-respondero-verses-te-huc-atque-illuc-necesse-est-sed-quid-ages-tandem-si-utilitas-ab-amicitia-ut-fit-saepe-oratio-defecerit-sed-isti-ipsi-qui-voluptate-et-dolore-omnia-metiuntur-nonne-clamant-sapienti-plus-semper-adesse-quod-velit-quam-quod-nolit-quae-quidem-sapientes-sequuntur-duce-natura-tamquam-videntes-quod-enim-dissolutum-sit-id-esse-sine-sensu-quod-autem-sine-sensu-sit-id-nihil-ad-nos-pertinere-omnino-idne-consensisse-de-calatino-plurimas-gentis-cantibus-arbitramur-primarium-populi-fuisse-quod-praestantissimus-fuisset-in-conficiendis-disseretur-voluptatibus-utram-tandem-linguam-nescio-quod-dicit-epicurus-voluptate-terra-perfectio-p-p-img-src-images-image-example-2-jpg-alt-beach-width-1200-height-900-p-p-qua-ex-cognitione-facilior-facta-est-investigatio-rerum-occultissimarum-negat-enim-praeter-tenuissimo-victu-id-est-contemptissimis-escis-et-potionibus-minorem-voluptatem-percipi-quam-rebus-exquisitissimis-ad-epulandum-non-enim-iam-stirpis-bonum-quaeret-sed-ista-animalis-qui-autem-esse-poteris-nisi-te-amor-ipse-ceperit-sic-igitur-in-homine-perfectio-ista-in-eo-potissimum-quod-est-optimum-id-est-in-virtute-laudatur-disputari-sine-potissimum-p-p-sin-tantum-modo-ad-indicia-veteris-memoriae-cognoscenda-curiosorum-haec-et-tu-ita-posuisti-et-verba-vestra-sunt-idemne-potest-esse-dies-saepius-qui-semel-fuit-ampulla-enim-sit-necne-sit-quis-non-iure-optimo-irrideatur-si-laboret-ego-vero-volo-in-virtute-vim-esse-quam-maximam-serpere-anguiculos-nare-anaticulas-evolare-merulas-cornibus-uti-videmus-boves-nepas-aculeis-archytam-qua-ex-cognitione-facilior-facta-est-investiga-p
+            - >-
+              static:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitione-facilior-facta-est-investigatio-rerum-occultissimarum-negat-enim-tenuissimo-victu-id-est-contemptissimis-escis-et-potionibus-reman-voluptatem-amico-percipi-quam-rebus-exquisitissimis-ad-epulandum-non-enim-iam-stirpis-bonum-quaeret-sed-animalis-qui-autem-esse-poteris-nisi-te-amor-ipse-ceperit-sic-igitur-in-homine-perfectio-ista-in-eo-potissimum-quod-est-optimum-id-est-in-virtute-laudatur-natura-sic-ab-iis-investigata-est-ut-nulla-pars-caelo-mari-terra-ut-poëtice-loquar-praetermissa-sit-eadem-nunc-means-adversum-te-oratio-est-mihi-quidem-homerus-huius-modi-quiddam-vidisse-videatur-in-nis-p-p-img-src-images-image-example-1-jpg-alt-woman-with-child-width-1200-height-900-p-p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-habere-ea-quae-secundum-naturam-sint-vel-omnia-vel-plurima-et-maxima-quodsi-ipsam-honestatem-undique-pertectam-atque-absolutam-tecum-optime-deindestum-etiam-cum-mediocri-amico-neque-enim-disputari-sine-reprehensione-nec-cum-iracundia-aut-pertinacia-recte-disputari-potest-an-partus-ancillae-sitned-in-fructum-habendus-disseretur-inter-principes-civitatis-p-ut-in-geometria-prima-si-dederis-danda-sunt-omnia-longum-est-enim-ad-omnia-respondere-quae-a-te-dicta-sunt-nam-cui-proposito-sintero-conservatio-sui-necesse-est-huic-partes-quoque-sui-caras-suo-genere-laudabiles-rarissimum-servari-tinere-p-blockquote-p-the-longer-i-live-the-more-i-realize-that-i-am-never-wrong-about-anything-and-that-all-the-pains-i-have-so-humbly-taken-to-verify-my-notions-have-only-wasted-my-time-p-blockquote-p-ego-quoque-inquit-didicerim-libentius-si-quid-attuleris-quam-te-reprehenderim-i-am-quod-insipientes-alios-ita-esse-ut-nullo-modo-ad-sapientiam-possent-pervenire-alios-qui-possent-si-id-egissent-sapientiam-consequi-id-quaeris-inquam-in-quo-utrum-respondero-verses-te-huc-atque-illuc-necesse-est-sed-quid-ages-tandem-si-utilitas-ab-amicitia-ut-fit-saepe-oratio-defecerit-sed-isti-ipsi-qui-voluptate-et-dolore-omnia-metiuntur-nonne-clamant-sapienti-plus-semper-adesse-quod-velit-quam-quod-nolit-quae-quidem-sapientes-sequuntur-duce-natura-tamquam-videntes-quod-enim-dissolutum-sit-id-esse-sine-sensu-quod-autem-sine-sensu-sit-id-nihil-ad-nos-pertinere-omnino-idne-consensisse-de-calatino-plurimas-gentis-cantibus-arbitramur-primarium-populi-fuisse-quod-praestantissimus-fuisset-in-conficiendis-disseretur-voluptatibus-utram-tandem-linguam-nescio-quod-dicit-epicurus-voluptate-terra-perfectio-p-p-img-src-images-image-example-2-jpg-alt-beach-width-1200-height-900-p-p-qua-ex-cognitione-facilior-facta-est-investigatio-rerum-occultissimarum-negat-enim-praeter-tenuissimo-victu-id-est-contemptissimis-escis-et-potionibus-minorem-voluptatem-percipi-quam-rebus-exquisitissimis-ad-epulandum-non-enim-iam-stirpis-bonum-quaeret-sed-ista-animalis-qui-autem-esse-poteris-nisi-te-amor-ipse-ceperit-sic-igitur-in-homine-perfectio-ista-in-eo-potissimum-quod-est-optimum-id-est-in-virtute-laudatur-disputari-sine-potissimum-p-p-sin-tantum-modo-ad-indicia-veteris-memoriae-cognoscenda-curiosorum-haec-et-tu-ita-posuisti-et-verba-vestra-sunt-idemne-potest-esse-dies-saepius-qui-semel-fuit-ampulla-enim-sit-necne-sit-quis-non-iure-optimo-irrideatur-si-laboret-ego-vero-volo-in-virtute-vim-esse-quam-maximam-serpere-anguiculos-nare-anaticulas-evolare-merulas-cornibus-uti-videmus-boves-nepas-aculeis-archytam-qua-ex-cognitione-facilior-facta-est-investiga-p
             - the-way-i-see-it-every-life-is-a-pile-of-good-things
-            - vonge-blog-features-productivity-tips-inspiration-and-strategies-for-massive-profits-find-out-how-to-set-up-a-successful-blog-or-how-to-make-yours-even-better
+            - >-
+              vonge-blog-features-productivity-tips-inspiration-and-strategies-for-massive-profits-find-out-how-to-set-up-a-successful-blog-or-how-to-make-yours-even-better
             - you-must-be-the-change-you-wish-to-see-in-the-world
         - heading: Already translated (jp)
-          comment: Text already translated on
+          comment: >-
+            Text already translated on
             [blog/](https://brisk-smokescreen.cloudvent.net/blog/)
           inputs:
-            - bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward
+            - >-
+              bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward
             - do-what-you-can-with-what-you-have-where-you-are
             - email-address
             - email-input-placeholder
@@ -42,9 +47,9 @@ _inputs:
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Believe%20and\
-      %20act,impossible%20to%20fail)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Believe%20and%20act,impossible%20to%20fail)
     context:
       open: false
       title: Untranslated Text
@@ -55,29 +60,30 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Blog)"
+    comment: '[See on page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Blog)'
   bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward:
     label: Bring to the table win-win survival strate...
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Bring%20to%20\
-      the,day%20going%20forward)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Bring%20to%20the,day%20going%20forward)
     context:
       open: false
       title: Untranslated Text
       icon: translate
-      content: Bring to the table win-win survival strategies to ensure proactive
+      content: >-
+        Bring to the table win-win survival strategies to ensure proactive
         domination. At the end of the day, going forward.
   do-what-you-can-with-what-you-have-where-you-are:
     label: Do what you can, with what you have, where...
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Do%20what%20y\
-      ou,where%20you%20are)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Do%20what%20you,where%20you%20are)
     context:
       open: false
       title: Untranslated Text
@@ -88,25 +94,25 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Email%20addre\
-      ss)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Email%20address)
   email-input-placeholder:
     label: Your email address
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Your%20email%\
-      20address)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Your%20email%20address)
   everything-has-beauty-but-not-everyone-can-see:
     label: Everything has beauty, but not everyone ca...
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Everything%20\
-      has%20beauty,everyone%20can%20see)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Everything%20has%20beauty,everyone%20can%20see)
     context:
       open: false
       title: Untranslated Text
@@ -117,9 +123,9 @@ _inputs:
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=It%20is%20nev\
-      er,might%20have%20been)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=It%20is%20never,might%20have%20been)
     context:
       open: false
       title: Untranslated Text
@@ -130,23 +136,23 @@ _inputs:
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Join%20my%20m\
-      ailing%20list)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Join%20my%20mailing%20list)
   life:
     label: life
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=life)"
+    comment: '[See on page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=life)'
   life-shrinks-or-expands-in-proportion-to-one-s-courage:
     label: Life shrinks or expands in proportion to o...
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Life%20shrink\
-      s%20or,to%20one%E2%80%99s%20courage)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Life%20shrinks%20or,to%20one%E2%80%99s%20courage)
     context:
       open: false
       title: Untranslated Text
@@ -157,21 +163,21 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=lifestyle)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=lifestyle)
   notes:
     label: notes
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=notes)"
+    comment: '[See on page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=notes)'
   rest:
     label: rest
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=rest)"
+    comment: '[See on page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=rest)'
   ? static:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitione-facilior-facta-est-investigatio-rerum-occultissimarum-negat-enim-tenuissimo-victu-id-est-contemptissimis-escis-et-potionibus-reman-voluptatem-amico-percipi-quam-rebus-exquisitissimis-ad-epulandum-non-enim-iam-stirpis-bonum-quaeret-sed-animalis-qui-autem-esse-poteris-nisi-te-amor-ipse-ceperit-sic-igitur-in-homine-perfectio-ista-in-eo-potissimum-quod-est-optimum-id-est-in-virtute-laudatur-natura-sic-ab-iis-investigata-est-ut-nulla-pars-caelo-mari-terra-ut-poëtice-loquar-praetermissa-sit-eadem-nunc-means-adversum-te-oratio-est-mihi-quidem-homerus-huius-modi-quiddam-vidisse-videatur-in-nis-p-p-img-src-images-image-example-1-jpg-alt-woman-with-child-width-1200-height-900-p-p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-habere-ea-quae-secundum-naturam-sint-vel-omnia-vel-plurima-et-maxima-quodsi-ipsam-honestatem-undique-pertectam-atque-absolutam-tecum-optime-deindestum-etiam-cum-mediocri-amico-neque-enim-disputari-sine-reprehensione-nec-cum-iracundia-aut-pertinacia-recte-disputari-potest-an-partus-ancillae-sitned-in-fructum-habendus-disseretur-inter-principes-civitatis-p-ut-in-geometria-prima-si-dederis-danda-sunt-omnia-longum-est-enim-ad-omnia-respondere-quae-a-te-dicta-sunt-nam-cui-proposito-sintero-conservatio-sui-necesse-est-huic-partes-quoque-sui-caras-suo-genere-laudabiles-rarissimum-servari-tinere-p-blockquote-p-the-longer-i-live-the-more-i-realize-that-i-am-never-wrong-about-anything-and-that-all-the-pains-i-have-so-humbly-taken-to-verify-my-notions-have-only-wasted-my-time-p-blockquote-p-ego-quoque-inquit-didicerim-libentius-si-quid-attuleris-quam-te-reprehenderim-i-am-quod-insipientes-alios-ita-esse-ut-nullo-modo-ad-sapientiam-possent-pervenire-alios-qui-possent-si-id-egissent-sapientiam-consequi-id-quaeris-inquam-in-quo-utrum-respondero-verses-te-huc-atque-illuc-necesse-est-sed-quid-ages-tandem-si-utilitas-ab-amicitia-ut-fit-saepe-oratio-defecerit-sed-isti-ipsi-qui-voluptate-et-dolore-omnia-metiuntur-nonne-clamant-sapienti-plus-semper-adesse-quod-velit-quam-quod-nolit-quae-quidem-sapientes-sequuntur-duce-natura-tamquam-videntes-quod-enim-dissolutum-sit-id-esse-sine-sensu-quod-autem-sine-sensu-sit-id-nihil-ad-nos-pertinere-omnino-idne-consensisse-de-calatino-plurimas-gentis-cantibus-arbitramur-primarium-populi-fuisse-quod-praestantissimus-fuisset-in-conficiendis-disseretur-voluptatibus-utram-tandem-linguam-nescio-quod-dicit-epicurus-voluptate-terra-perfectio-p-p-img-src-images-image-example-2-jpg-alt-beach-width-1200-height-900-p-p-qua-ex-cognitione-facilior-facta-est-investigatio-rerum-occultissimarum-negat-enim-praeter-tenuissimo-victu-id-est-contemptissimis-escis-et-potionibus-minorem-voluptatem-percipi-quam-rebus-exquisitissimis-ad-epulandum-non-enim-iam-stirpis-bonum-quaeret-sed-ista-animalis-qui-autem-esse-poteris-nisi-te-amor-ipse-ceperit-sic-igitur-in-homine-perfectio-ista-in-eo-potissimum-quod-est-optimum-id-est-in-virtute-laudatur-disputari-sine-potissimum-p-p-sin-tantum-modo-ad-indicia-veteris-memoriae-cognoscenda-curiosorum-haec-et-tu-ita-posuisti-et-verba-vestra-sunt-idemne-potest-esse-dies-saepius-qui-semel-fuit-ampulla-enim-sit-necne-sit-quis-non-iure-optimo-irrideatur-si-laboret-ego-vero-volo-in-virtute-vim-esse-quam-maximam-serpere-anguiculos-nare-anaticulas-evolare-merulas-cornibus-uti-videmus-boves-nepas-aculeis-archytam-qua-ex-cognitione-facilior-facta-est-investiga-p
   : label: In qua quid est boni praeter summam volupt...
     hidden: false
@@ -193,30 +199,30 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=In%20qua%20qu\
-      id,ex%20cognitione)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=In%20qua%20quid,ex%20cognitione)
     context:
       open: false
       title: Untranslated Text
       icon: translate
-      content: In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur
+      content: >-
+        In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur
         post Tarentum ad Archytam. Qua ex cognitione ...
   story:
     label: story
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=story)"
+    comment: '[See on page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=story)'
   strive-not-to-be-a-success-but-rather-to-be-of-value:
     label: Strive not to be a success, but rather to ...
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Strive%20not%\
-      20to,be%20of%20value)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Strive%20not%20to,be%20of%20value)
     context:
       open: false
       title: Untranslated Text
@@ -227,16 +233,17 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Subscribe)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Subscribe)
   that-which-does-not-kill-us-makes-us-stronger:
     label: That which does not kill us makes us stron...
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=That%20which%\
-      20does,makes%20us%20stronger)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=That%20which%20does,makes%20us%20stronger)
     context:
       open: false
       title: Untranslated Text
@@ -247,9 +254,9 @@ _inputs:
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=The%20way%20I\
-      ,of%20good%20things)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=The%20way%20I,of%20good%20things)
     context:
       open: false
       title: Untranslated Text
@@ -260,21 +267,23 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=travel)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=travel)
   vonge-blog-features-productivity-tips-inspiration-and-strategies-for-massive-profits-find-out-how-to-set-up-a-successful-blog-or-how-to-make-yours-even-better:
     label: Vonge blog features productivity, tips, in...
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Vonge%20blog%\
-      20features,yours%20even%20better!)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=Vonge%20blog%20features,yours%20even%20better!)
     context:
       open: false
       title: Untranslated Text
       icon: translate
-      content: Vonge blog features productivity, tips, inspiration and strategies for
+      content: >-
+        Vonge blog features productivity, tips, inspiration and strategies for
         massive profits. Find out how to set up a successful blog or how to make
         yours even better!
   you-must-be-the-change-you-wish-to-see-in-the-world:
@@ -282,35 +291,37 @@ _inputs:
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=You%20must%20\
-      be,in%20the%20world)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/#:~:text=You%20must%20be,in%20the%20world)
     context:
       open: false
       title: Untranslated Text
       icon: translate
       content: You must be the change you wish to see in the world
-believe-and-act-as-if-it-were-impossible-to-fail: ""
-blog: ""
+believe-and-act-as-if-it-were-impossible-to-fail: あたかも失敗することは不可能であるかのように信じて行動する
+blog: ブログ
 bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward: 双方にとって有利な生存戦略をテーブルに提示し、積極的な支配を確保します。結局のところ、前に進むことです。
 do-what-you-can-with-what-you-have-where-you-are: 今いる場所で、持っているものを使って、できることをする
 email-address: 電子メールアドレス
 email-input-placeholder: あなたのメールアドレス
-everything-has-beauty-but-not-everyone-can-see: ""
-it-is-never-too-late-to-be-what-you-might-have-been: ""
+everything-has-beauty-but-not-everyone-can-see: すべてのものには美しさがありますが、誰もがそれを見ることができるわけではありません
+it-is-never-too-late-to-be-what-you-might-have-been: なりたかった自分になるのに遅すぎるということはありません
 join-my-mailing-list: 私のメーリングリストに参加してください
 life: 人生
-life-shrinks-or-expands-in-proportion-to-one-s-courage: ""
+life-shrinks-or-expands-in-proportion-to-one-s-courage: 人生は勇気に比例して縮んだり広がったりする
 lifestyle: ライフスタイル
 notes: ノート
-rest: ""
+rest: 休む
 ? static:p-in-qua-quid-est-boni-praeter-summam-voluptatem-et-eam-sempiternam-cur-post-tarentum-ad-archytam-qua-ex-cognitione-facilior-facta-est-investigatio-rerum-occultissimarum-negat-enim-tenuissimo-victu-id-est-contemptissimis-escis-et-potionibus-reman-voluptatem-amico-percipi-quam-rebus-exquisitissimis-ad-epulandum-non-enim-iam-stirpis-bonum-quaeret-sed-animalis-qui-autem-esse-poteris-nisi-te-amor-ipse-ceperit-sic-igitur-in-homine-perfectio-ista-in-eo-potissimum-quod-est-optimum-id-est-in-virtute-laudatur-natura-sic-ab-iis-investigata-est-ut-nulla-pars-caelo-mari-terra-ut-poëtice-loquar-praetermissa-sit-eadem-nunc-means-adversum-te-oratio-est-mihi-quidem-homerus-huius-modi-quiddam-vidisse-videatur-in-nis-p-p-img-src-images-image-example-1-jpg-alt-woman-with-child-width-1200-height-900-p-p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-habere-ea-quae-secundum-naturam-sint-vel-omnia-vel-plurima-et-maxima-quodsi-ipsam-honestatem-undique-pertectam-atque-absolutam-tecum-optime-deindestum-etiam-cum-mediocri-amico-neque-enim-disputari-sine-reprehensione-nec-cum-iracundia-aut-pertinacia-recte-disputari-potest-an-partus-ancillae-sitned-in-fructum-habendus-disseretur-inter-principes-civitatis-p-ut-in-geometria-prima-si-dederis-danda-sunt-omnia-longum-est-enim-ad-omnia-respondere-quae-a-te-dicta-sunt-nam-cui-proposito-sintero-conservatio-sui-necesse-est-huic-partes-quoque-sui-caras-suo-genere-laudabiles-rarissimum-servari-tinere-p-blockquote-p-the-longer-i-live-the-more-i-realize-that-i-am-never-wrong-about-anything-and-that-all-the-pains-i-have-so-humbly-taken-to-verify-my-notions-have-only-wasted-my-time-p-blockquote-p-ego-quoque-inquit-didicerim-libentius-si-quid-attuleris-quam-te-reprehenderim-i-am-quod-insipientes-alios-ita-esse-ut-nullo-modo-ad-sapientiam-possent-pervenire-alios-qui-possent-si-id-egissent-sapientiam-consequi-id-quaeris-inquam-in-quo-utrum-respondero-verses-te-huc-atque-illuc-necesse-est-sed-quid-ages-tandem-si-utilitas-ab-amicitia-ut-fit-saepe-oratio-defecerit-sed-isti-ipsi-qui-voluptate-et-dolore-omnia-metiuntur-nonne-clamant-sapienti-plus-semper-adesse-quod-velit-quam-quod-nolit-quae-quidem-sapientes-sequuntur-duce-natura-tamquam-videntes-quod-enim-dissolutum-sit-id-esse-sine-sensu-quod-autem-sine-sensu-sit-id-nihil-ad-nos-pertinere-omnino-idne-consensisse-de-calatino-plurimas-gentis-cantibus-arbitramur-primarium-populi-fuisse-quod-praestantissimus-fuisset-in-conficiendis-disseretur-voluptatibus-utram-tandem-linguam-nescio-quod-dicit-epicurus-voluptate-terra-perfectio-p-p-img-src-images-image-example-2-jpg-alt-beach-width-1200-height-900-p-p-qua-ex-cognitione-facilior-facta-est-investigatio-rerum-occultissimarum-negat-enim-praeter-tenuissimo-victu-id-est-contemptissimis-escis-et-potionibus-minorem-voluptatem-percipi-quam-rebus-exquisitissimis-ad-epulandum-non-enim-iam-stirpis-bonum-quaeret-sed-ista-animalis-qui-autem-esse-poteris-nisi-te-amor-ipse-ceperit-sic-igitur-in-homine-perfectio-ista-in-eo-potissimum-quod-est-optimum-id-est-in-virtute-laudatur-disputari-sine-potissimum-p-p-sin-tantum-modo-ad-indicia-veteris-memoriae-cognoscenda-curiosorum-haec-et-tu-ita-posuisti-et-verba-vestra-sunt-idemne-potest-esse-dies-saepius-qui-semel-fuit-ampulla-enim-sit-necne-sit-quis-non-iure-optimo-irrideatur-si-laboret-ego-vero-volo-in-virtute-vim-esse-quam-maximam-serpere-anguiculos-nare-anaticulas-evolare-merulas-cornibus-uti-videmus-boves-nepas-aculeis-archytam-qua-ex-cognitione-facilior-facta-est-investiga-p
-: ""
+: 最高の法務官の総括として、また、最高の期間を過ごしてください。現在のタレントとアーキタムの投稿。 Qua ex cognitione ...
 story: 話
 strive-not-to-be-a-success-but-rather-to-be-of-value: 成功することを目指すのではなく、価値のある人間になることを目指す
 subscribe: 購読する
 that-which-does-not-kill-us-makes-us-stronger: 私たちを殺さないものは私たちを強くする
-the-way-i-see-it-every-life-is-a-pile-of-good-things: ""
+the-way-i-see-it-every-life-is-a-pile-of-good-things: 私の見方では、どの人生も良いことの山です
 travel: 旅行
-vonge-blog-features-productivity-tips-inspiration-and-strategies-for-massive-profits-find-out-how-to-set-up-a-successful-blog-or-how-to-make-yours-even-better: ""
-you-must-be-the-change-you-wish-to-see-in-the-world: ""
+vonge-blog-features-productivity-tips-inspiration-and-strategies-for-massive-profits-find-out-how-to-set-up-a-successful-blog-or-how-to-make-yours-even-better: >-
+  Vonge
+  ブログでは、生産性、ヒント、インスピレーション、巨額の利益を生み出す戦略を特集しています。成功するブログをセットアップする方法、またはブログをさらに改善する方法をご覧ください。
+you-must-be-the-change-you-wish-to-see-in-the-world: あなたは世界の変化を望んでいるはずです
