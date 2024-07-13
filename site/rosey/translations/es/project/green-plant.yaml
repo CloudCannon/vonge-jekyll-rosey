@@ -113,10 +113,10 @@ _inputs:
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/project/green-plant#:~:text\
       =Subscribe)"
-email-address: Dirección de correo electrónico
-email-input-placeholder: Su dirección de correo electrónico
-green-plant: Planta verde
-join-my-mailing-list: Únete a mi lista de correo
+email-address: ""
+email-input-placeholder: ""
+green-plant: ""
+join-my-mailing-list: ""
 photography: ""
 static: ""
-subscribe: Suscribir
+subscribe: ""

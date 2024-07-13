@@ -99,10 +99,6 @@
 		"original": "You must be the change you wish to see in the world",
 		"value": "You must be the change you wish to see in the world"
 	},
-	"elements": {
-		"original": "Elements",
-		"value": "Elements"
-	},
 	"MC3PyHtVr6QZLzjZ2JRz2bR1FDUIOcj9tCMXEczuLiY": {
 		"original": "",
 		"value": ""
@@ -218,6 +214,10 @@
 	"your-name-placeholder": {
 		"original": "Your name...",
 		"value": "あなたの名前..."
+	},
+	"elements": {
+		"original": "Elements",
+		"value": "Elements"
 	},
 	"desk-setup": {
 		"original": "Desk setup",

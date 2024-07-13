@@ -11,15 +11,15 @@ _inputs:
             [elements/](https://brisk-smokescreen.cloudvent.net/elements/)
           inputs:
             - elements
-            - email-address
-            - email-input-placeholder
-            - join-my-mailing-list
             - markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab
-            - subscribe
         - heading: Already translated (jp)
           comment: Text already translated on
             [elements/](https://brisk-smokescreen.cloudvent.net/elements/)
-          inputs: []
+          inputs:
+            - email-address
+            - email-input-placeholder
+            - join-my-mailing-list
+            - subscribe
   elements:
     label: Elements
     hidden: false

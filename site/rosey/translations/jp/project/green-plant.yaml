@@ -113,10 +113,10 @@ _inputs:
     comment: "[See on
       page](https://brisk-smokescreen.cloudvent.net/project/green-plant#:~:text\
       =Subscribe)"
-email-address: 電子メールアドレス
-email-input-placeholder: あなたのメールアドレス
-green-plant: 緑の植物
-join-my-mailing-list: 私のメーリングリストに参加してください
+email-address: ""
+email-input-placeholder: ""
+green-plant: ""
+join-my-mailing-list: ""
 photography: ""
 static: ""
-subscribe: 購読する
+subscribe: ""

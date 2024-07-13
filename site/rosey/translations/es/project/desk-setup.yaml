@@ -132,11 +132,11 @@ _inputs:
       page](https://brisk-smokescreen.cloudvent.net/project/desk-setup#:~:text=\
       Subscribe)"
 desk-setup: ""
-email-address: Dirección de correo electrónico
-email-input-placeholder: Su dirección de correo electrónico
-join-my-mailing-list: Únete a mi lista de correo
+email-address: ""
+email-input-placeholder: ""
+join-my-mailing-list: ""
 next-project: ""
 photography: ""
 prague-city: ""
 static: ""
-subscribe: Suscribir
+subscribe: ""

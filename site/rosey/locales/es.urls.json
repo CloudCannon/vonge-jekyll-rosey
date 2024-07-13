@@ -7,13 +7,13 @@
 		"original": "blog/index.html",
 		"value": "blog/index.html"
 	},
-	"index.html": {
-		"original": "index.html",
-		"value": "index.html"
-	},
 	"elements/index.html": {
 		"original": "elements/index.html",
 		"value": "elements/index.html"
+	},
+	"index.html": {
+		"original": "index.html",
+		"value": "index.html"
 	},
 	"projects/index.html": {
 		"original": "projects/index.html",
@@ -28,26 +28,14 @@
 	"tag/notes/index.html": {
 		"value": "tag/notes.html"
 	},
-	"tag/story/index.html": {
-		"value": "tag/story.html"
-	},
 	"tag/rest/index.html": {
 		"value": "tag/rest.html"
 	},
+	"tag/story/index.html": {
+		"value": "tag/story.html"
+	},
 	"tag/travel/index.html": {
 		"value": "tag/travel.html"
-	},
-	"schemas/post/index.html": {
-		"value": "schemas/post.html"
-	},
-	"schemas/page/index.html": {
-		"value": "schemas/page.html"
-	},
-	"schemas/project/index.html": {
-		"value": "schemas/project.html"
-	},
-	"schemas/testimonial/index.html": {
-		"value": "schemas/testimonial.html"
 	},
 	"project/antelope-anyon/index.html": {
 		"value": "project/antelope-anyon.html"
@@ -58,11 +46,11 @@
 	"project/desk-setup/index.html": {
 		"value": "project/desk-setup.html"
 	},
-	"project/green-plant/index.html": {
-		"value": "project/green-plant.html"
-	},
 	"project/mountains/index.html": {
 		"value": "project/mountains.html"
+	},
+	"project/green-plant/index.html": {
+		"value": "project/green-plant.html"
 	},
 	"project/prague-city/index.html": {
 		"value": "project/prague-city.html"
@@ -70,11 +58,11 @@
 	"project/quiet-lake/index.html": {
 		"value": "project/quiet-lake.html"
 	},
-	"project/the-rocks/index.html": {
-		"value": "project/the-rocks.html"
-	},
 	"project/sea-and-rest/index.html": {
 		"value": "project/sea-and-rest.html"
+	},
+	"project/the-rocks/index.html": {
+		"value": "project/the-rocks.html"
 	},
 	"blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": {
 		"value": "blog/believe-and-act-as-if-it-were-impossible-to-fail.html"
@@ -88,11 +76,11 @@
 	"blog/it-is-never-too-late-to-be-what-you-might-have-been/index.html": {
 		"value": "blog/it-is-never-too-late-to-be-what-you-might-have-been.html"
 	},
-	"blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": {
-		"value": "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html"
-	},
 	"blog/life-shrinks-or-expands-in-proportion-to-one-s-courage/index.html": {
 		"value": "blog/life-shrinks-or-expands-in-proportion-to-one-s-courage.html"
+	},
+	"blog/strive-not-to-be-a-success-but-rather-to-be-of-value/index.html": {
+		"value": "blog/strive-not-to-be-a-success-but-rather-to-be-of-value.html"
 	},
 	"blog/that-which-does-not-kill-us-makes-us-stronger/index.html": {
 		"value": "blog/that-which-does-not-kill-us-makes-us-stronger.html"

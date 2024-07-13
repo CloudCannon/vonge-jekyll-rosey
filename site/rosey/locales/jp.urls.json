@@ -7,20 +7,20 @@
 		"original": "blog/index.html",
 		"value": "blog/index.html"
 	},
-	"elements/index.html": {
-		"original": "elements/index.html",
-		"value": "elements/index.html"
-	},
 	"index.html": {
 		"original": "index.html",
 		"value": "index.html"
 	},
-	"projects/index.html": {
-		"original": "projects/index.html",
-		"value": "projects/index.html"
+	"elements/index.html": {
+		"original": "elements/index.html",
+		"value": "elements/index.html"
 	},
 	"tag/life/index.html": {
 		"value": "tag/life.html"
+	},
+	"projects/index.html": {
+		"original": "projects/index.html",
+		"value": "projects/index.html"
 	},
 	"tag/lifestyle/index.html": {
 		"value": "tag/lifestyle.html"
@@ -36,18 +36,6 @@
 	},
 	"tag/travel/index.html": {
 		"value": "tag/travel.html"
-	},
-	"schemas/page/index.html": {
-		"value": "schemas/page.html"
-	},
-	"schemas/post/index.html": {
-		"value": "schemas/post.html"
-	},
-	"schemas/project/index.html": {
-		"value": "schemas/project.html"
-	},
-	"schemas/testimonial/index.html": {
-		"value": "schemas/testimonial.html"
 	},
 	"project/antelope-anyon/index.html": {
 		"value": "project/antelope-anyon.html"
