@@ -28,11 +28,11 @@
 	"tag/notes/index.html": {
 		"value": "tag/notes.html"
 	},
-	"tag/rest/index.html": {
-		"value": "tag/rest.html"
-	},
 	"tag/story/index.html": {
 		"value": "tag/story.html"
+	},
+	"tag/rest/index.html": {
+		"value": "tag/rest.html"
 	},
 	"tag/travel/index.html": {
 		"value": "tag/travel.html"
@@ -40,14 +40,11 @@
 	"project/antelope-anyon/index.html": {
 		"value": "project/antelope-anyon.html"
 	},
-	"project/big-airplane/index.html": {
-		"value": "project/big-airplane.html"
-	},
 	"project/desk-setup/index.html": {
 		"value": "project/desk-setup.html"
 	},
-	"project/mountains/index.html": {
-		"value": "project/mountains.html"
+	"project/big-airplane/index.html": {
+		"value": "project/big-airplane.html"
 	},
 	"project/green-plant/index.html": {
 		"value": "project/green-plant.html"
@@ -55,14 +52,17 @@
 	"project/prague-city/index.html": {
 		"value": "project/prague-city.html"
 	},
-	"project/quiet-lake/index.html": {
-		"value": "project/quiet-lake.html"
+	"project/mountains/index.html": {
+		"value": "project/mountains.html"
 	},
 	"project/sea-and-rest/index.html": {
 		"value": "project/sea-and-rest.html"
 	},
 	"project/the-rocks/index.html": {
 		"value": "project/the-rocks.html"
+	},
+	"project/quiet-lake/index.html": {
+		"value": "project/quiet-lake.html"
 	},
 	"blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": {
 		"value": "blog/believe-and-act-as-if-it-were-impossible-to-fail.html"

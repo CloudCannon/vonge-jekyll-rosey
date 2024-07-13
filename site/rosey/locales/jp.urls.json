@@ -7,26 +7,26 @@
 		"original": "blog/index.html",
 		"value": "blog/index.html"
 	},
-	"index.html": {
-		"original": "index.html",
-		"value": "index.html"
-	},
 	"elements/index.html": {
 		"original": "elements/index.html",
 		"value": "elements/index.html"
 	},
-	"tag/life/index.html": {
-		"value": "tag/life.html"
+	"index.html": {
+		"original": "index.html",
+		"value": "index.html"
 	},
 	"projects/index.html": {
 		"original": "projects/index.html",
 		"value": "projects/index.html"
 	},
-	"tag/lifestyle/index.html": {
-		"value": "tag/lifestyle.html"
+	"tag/life/index.html": {
+		"value": "tag/life.html"
 	},
 	"tag/notes/index.html": {
 		"value": "tag/notes.html"
+	},
+	"tag/lifestyle/index.html": {
+		"value": "tag/lifestyle.html"
 	},
 	"tag/rest/index.html": {
 		"value": "tag/rest.html"
@@ -64,11 +64,11 @@
 	"project/the-rocks/index.html": {
 		"value": "project/the-rocks.html"
 	},
-	"blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": {
-		"value": "blog/believe-and-act-as-if-it-were-impossible-to-fail.html"
-	},
 	"blog/do-what-you-can-with-what-you-have-where-you-are/index.html": {
 		"value": "blog/do-what-you-can-with-what-you-have-where-you-are.html"
+	},
+	"blog/believe-and-act-as-if-it-were-impossible-to-fail/index.html": {
+		"value": "blog/believe-and-act-as-if-it-were-impossible-to-fail.html"
 	},
 	"blog/everything-has-beauty-but-not-everyone-can-see/index.html": {
 		"value": "blog/everything-has-beauty-but-not-everyone-can-see.html"
