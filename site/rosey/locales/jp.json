@@ -1,28 +1,4 @@
 {
-	"about": {
-		"original": "About",
-		"value": "について"
-	},
-	"email-address": {
-		"original": "Email address",
-		"value": "電子メールアドレス"
-	},
-	"email-input-placeholder": {
-		"original": "Your email address",
-		"value": "あなたのメールアドレス"
-	},
-	"join-my-mailing-list": {
-		"original": "Join my mailing list",
-		"value": "私のメーリングリストに参加してください"
-	},
-	"markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab": {
-		"original": "\n    <p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p><blockquote><p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p></blockquote><p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n  ",
-		"value": "<p>オムニ・エニム・アート・ベル・スタジオ・ベル・クアヴィス・サイエンティア・ヴェラスでは、イプサ・ヴィルトゥートの最適なキッドケ・エスト、クォード・エスト、ユット・ディクシ、ハーベレ・エア、クエ・セカンダム・ナチュラム・シント、ベル・オムニア・ベル・プルリマ、そして最大値を実現します。絶対に必要な情報を正直に入力してください。最適な時間、平均的な評価、平凡なアミコ。問題を解決するために必要な情報を正確に収集します。 An、partus ancillae は fructum habendus に座っており、disseretur inter principes civitatis、P. Ut in geometria、prima si dederis、danda suntomnia です。常にあらゆる問題に対応し、あらゆる問題に対応します。ナム・キュイ・プロポジト・シンテロ・コンサバティオ・スイ、必要なエスト・ヒューイック・パート・クオケ・スイ・カラス・スオ・ジェネレ・ラウダビレス・ラリシムム・サーバリ・ティネレ。</p>\n<blockquote>\n<p>長く生きれば生きるほど、自分が何事においても決して間違っているわけではないこと、そして自分の観念を確かめるために謙虚に費やしてきたすべての苦労は時間を無駄にしているだけだということがますます分かるようになります。</p>\n</blockquote>\n<p>エゴ・クオケ、無罪判決、ディディセリム・リベンティウス・シ・クイド・アトゥレリス、クアム・テ・リプリヘンダリム。私は、これまでに経験したことはありませんが、私は常に知識を持っており、知識を持っており、知識を持っています。 Id quaeris、inquam、in quo、utrumspondero、verse te huc atque illuc necesse est. Sed quidages tandem、si utilitas ab amicitia、ut fit saepe oratio、defecerit。あらゆる情報を収集し、さまざまな情報を収集し、すべての情報を収集し、すべての情報を確認します。自然の中で生きていくために必要な知識。 Quod enim dissolutum sit、id esse sine sensu、quod autem sine sensu sit、id nihil ad nos pertinereomnino。 Idne consensisse de Calatino plurimas gentis cantibus arbitramur、primarium Populi fuisse、quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utramタンデムリングアムネスシオ。エピクロスの魅力を最大限に引き出します。</p>\n"
-	},
-	"subscribe": {
-		"original": "Subscribe",
-		"value": "購読する"
-	},
 	"believe-and-act-as-if-it-were-impossible-to-fail": {
 		"original": "Believe and act as if it were impossible to fail",
 		"value": "あたかも失敗することは不可能であるかのように信じて行動する"
@@ -39,6 +15,14 @@
 		"original": "Do what you can, with what you have, where you are",
 		"value": "今いる場所で、持っているものを使って、できることをする"
 	},
+	"email-address": {
+		"original": "Email address",
+		"value": "電子メールアドレス"
+	},
+	"email-input-placeholder": {
+		"original": "Your email address",
+		"value": "あなたのメールアドレス"
+	},
 	"everything-has-beauty-but-not-everyone-can-see": {
 		"original": "Everything has beauty, but not everyone can see",
 		"value": "すべてのものには美しさがありますが、誰もがそれを見ることができるわけではありません"
@@ -46,6 +30,10 @@
 	"it-is-never-too-late-to-be-what-you-might-have-been": {
 		"original": "It is never too late to be what you might have been",
 		"value": "なりたかった自分になるのに遅すぎるということはありません"
+	},
+	"join-my-mailing-list": {
+		"original": "Join my mailing list",
+		"value": "私のメーリングリストに参加してください"
 	},
 	"life": {
 		"original": "life",
@@ -79,6 +67,10 @@
 		"original": "Strive not to be a success, but rather to be of value",
 		"value": "成功することを目指すのではなく、価値のある人間になることを目指す"
 	},
+	"subscribe": {
+		"original": "Subscribe",
+		"value": "購読する"
+	},
 	"that-which-does-not-kill-us-makes-us-stronger": {
 		"original": "That which does not kill us makes us stronger",
 		"value": "私たちを殺さないものは私たちを強くする"
@@ -98,6 +90,14 @@
 	"you-must-be-the-change-you-wish-to-see-in-the-world": {
 		"original": "You must be the change you wish to see in the world",
 		"value": "あなたは世界の変化を望んでいるはずです"
+	},
+	"about": {
+		"original": "About",
+		"value": "について"
+	},
+	"markdown:p-in-omni-enim-arte-vel-studio-vel-quavis-scientia-velas-in-ipsa-virtute-optimum-quidque-est-quod-est-ut-dixi-hab": {
+		"original": "\n    <p>In omni enim arte vel studio vel quavis scientia velas in ipsa virtute optimum quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitned in fructum habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sintero conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles rarissimum servari tinere.</p><blockquote><p>The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!</p></blockquote><p>Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. I am quod insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicurus voluptate terra perfectio.</p>\n  ",
+		"value": "<p>オムニ・エニム・アート・ベル・スタジオ・ベル・クアヴィス・サイエンティア・ヴェラスでは、イプサ・ヴィルトゥートの最適なキッドケ・エスト、クォード・エスト、ユット・ディクシ、ハーベレ・エア、クエ・セカンダム・ナチュラム・シント、ベル・オムニア・ベル・プルリマ、そして最大値を実現します。絶対に必要な情報を正直に入力してください。最適な時間、平均的な評価、平凡なアミコ。問題を解決するために必要な情報を正確に収集します。 An、partus ancillae は fructum habendus に座っており、disseretur inter principes civitatis、P. Ut in geometria、prima si dederis、danda suntomnia です。常にあらゆる問題に対応し、あらゆる問題に対応します。ナム・キュイ・プロポジト・シンテロ・コンサバティオ・スイ、必要なエスト・ヒューイック・パート・クオケ・スイ・カラス・スオ・ジェネレ・ラウダビレス・ラリシムム・サーバリ・ティネレ。</p>\n<blockquote>\n<p>長く生きれば生きるほど、自分が何事においても決して間違っているわけではないこと、そして自分の観念を確かめるために謙虚に費やしてきたすべての苦労は時間を無駄にしているだけだということがますます分かるようになります。</p>\n</blockquote>\n<p>エゴ・クオケ、無罪判決、ディディセリム・リベンティウス・シ・クイド・アトゥレリス、クアム・テ・リプリヘンダリム。私は、これまでに経験したことはありませんが、私は常に知識を持っており、知識を持っており、知識を持っています。 Id quaeris、inquam、in quo、utrumspondero、verse te huc atque illuc necesse est. Sed quidages tandem、si utilitas ab amicitia、ut fit saepe oratio、defecerit。あらゆる情報を収集し、さまざまな情報を収集し、すべての情報を収集し、すべての情報を確認します。自然の中で生きていくために必要な知識。 Quod enim dissolutum sit、id esse sine sensu、quod autem sine sensu sit、id nihil ad nos pertinereomnino。 Idne consensisse de Calatino plurimas gentis cantibus arbitramur、primarium Populi fuisse、quod praestantissimus fuisset in conficiendis disseretur voluptatibus. Utramタンデムリングアムネスシオ。エピクロスの魅力を最大限に引き出します。</p>\n"
 	},
 	"elements": {
 		"original": "Elements",
