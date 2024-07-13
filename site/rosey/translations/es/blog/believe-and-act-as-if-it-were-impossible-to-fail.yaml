@@ -2,19 +2,20 @@ urlTranslation: blog/believe-and-act-as-if-it-were-impossible-to-fail.html
 _inputs:
   $:
     type: object
-    comment: "[See
-      blog/believe-and-act-as-if-it-were-impossible-to-fail](https://brisk-smok\
-      escreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fa\
-      il)"
+    comment: >-
+      [See
+      blog/believe-and-act-as-if-it-were-impossible-to-fail](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail)
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
-          comment: Text to translate on
+          comment: >-
+            Text to translate on
             [blog/believe-and-act-as-if-it-were-impossible-to-fail](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail)
           inputs:
             - believe-and-act-as-if-it-were-impossible-to-fail
-            - bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward
+            - >-
+              bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward
             - email-address
             - email-input-placeholder
             - join-my-mailing-list
@@ -30,7 +31,8 @@ _inputs:
             - share-pinterest-title
             - share-this-post
             - share-twitter-title
-            - static:/blog/believe-and-act-as-if-it-were-impossible-to-fail-content
+            - >-
+              static:/blog/believe-and-act-as-if-it-were-impossible-to-fail-content
             - story
             - subscribe
             - that-which-does-not-kill-us-makes-us-stronger
@@ -39,7 +41,8 @@ _inputs:
             - you-may-also-like
             - you-must-be-the-change-you-wish-to-see-in-the-world
         - heading: Already translated (es)
-          comment: Text already translated on
+          comment: >-
+            Text already translated on
             [blog/believe-and-act-as-if-it-were-impossible-to-fail](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail)
           inputs: []
   believe-and-act-as-if-it-were-impossible-to-fail:
@@ -47,10 +50,9 @@ _inputs:
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Believe%20and%20act,impossible%20to%20\
-      fail)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Believe%20and%20act,impossible%20to%20fail)
     context:
       open: false
       title: Untranslated Text
@@ -61,57 +63,56 @@ _inputs:
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Bring%20to%20the,day%20going%20forward\
-      )"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Bring%20to%20the,day%20going%20forward)
     context:
       open: false
       title: Untranslated Text
       icon: translate
-      content: Bring to the table win-win survival strategies to ensure proactive
+      content: >-
+        Bring to the table win-win survival strategies to ensure proactive
         domination. At the end of the day, going forward.
   email-address:
     label: Email address
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Email%20address)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Email%20address)
   email-input-placeholder:
     label: Your email address
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Your%20email%20address)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Your%20email%20address)
   join-my-mailing-list:
     label: Join my mailing list
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Join%20my%20mailing%20list)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Join%20my%20mailing%20list)
   life:
     label: life
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=life)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=life)
   life-shrinks-or-expands-in-proportion-to-one-s-courage:
     label: Life shrinks or expands in proportion to o...
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Life%20shrinks%20or,to%20one%E2%80%99s\
-      %20courage)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Life%20shrinks%20or,to%20one%E2%80%99s%20courage)
     context:
       open: false
       title: Untranslated Text
@@ -122,81 +123,81 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=lifestyle)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=lifestyle)
   next-post:
     label: Next post
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Next%20post)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Next%20post)
   prev-post:
     label: Prev post
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Prev%20post)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Prev%20post)
   rest:
     label: rest
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=rest)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=rest)
   see-all:
     label: See all travel
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=See%20all%20travel)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=See%20all%20travel)
   share-facebook-title:
     label: Share on Facebook
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Share%20on%20Facebook)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Share%20on%20Facebook)
   share-linkedin-title:
     label: Share on LinkedIn
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Share%20on%20LinkedIn)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Share%20on%20LinkedIn)
   share-pinterest-title:
     label: Share on Pinterest
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Share%20on%20Pinterest)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Share%20on%20Pinterest)
   share-this-post:
     label: Share this Post
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Share%20this%20Post)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Share%20this%20Post)
   share-twitter-title:
     label: Share on Twitter
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Share%20on%20Twitter)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Share%20on%20Twitter)
   static:/blog/believe-and-act-as-if-it-were-impossible-to-fail-content:
     label: In qua quid est boni praeter summam volupt...
     hidden: false
@@ -218,10 +219,9 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=In%20qua%20quid,facta%20est%20investig\
-      a)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=In%20qua%20quid,facta%20est%20investiga)
     context:
       open: false
       title: Untranslated Text
@@ -301,26 +301,25 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=story)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=story)
   subscribe:
     label: Subscribe
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=Subscribe)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=Subscribe)
   that-which-does-not-kill-us-makes-us-stronger:
     label: That which does not kill us makes us stron...
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=That%20which%20does,makes%20us%20stron\
-      ger)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=That%20which%20does,makes%20us%20stronger)
     context:
       open: false
       title: Untranslated Text
@@ -331,9 +330,9 @@ _inputs:
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=The%20way%20I,of%20good%20things)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=The%20way%20I,of%20good%20things)
     context:
       open: false
       title: Untranslated Text
@@ -344,52 +343,118 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=travel)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=travel)
   you-may-also-like:
     label: You may also like
     hidden: false
     type: text
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=You%20may%20also%20like)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=You%20may%20also%20like)
   you-must-be-the-change-you-wish-to-see-in-the-world:
     label: You must be the change you wish to see in ...
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on
-      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-\
-      it-were-impossible-to-fail#:~:text=You%20must%20be,in%20the%20world)"
+    comment: >-
+      [See on
+      page](https://brisk-smokescreen.cloudvent.net/blog/believe-and-act-as-if-it-were-impossible-to-fail#:~:text=You%20must%20be,in%20the%20world)
     context:
       open: false
       title: Untranslated Text
       icon: translate
       content: You must be the change you wish to see in the world
-believe-and-act-as-if-it-were-impossible-to-fail: ""
-bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward: ""
-email-address: ""
-email-input-placeholder: ""
-join-my-mailing-list: ""
-life: ""
-life-shrinks-or-expands-in-proportion-to-one-s-courage: ""
-lifestyle: ""
-next-post: ""
-prev-post: ""
-rest: ""
-see-all: ""
-share-facebook-title: ""
-share-linkedin-title: ""
-share-pinterest-title: ""
-share-this-post: ""
-share-twitter-title: ""
-static:/blog/believe-and-act-as-if-it-were-impossible-to-fail-content: ""
-story: ""
-subscribe: ""
-that-which-does-not-kill-us-makes-us-stronger: ""
-the-way-i-see-it-every-life-is-a-pile-of-good-things: ""
-travel: ""
-you-may-also-like: ""
-you-must-be-the-change-you-wish-to-see-in-the-world: ""
+believe-and-act-as-if-it-were-impossible-to-fail: Cree y actúa como si fuera imposible fracasar
+bring-to-the-table-win-win-survival-strategies-to-ensure-proactive-domination-at-the-end-of-the-day-going-forward: >-
+  Ponga sobre la mesa estrategias de supervivencia beneficiosas para todos para
+  garantizar una dominación proactiva. Al final del día, de cara al futuro.
+email-address: Dirección de correo electrónico
+email-input-placeholder: Su dirección de correo electrónico
+join-my-mailing-list: Únete a mi lista de correo
+life: vida
+life-shrinks-or-expands-in-proportion-to-one-s-courage: La vida se reduce o se expande en proporción al coraje de uno.
+lifestyle: estilo de vida
+next-post: Siguiente publicación
+prev-post: Publicación anterior
+rest: descansar
+see-all: Ver todos los viajes
+share-facebook-title: Compartir en Facebook
+share-linkedin-title: Compartir en LinkedIn
+share-pinterest-title: Compartir en Pinterest
+share-this-post: Compartir esta publicacion
+share-twitter-title: Compartir en Twitter
+static:/blog/believe-and-act-as-if-it-were-impossible-to-fail-content: >-
+  In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post
+  Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum
+  occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et
+  potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad
+  epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse
+  poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo
+  potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis
+  investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar,
+  praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus
+  huius modi quiddam vidisse videatur in nis.
+
+
+  ![Woman with child](/images/image-example-1.jpg "Woman with child")
+
+
+  In omni enim arte vel studio vel quavis scientia velas in ipsa virtute óptimo
+  quidque est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel
+  omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque
+  absolutam. Tecum optime, deindestum etiam cum mediocri amico. Neque enim
+  disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari
+  potest. An, partus ancillae sitned in fructum habendus, disseretur inter
+  principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia.
+  Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito
+  sintero conservatio sui, necesse est huic partes quoque sui caras suo genere
+  laudabiles rarissimum servari tinere.
+
+
+  > Cuanto más vivo, más me doy cuenta de que nunca me equivoco en nada y que
+  todos los esfuerzos que me he esforzado tan humildemente para verificar mis
+  nociones sólo han hecho perder el tiempo.
+
+
+  Ego quoque, inquit, didicerim libentius si quid attuleris, quam te
+  reprehenderim. Soy quod insipientes alios ita esse, ut nullo modo ad
+  sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam
+  consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque
+  illuc necesse est. Sed quid age tandem, si utilitas ab amicitia, ut fit saepe
+  oratio, defecerit. Sed isti ipsi, qui voluptate et dolore omnia metiuntur,
+  nonne clamant sapienti plus semper adesse quod velit quam quod nolit. Quae
+  quidem sapientes sequuntur duce natura tamquam videntes. Quod enim dissolutum
+  sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere
+  omnino. Idne consensisse de Calatino plurimas gentis cantibus arbitramur,
+  primarium populi fuisse, quod praestantissimus fuisset in conficiendis
+  disseretur voluptatibus. Utram tandem linguam nescio. Quod dicit Epicuro
+  voluptate terra perfectio.
+
+
+  ![Beach](/images/image-example-2.jpg "Beach")
+
+
+  Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat
+  enim praeter tenuissimo victu, id est contemptissimis escis et potionibus,
+  minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim
+  iam stirpis bonum quaeret, sed ista animalis. Qui autem esse poteris, nisi te
+  amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod
+  est optimum, id est in virtute, laudatur disputari sine potissimum.
+
+
+  Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et
+  tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui
+  semel fuit. Ampulla enim sit necne sit, quis non iure optimo irrideatur, si
+  laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos,
+  nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis.
+  Archytam? Qua ex cognitione facilior facta est investiga.
+story: historia
+subscribe: Suscribir
+that-which-does-not-kill-us-makes-us-stronger: Lo que no nos mata nos hace más fuertes
+the-way-i-see-it-every-life-is-a-pile-of-good-things: A mi modo de ver, cada vida es un montón de cosas buenas.
+travel: viajar
+you-may-also-like: También te puede interesar
+you-must-be-the-change-you-wish-to-see-in-the-world: Debes ser el cambio que deseas ver en el mundo.
