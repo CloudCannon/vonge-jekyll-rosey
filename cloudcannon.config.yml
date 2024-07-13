@@ -28,7 +28,7 @@ collections_config:
     disable_file_actions: false
     schemas:
       default:
-        path: site/schemas/post.md
+        path: '.cloudcannon/schemas/post.md
   pages:
     path: collections/_pages
     output: true
@@ -38,7 +38,7 @@ collections_config:
     disable_file_actions: false
     schemas:
       default:
-        path: site/schemas/page.html
+        path: '.cloudcannon/schemas/page.html
   projects:
     path: collections/_projects
     output: true
@@ -62,7 +62,7 @@ collections_config:
     disable_file_actions: false
     schemas:
       default:
-        path: site/schemas/project.md
+        path: '.cloudcannon/schemas/project.md
   testimonials:
     path: collections/_testimonials
     output: false
@@ -97,7 +97,7 @@ collections_config:
     disable_file_actions: false
     schemas:
       default:
-        path: site/schemas/testimonial.md
+        path: '.cloudcannon/schemas/testimonial.md
   drafts:
     path: collections/_drafts
     output: true
